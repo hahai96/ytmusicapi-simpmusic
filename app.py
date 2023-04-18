@@ -168,7 +168,7 @@ def get_explore_mood():
         title = nav(item, ["musicNavigationButtonRenderer", "buttonText", "runs", 0, "text"]).strip()
         endpnt = nav(item, ["musicNavigationButtonRenderer", "clickCommand", "browseEndpoint", "browseId"])
         params = nav(item, ["musicNavigationButtonRenderer", "clickCommand", "browseEndpoint", "params"])
-        moods[title] = {"params": params, "endpoint": endpnt}
+        moods[title] = {"params": params}
     header_mood = nav(moodsmoment, ["gridRenderer", "header","gridHeaderRenderer", "title", "runs", 0, "text"])
     genres = nav(response, SINGLE_COLUMN_TAB + SECTION_LIST)[1]
     items_genres = nav(genres, ["gridRenderer", "items"])
@@ -176,9 +176,9 @@ def get_explore_mood():
         title = nav(item, ["musicNavigationButtonRenderer", "buttonText", "runs", 0, "text"]).strip()
         endpnt = nav(item, ["musicNavigationButtonRenderer", "clickCommand", "browseEndpoint", "browseId"])
         params = nav(item, ["musicNavigationButtonRenderer", "clickCommand", "browseEndpoint", "params"])
-        genre[title] = {"params": params, "endpoint": endpnt}
+        genre[title] = {"params": params}
     header_genres = nav(genres, ["gridRenderer", "header","gridHeaderRenderer", "title", "runs", 0, "text"])
-    result = [{header_mood: [moods]}, {header_genres: [genre]}]
+    result = {header_mood: [moods], header_genres: [genre]}
     return convert_to_json(result)
             # {
         #     'For you': [
@@ -218,11 +218,14 @@ def get_explore_mood():
 @app.route('/explore/genre')
 def get_explore_playlist():
     params = request.args.get('p')
-    endpoint = request.args.get('ep')
+    endpoint = "FEmusic_moods_and_genres_category"
     response_1 = ytmusic._send_request("browse", {"browseId": endpoint, "params": params})
     header = nav(response_1, ["header","musicHeaderRenderer", "title", "runs", 0, "text"])
     items = nav(response_1, ["contents", "singleColumnBrowseResultsRenderer", "tabs", 0, "tabRenderer", "content", "sectionListRenderer", "contents"])
     result = {}
+    items_list = []
+    items_song_list = []
+    items_playlist_list = []
     for item in items:
         #Today's Dance Hits
         key = []
@@ -244,21 +247,53 @@ def get_explore_playlist():
         item_header = nav(mCSR,["header", key_header,"title", "runs", 0, "text"])
         item_contents = nav(mCSR, key_content)
         item_contents_list = []
+        typeItem = ""
+        item_content_title = {}
+        item_content_song = {}
         for item_content in item_contents:
             #Chroma: Today's Dance 
-            item_content_title = nav(item_content, ["musicTwoRowItemRenderer", "title", "runs", 0, "text"])
-            thumbnail = nav(item_content, ["musicTwoRowItemRenderer", "thumbnailRenderer", "musicThumbnailRenderer", "thumbnail", "thumbnails"])
-            subtitle = nav(item_content, ["musicTwoRowItemRenderer", "subtitle", "runs", 0, "text"]) + nav(item_content, ["musicTwoRowItemRenderer", "subtitle", "runs", 1, "text"]) + nav(item_content, ["musicTwoRowItemRenderer", "subtitle", "runs", 2, "text"])
-            playlistBrowseId = nav(item_content, ["musicTwoRowItemRenderer", "navigationEndpoint", "browseEndpoint", "browseId"])
-            item_content_dict = {"title": item_content_title, "subtitle": subtitle, "thumbnail": thumbnail, "playlistBrowseId": playlistBrowseId}
-            item_contents_list.append(item_content_dict)
-        item_dict = {"header": item_header, "browseId": item_browse_id, "params": item_params, "contents": item_contents_list}
-    result = {"header": header, "items": item_dict}
+            type = ""
+            thumbnail = []
+            playlistBrowseId = ""
+            if ("musicResponsiveListItemRenderer" in item_content):
+                #Song
+                song_name = nav(item_content, ["musicResponsiveListItemRenderer", "flexColumns", 0, "musicResponsiveListItemFlexColumnRenderer","text", "runs", 0, "text"])
+                song_artist = nav(item_content, ["musicResponsiveListItemRenderer", "flexColumns", 1,"musicResponsiveListItemFlexColumnRenderer","text", "runs", 0, "text"])
+                video_id = nav(item_content, ["musicResponsiveListItemRenderer", "flexColumns", 0, "musicResponsiveListItemFlexColumnRenderer","text", "runs", 0, "navigationEndpoint", "watchEndpoint", "videoId"])
+                thumbnail = nav(item_content, ["musicResponsiveListItemRenderer", "thumbnail", "musicThumbnailRenderer", "thumbnail", "thumbnails"])
+                type = "song"
+                typeItem="song"
+                item_content_song = {"song_name": song_name, "song_artist": song_artist, "video_id": video_id}
+            else:
+                thumbnail = nav(item_content, ["musicTwoRowItemRenderer", "thumbnailRenderer", "musicThumbnailRenderer", "thumbnail", "thumbnails"])
+                subtitle = ""
+                type = "playlist"
+                typeItem = "playlist"
+                for i in range(0, len(nav(item_content, ["musicTwoRowItemRenderer", "subtitle", "runs"]))):
+                    subtitle += nav(item_content, ["musicTwoRowItemRenderer", "subtitle", "runs", i, "text"])
+                #subtitle = nav(item_content, ["musicTwoRowItemRenderer", "subtitle", "runs", 0, "text"]) + nav(item_content, ["musicTwoRowItemRenderer", "subtitle", "runs", 1, "text"]) + nav(item_content, ["musicTwoRowItemRenderer", "subtitle", "runs", 2, "text"])
+                item_content_title = {"title": nav(item_content, ["musicTwoRowItemRenderer", "title", "runs", 0, "text"]), "subtitle": subtitle}
+                if ("browseEndpoint" in nav(item_content, ["musicTwoRowItemRenderer", "navigationEndpoint"])):
+                    playlistBrowseId = nav(item_content, ["musicTwoRowItemRenderer", "navigationEndpoint", "browseEndpoint", "browseId"])
+            if (type == "playlist"):
+                item_content_dict = {"title": item_content_title, "thumbnail": thumbnail, "playlistBrowseId": playlistBrowseId}
+                item_contents_list.append(item_content_dict)
+            else:
+                item_content_dict = {"song": item_content_song, "thumbnail": thumbnail}
+                item_contents_list.append(item_content_dict)
+        item_dict = {"header": item_header, "type":typeItem ,"contents": item_contents_list}
+        if typeItem == "song":
+            items_song_list.append(item_dict)
+        else:
+            items_playlist_list.append(item_dict)
+    itemsSong = items_song_list[0] if len(items_song_list) > 0 else None
+    itemsPlaylist = items_playlist_list[0] if len(items_playlist_list) > 0 else None
+    result = {"header": header, "itemsSong": itemsSong, "itemsPlaylist": itemsPlaylist}
     return convert_to_json(result)
 @app.route('/explore/mood')
 def get_explore_mood_playlist():
     params = request.args.get('p')
-    endpoint = request.args.get('ep')
+    endpoint = "FEmusic_moods_and_genres_category"
     response = ytmusic._send_request("browse", {"browseId": endpoint, "params": params})
     header = nav(response, ["header","musicHeaderRenderer", "title", "runs", 0, "text"])
     items = nav(response, ["contents", "singleColumnBrowseResultsRenderer", "tabs", 0, "tabRenderer", "content", "sectionListRenderer", "contents"])
@@ -266,17 +301,21 @@ def get_explore_mood_playlist():
     for item in items:
         key = []
         key_content = []
+        key_header = ""
         if ("musicCarouselShelfRenderer" in item):
             key = ["musicCarouselShelfRenderer"]
             key_content = ["contents"]
+            key_header = "musicCarouselShelfBasicHeaderRenderer"
         elif ("gridRenderer" in item):
             key = ["gridRenderer"]
             key_content = ["items"]
+            key_header = "gridHeaderRenderer"
         elif ("musicImmersiveCarouselShelfRenderer" in item):
             key = ["musicImmersiveCarouselShelfRenderer"]
             key_content = ["contents"]
+            key_header = "musicImmersiveCarouselShelfHeaderRenderer"
         mCSR = nav(item, key)
-        header = nav(mCSR, ["header", key[0],"title", "runs", 0, "text"])
+        header_item = nav(mCSR, ["header", key_header,"title", "runs", 0, "text"])
         contents = nav(mCSR, key_content)
         content_dict = []
         for content in contents:
@@ -287,7 +326,7 @@ def get_explore_mood_playlist():
             playlistBrowseId = nav(mTRIR, ["navigationEndpoint", "browseEndpoint", "browseId"])
             ctd = {"title": title, "subtitle": subtitle, "thumbnails": thumbnails, "playlistBrowseId": playlistBrowseId}
             content_dict.append(ctd)
-        item_dict = {"header": header, "contents": content_dict}
+        item_dict = {"header": header_item, "contents": content_dict}
         item_list.append(item_dict)
     result = {"header": header, "params": params, "endpoint": endpoint, "items": item_list}
     return convert_to_json(result)

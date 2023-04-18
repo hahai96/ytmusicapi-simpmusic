@@ -38,6 +38,9 @@ def info():
     return """YTMusic API from maxrave
     Thanks to @ytmusicapi, @spotipy, @billboard.py, @pytube"""
 
+@app.route('/log', methods=['GET'])
+def log():
+    return send_from_directory('', 'logs.json')
 #SEARCH
 @app.route('/search/', methods=['GET'])
 #q = query, f = filter
@@ -220,6 +223,8 @@ def get_explore_playlist():
     params = request.args.get('p')
     endpoint = "FEmusic_moods_and_genres_category"
     response_1 = ytmusic._send_request("browse", {"browseId": endpoint, "params": params})
+    with open("logs.json", "w") as f:
+        json.dump(response_1, f, indent= 4)
     header = nav(response_1, ["header","musicHeaderRenderer", "title", "runs", 0, "text"])
     items = nav(response_1, ["contents", "singleColumnBrowseResultsRenderer", "tabs", 0, "tabRenderer", "content", "sectionListRenderer", "contents"])
     result = {}

@@ -293,7 +293,7 @@ def get_explore_playlist():
             items_playlist_list.append(item_dict)
     itemsSong = items_song_list[0] if len(items_song_list) > 0 else None
     itemsPlaylist = items_playlist_list[0] if len(items_playlist_list) > 0 else None
-    result = {"header": header, "itemsSong": itemsSong, "itemsPlaylist": itemsPlaylist}
+    result = {"header": header, "itemsSong": itemsSong, "itemsPlaylist": items_playlist_list}
     return convert_to_json(result)
 @app.route('/explore/mood')
 def get_explore_mood_playlist():

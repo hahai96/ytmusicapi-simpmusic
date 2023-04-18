@@ -159,8 +159,8 @@ def get_thumbnails():
 @app.route('/explore/mood/title')
 def get_explore_mood():
     response = ytmusic._send_request("browse", {"browseId": "FEmusic_moods_and_genres"})
-    moods = {}
-    genre = {}
+    moods = []
+    genre = []
     array = nav(response, SINGLE_COLUMN_TAB + SECTION_LIST)
     moodsmoment = nav(response, SINGLE_COLUMN_TAB + SECTION_LIST)[0]
     items_mood = nav(moodsmoment, ["gridRenderer", "items"])
@@ -168,7 +168,7 @@ def get_explore_mood():
         title = nav(item, ["musicNavigationButtonRenderer", "buttonText", "runs", 0, "text"]).strip()
         endpnt = nav(item, ["musicNavigationButtonRenderer", "clickCommand", "browseEndpoint", "browseId"])
         params = nav(item, ["musicNavigationButtonRenderer", "clickCommand", "browseEndpoint", "params"])
-        moods[title] = {"params": params}
+        moods.append({"title": title, "params": params})
     header_mood = nav(moodsmoment, ["gridRenderer", "header","gridHeaderRenderer", "title", "runs", 0, "text"])
     genres = nav(response, SINGLE_COLUMN_TAB + SECTION_LIST)[1]
     items_genres = nav(genres, ["gridRenderer", "items"])
@@ -176,9 +176,9 @@ def get_explore_mood():
         title = nav(item, ["musicNavigationButtonRenderer", "buttonText", "runs", 0, "text"]).strip()
         endpnt = nav(item, ["musicNavigationButtonRenderer", "clickCommand", "browseEndpoint", "browseId"])
         params = nav(item, ["musicNavigationButtonRenderer", "clickCommand", "browseEndpoint", "params"])
-        genre[title] = {"params": params}
+        genre.append({"title": title, "params": params})
     header_genres = nav(genres, ["gridRenderer", "header","gridHeaderRenderer", "title", "runs", 0, "text"])
-    result = {header_mood: [moods], header_genres: [genre]}
+    result = {header_mood: moods, header_genres: genre}
     return convert_to_json(result)
             # {
         #     'For you': [

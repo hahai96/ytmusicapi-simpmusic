@@ -8,6 +8,7 @@ import re
 import os
 from flask_restful import Resource, Api
 from pytube import YouTube
+import yt_dlp
 # import chromedriver_autoinstaller
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -105,14 +106,17 @@ def get_user():
 @app.route('/songs/metadata/')
 def get_song_metadata():
     videoId = request.args.get('videoId')
-    pytube = YouTube("https://www.youtube.com/watch?v=" + videoId)
-    def stream(videoId):
-        audio_stream = pytube.streams.filter(only_audio=True).order_by('abr').desc().first()
-        return str(audio_stream.url)
-    result = ytmusic.search(videoId, "songs", limit=1)
+
+    query = ""
+    URL = "https://music.youtube.com/watch?v=" + videoId
+    ydl_opts = {}
+    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+        info = ydl.extract_info(URL, download=False)
+    query =ydl.sanitize_info(info).get("title") + ydl.sanitize_info(info).get("artist")
+    result = ytmusic.search(query, "songs", limit=1)[0]
     result_clone = json.dumps(result, indent=4)
     parse_json = json.loads(result_clone)
-    song_detail = parse_json[0]
+    song_detail = parse_json
     print(song_detail)
     song_name = song_detail['title']
     song_artists = song_detail['artists']
@@ -124,7 +128,9 @@ def get_song_metadata():
         url = "https://spotify-lyric-api.herokuapp.com/?trackid=" + find_track_id(search_keyword_for_spotify_id)
         request = requests.get(url)
         return request.json()
-    result.append({"streamAudio": stream(videoId), "lyrics": lyrics(search_keyword_for_spotify_id)})
+    result.update({"lyrics": lyrics(search_keyword_for_spotify_id)})
+    result.pop("category")
+    result.pop("feedbackTokens")
     return convert_to_json(result)
 @app.route('/thumbnails/', methods=['GET', 'POST'])
 def get_thumbnails():

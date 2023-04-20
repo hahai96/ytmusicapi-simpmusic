@@ -21,18 +21,6 @@
     ],
     "duration_seconds": 222,
     "isExplicit": false,
-    "thumbnails": [
-        {
-            "url": "https://lh3.googleusercontent.com/cWBLeYX3L_gDvYThkZUG2LK2-0FG0pU8GymoxGr5vFOsZeYhxZpyMwfvsY2jAAYCio3NTuDiKkSy4c4e=w60-h60-l90-rj",
-            "width": 60,
-            "height": 60
-        },
-        {
-            "url": "https://lh3.googleusercontent.com/cWBLeYX3L_gDvYThkZUG2LK2-0FG0pU8GymoxGr5vFOsZeYhxZpyMwfvsY2jAAYCio3NTuDiKkSy4c4e=w120-h120-l90-rj",
-            "width": 120,
-            "height": 120
-        }
-    ],
     "lyrics": {
         "error": false,
         "syncType": "LINE_SYNCED",
@@ -410,5 +398,27 @@
                 "endTimeMs": "0"
             }
         ]
-    }
+    },
+    "thumbnails": [
+        {
+            "url": "https://lh3.googleusercontent.com/cWBLeYX3L_gDvYThkZUG2LK2-0FG0pU8GymoxGr5vFOsZeYhxZpyMwfvsY2jAAYCio3NTuDiKkSy4c4e=w60-h60-l90-rj",
+            "width": 60,
+            "height": 60
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/cWBLeYX3L_gDvYThkZUG2LK2-0FG0pU8GymoxGr5vFOsZeYhxZpyMwfvsY2jAAYCio3NTuDiKkSy4c4e=w120-h120-l90-rj",
+            "width": 120,
+            "height": 120
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/cWBLeYX3L_gDvYThkZUG2LK2-0FG0pU8GymoxGr5vFOsZeYhxZpyMwfvsY2jAAYCio3NTuDiKkSy4c4e=w226-h226-l90-rj",
+            "width": 226,
+            "height": 226
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/cWBLeYX3L_gDvYThkZUG2LK2-0FG0pU8GymoxGr5vFOsZeYhxZpyMwfvsY2jAAYCio3NTuDiKkSy4c4e=w544-h544-l90-rj",
+            "width": 544,
+            "height": 544
+        }
+    ]
 }

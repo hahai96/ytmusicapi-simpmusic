@@ -33,7 +33,34 @@ def find_track_id(search_query):
     results = spotify.search(q='track:' + search_query, type='track')
     track_id = results['tracks']['items'][0]['id']
     return track_id
-
+def thumbnail(songId):
+    op = webdriver.ChromeOptions()
+    op.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+    opbin = os.environ.get("GOOGLE_CHROME_BIN")
+    opdriver = os.environ.get("CHROMEDRIVER_PATH")
+    op.add_argument('--user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36')
+    op.add_argument('--headless')
+    op.add_argument('--disable-gpu')
+    op.add_argument("--no-sandbox")
+    # driver = webdriver.Chrome(service=Service(os.environ.get("CHROMEDRIVER_PATH")), options=op)
+    driver = webdriver.Chrome(service=Service(os.environ.get("CHROMEDRIVER_PATH")), options=op)
+    url = "https://music.youtube.com/watch?v="+songId
+    driver.get(url)
+    time.sleep(1)
+    html = driver.page_source
+    soup = BeautifulSoup(html, 'html.parser')
+    data_div = soup.find('div', attrs={'id': 'song-image'})
+    print(data_div)
+    link = data_div.find('img')['src']
+    link1 = data_div.select_one('img')['src']
+    error = False
+    if link==None or link == "":
+        link = ""
+        error = True
+    elif link.__contains__("https://") == False:
+        error = True
+    result = [{"thumbnails": link1, "error": error}]
+    return (result)
 @app.route('/', methods=['GET'])
 def info():
     return """YTMusic API from maxrave
@@ -106,13 +133,18 @@ def get_user():
 @app.route('/songs/metadata/')
 def get_song_metadata():
     videoId = request.args.get('videoId')
-
+    song_ytm = ytmusic.get_song(videoId)
     query = ""
-    URL = "https://music.youtube.com/watch?v=" + videoId
-    ydl_opts = {}
-    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-        info = ydl.extract_info(URL, download=False)
-    query =ydl.sanitize_info(info).get("title") + ydl.sanitize_info(info).get("artist")
+    # URL = "https://music.youtube.com/watch?v=" + videoId
+    # ydl_opts = {}
+    # with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+    #     info = ydl.extract_info(URL, download=False)
+    # query =ydl.sanitize_info(info).get("title") + ydl.sanitize_info(info).get("artist")
+    videoDetails = song_ytm['videoDetails']
+    title = videoDetails['title']
+    artist = videoDetails['author']
+    thumbnails = videoDetails['thumbnail']['thumbnails']
+    query = title + " " + artist
     result = ytmusic.search(query, "songs", limit=1)[0]
     result_clone = json.dumps(result, indent=4)
     parse_json = json.loads(result_clone)
@@ -128,41 +160,17 @@ def get_song_metadata():
         url = "https://spotify-lyric-api.herokuapp.com/?trackid=" + find_track_id(search_keyword_for_spotify_id)
         request = requests.get(url)
         return request.json()
-    result.update({"lyrics": lyrics(search_keyword_for_spotify_id)})
     result.pop("category")
     result.pop("feedbackTokens")
+    result.pop("thumbnails")
+    result.update({"thumbnails": thumbnails})
+    result.update({"lyrics": lyrics(search_keyword_for_spotify_id)})
     return convert_to_json(result)
 @app.route('/thumbnails/', methods=['GET', 'POST'])
 def get_thumbnails():
     songId = request.args.get('songId')
     print(str(songId))
-    op = webdriver.ChromeOptions()
-    op.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
-    opbin = os.environ.get("GOOGLE_CHROME_BIN")
-    opdriver = os.environ.get("CHROMEDRIVER_PATH")
-    op.add_argument('--user-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36')
-    op.add_argument('--headless')
-    op.add_argument('--disable-gpu')
-    op.add_argument("--no-sandbox")
-    # driver = webdriver.Chrome(service=Service(os.environ.get("CHROMEDRIVER_PATH")), options=op)
-    driver = webdriver.Chrome(service=Service(os.environ.get("CHROMEDRIVER_PATH")), options=op)
-    url = "https://music.youtube.com/watch?v="+songId
-    driver.get(url)
-    time.sleep(1)
-    html = driver.page_source
-    soup = BeautifulSoup(html, 'html.parser')
-    data_div = soup.find('div', attrs={'id': 'song-image'})
-    print(data_div)
-    link = data_div.find('img')['src']
-    link1 = data_div.select_one('img')['src']
-    error = False
-    if link==None or link == "":
-        link = ""
-        error = True
-    elif link.__contains__("https://") == False:
-        error = True
-    result = [{"thumbnails": link1, "error": error}]
-    return convert_to_json(result)
+    return convert_to_json(thumbnail(songId))
         
 #EXPLORE
 @app.route('/explore/mood/title')

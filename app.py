@@ -158,7 +158,7 @@ def get_song_metadata():
     song_name = song_detail['title']
     song_artists = song_detail['artists']
     song_album = song_detail["album"]
-    search_keyword_for_spotify_id = song_name + " " + song_artists[0]['name']
+    search_keyword_for_spotify_id = title + " " + artist
     search_keyword_for_spotify_id = re.sub(r'[^\w\s]', '', search_keyword_for_spotify_id)
     print(search_keyword_for_spotify_id)
     def lyrics(search_keyword_for_spotify_id):

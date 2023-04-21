@@ -1,425 +1,276 @@
 {
     "resultType": "song",
-    "title": "There for You",
+    "title": "You Were Loved (Caslow Remix) (feat. OneRepublic)",
     "album": {
-        "name": "There for You",
-        "id": "MPREb_TefSGFtMeay"
+        "name": "You Were Loved (Caslow Remix)",
+        "id": "MPREb_tDBstEMxrir"
     },
-    "videoId": "fH1PcHx2kPY",
+    "videoId": "eBsb8YLw_cQ",
     "videoType": "MUSIC_VIDEO_TYPE_ATV",
-    "duration": "3:42",
+    "duration": "3:57",
     "year": null,
     "artists": [
         {
-            "name": "Martin Garrix",
-            "id": "UCqJnSdHjKtfsrHi9aI-9d3g"
-        },
-        {
-            "name": "Troye Sivan",
-            "id": "UC11RplprGRVVtT2tgtcYzWg"
+            "name": "Gryffin",
+            "id": "UCO4t4bsN65024PXQUnENGkw"
         }
     ],
-    "duration_seconds": 222,
+    "duration_seconds": 237,
     "isExplicit": false,
     "thumbnails": [
         {
-            "url": "https://lh3.googleusercontent.com/cWBLeYX3L_gDvYThkZUG2LK2-0FG0pU8GymoxGr5vFOsZeYhxZpyMwfvsY2jAAYCio3NTuDiKkSy4c4e=w60-h60-l90-rj",
+            "url": "https://lh3.googleusercontent.com/mYaPUYH75HNLFxHrl6KBIQY644tMFQghTXnLLI0FFZxkND9xLWygECb9Dw7aKcRwtih4lRRIDF7lphQ=w60-h60-l90-rj",
             "width": 60,
             "height": 60
         },
         {
-            "url": "https://lh3.googleusercontent.com/cWBLeYX3L_gDvYThkZUG2LK2-0FG0pU8GymoxGr5vFOsZeYhxZpyMwfvsY2jAAYCio3NTuDiKkSy4c4e=w120-h120-l90-rj",
+            "url": "https://lh3.googleusercontent.com/mYaPUYH75HNLFxHrl6KBIQY644tMFQghTXnLLI0FFZxkND9xLWygECb9Dw7aKcRwtih4lRRIDF7lphQ=w120-h120-l90-rj",
             "width": 120,
             "height": 120
         },
         {
-            "url": "https://lh3.googleusercontent.com/cWBLeYX3L_gDvYThkZUG2LK2-0FG0pU8GymoxGr5vFOsZeYhxZpyMwfvsY2jAAYCio3NTuDiKkSy4c4e=w226-h226-l90-rj",
+            "url": "https://lh3.googleusercontent.com/mYaPUYH75HNLFxHrl6KBIQY644tMFQghTXnLLI0FFZxkND9xLWygECb9Dw7aKcRwtih4lRRIDF7lphQ=w226-h226-l90-rj",
             "width": 226,
             "height": 226
         },
         {
-            "url": "https://lh3.googleusercontent.com/cWBLeYX3L_gDvYThkZUG2LK2-0FG0pU8GymoxGr5vFOsZeYhxZpyMwfvsY2jAAYCio3NTuDiKkSy4c4e=w544-h544-l90-rj",
+            "url": "https://lh3.googleusercontent.com/mYaPUYH75HNLFxHrl6KBIQY644tMFQghTXnLLI0FFZxkND9xLWygECb9Dw7aKcRwtih4lRRIDF7lphQ=w544-h544-l90-rj",
             "width": 544,
             "height": 544
         }
     ],
     "lyrics": {
         "error": false,
-        "syncType": "LINE_SYNCED",
+        "syncType": "UNSYNCED",
         "lines": [
             {
-                "startTimeMs": "8760",
-                "words": "I woke up pissed off today",
+                "startTimeMs": "0",
+                "words": "I hope that you finally found it all",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "13260",
-                "words": "And lately, everyone feels fake",
+                "startTimeMs": "0",
+                "words": "All the things that you said that you needed, after all",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "17550",
-                "words": "Somewhere, I lost a piece of me",
+                "startTimeMs": "0",
+                "words": "All those times we had, it left a mark",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "21710",
-                "words": "Smoking cigarettes on balconies",
+                "startTimeMs": "0",
+                "words": "And I know life goes on but I miss you in the dark",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "26670",
-                "words": "But I can't do this alone",
+                "startTimeMs": "0",
+                "words": "Takes time to, is time to, stories we tell about",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "28920",
-                "words": "Sometimes I just need a light",
+                "startTimeMs": "0",
+                "words": "All of the good times and times that were hell when",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "30990",
-                "words": "If I call you on the phone",
+                "startTimeMs": "0",
+                "words": "We were young (we were young)",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "33240",
-                "words": "Need you on the other side",
+                "startTimeMs": "0",
+                "words": "We were broke (we were broke)",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "35220",
-                "words": "So when your tears roll down your pillow like a river",
+                "startTimeMs": "0",
+                "words": "We were chasin that fire and watchin' it turn to",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "39870",
-                "words": "I'll be there for you",
+                "startTimeMs": "0",
+                "words": "Smoke (smoke)",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "42390",
-                "words": "I'll be there for you",
+                "startTimeMs": "0",
+                "words": "And some of us just let go",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "44300",
-                "words": "When you're screaming but they only hear you whisper",
+                "startTimeMs": "0",
+                "words": "You got lost (you got lost)",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "49210",
-                "words": "I'll be loud for you",
+                "startTimeMs": "0",
+                "words": "Had enough (had enough)",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "52120",
-                "words": "But you gotta be there for me too",
+                "startTimeMs": "0",
+                "words": "Time then did what it does and turned what you had to",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "57420",
-                "words": "(Gotta be there for me)",
+                "startTimeMs": "0",
+                "words": "Rust",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "61800",
-                "words": "(Gotta be there for me too)",
+                "startTimeMs": "0",
+                "words": "But wherever you are understand me",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "64430",
-                "words": "",
+                "startTimeMs": "0",
+                "words": "You were loved",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "66690",
-                "words": "(Gotta be there for me)",
+                "startTimeMs": "0",
+                "words": "You were loved",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "70260",
-                "words": "But you gotta be there for me too",
+                "startTimeMs": "0",
+                "words": "I hope that our paths they cross again",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "73450",
-                "words": "\u266a",
+                "startTimeMs": "0",
+                "words": "Cause I'm dying to know all the places you have been",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "76870",
-                "words": "Last year took a toll on me",
+                "startTimeMs": "0",
+                "words": "Ohh",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "80640",
-                "words": "But I made it with you next to me",
+                "startTimeMs": "0",
+                "words": "Someday when the future meets the past",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "85510",
-                "words": "Around the world and back again",
+                "startTimeMs": "0",
+                "words": "That's when we'll make up for all of the years that went so fast",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "90370",
-                "words": "I hope you're waiting at the end",
+                "startTimeMs": "0",
+                "words": "Mm",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "94210",
-                "words": "But I can't do this alone",
+                "startTimeMs": "0",
+                "words": "Cause days became years became stories we tell that I know you can't hear but is wishing you well and",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "96720",
-                "words": "Sometimes I just need a light",
+                "startTimeMs": "0",
+                "words": "We were young (we were young)",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "99140",
-                "words": "If I call you on the phone",
+                "startTimeMs": "0",
+                "words": "We were broke (we were broke)",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "101340",
-                "words": "Need you on the other side",
+                "startTimeMs": "0",
+                "words": "We were chasin a fire that suddenly turned into smoke",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "103210",
-                "words": "So when your tears roll down your pillow like a river",
+                "startTimeMs": "0",
+                "words": "And some of us had to let go",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "108250",
-                "words": "I'll be there for you",
+                "startTimeMs": "0",
+                "words": "Yeah",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "110180",
-                "words": "I'll be there for you",
+                "startTimeMs": "0",
+                "words": "You got lost (you got lost)",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "112630",
-                "words": "When you're screaming but they only hear you whisper",
+                "startTimeMs": "0",
+                "words": "Had enough (had enough)",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "117160",
-                "words": "I'll be loud for you",
+                "startTimeMs": "0",
+                "words": "Time then did it what it does and turned what you had to rust",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "119250",
-                "words": "I'll be loud for you",
+                "startTimeMs": "0",
+                "words": "But wherever you are you should know",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "122390",
-                "words": "I got you, I promise",
+                "startTimeMs": "0",
+                "words": "You were loved",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "124820",
-                "words": "But let me be honest",
+                "startTimeMs": "0",
+                "words": "You were loved",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "127060",
-                "words": "Love is a road that goes both ways",
+                "startTimeMs": "0",
+                "words": "You were loved",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "130680",
-                "words": "When your tears roll down your pillow like a river",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "135160",
-                "words": "I'll be there for you",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "138060",
-                "words": "But you gotta be there for me too",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "143300",
-                "words": "(Gotta be there for me)",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "145900",
-                "words": "",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "148070",
-                "words": "(Gotta be there for me too)",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "152530",
-                "words": "(Gotta be there for me)",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "156210",
-                "words": "But you gotta be there for me too",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "159170",
-                "words": "Boy, I'm holdin' onto something",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "161550",
-                "words": "Won't let go of you for nothing",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "163620",
-                "words": "I'm runnin', runnin' just to keep my hands on you",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "168300",
-                "words": "There was a time that I was so blue",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "170350",
-                "words": "What I got to do to show you?",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "172710",
-                "words": "I'm runnin', runnin' just to keep my hands on you",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "177370",
-                "words": "Runnin', runnin' just to keep my hands on you",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "182210",
-                "words": "Runnin', runnin' just to keep my hands on you",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "186360",
-                "words": "Said, I'm runnin', runnin' just to keep my hands on you",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "192380",
-                "words": "But you gotta be there for me too",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "195550",
-                "words": "",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "197690",
-                "words": "(Gotta be there for me)",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "202070",
-                "words": "(Gotta be there for me too)",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "204550",
-                "words": "",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "206800",
-                "words": "(Gotta be there for me)",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "210430",
-                "words": "But you gotta be there for me too",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "211980",
-                "words": "",
+                "startTimeMs": "0",
+                "words": "You were loved",
                 "syllables": [],
                 "endTimeMs": "0"
             }
         ]
-    },
-    "streamData": "https://rr2---sn-8qj-nbo6y.googlevideo.com/videoplayback?expire=1682081777&ei=kTNCZNGOE_KLjMwPkICmyAY&ip=103.27.62.225&id=o-AI9ibcpxlP5ntFFMXg1_XeWMYOCjpY-ss0aqVHd7HOIK&itag=251&source=youtube&requiressl=yes&mh=tf&mm=31%2C26&mn=sn-8qj-nbo6y%2Csn-30a7rnek&ms=au%2Conr&mv=m&mvi=2&pl=24&gcr=vn&initcwndbps=1121250&vprv=1&mime=audio%2Fwebm&gir=yes&clen=3846894&dur=221.921&lmt=1621312093123914&mt=1682059753&fvip=1&keepalive=yes&fexp=24007246&c=ANDROID&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgRnQagm8-gsdVN01jZwCB70t8C4TLvA3s5ENZTtnjBv8CIQDbijxZu8afkRfECqDF-RtAhJbpK7mnTo8Y4NJtWt4CSQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgHLHIYlVSbn27oHNUfkgeHCGb1femRkr3VssgxIDdfXECIG1wGlIj_A1qm2B7KCgyhQawQyvJXgEiLvDStsq4zBK_"
+    }
 }

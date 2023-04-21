@@ -31,8 +31,11 @@ def convert_to_json(data: list[dict]):
 
 def find_track_id(search_query):
     results = spotify.search(q='track:' + search_query, type='track')
-    track_id = results['tracks']['items'][0]['id']
-    return track_id
+    if len(results['tracks']['items']) < 1:
+        return None
+    else:
+        track_id = results['tracks']['items'][0]['id']
+        return track_id
 def thumbnail(songId):
     op = webdriver.ChromeOptions()
     op.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
@@ -162,9 +165,13 @@ def get_song_metadata():
     search_keyword_for_spotify_id = re.sub(r'[^\w\s]', '', search_keyword_for_spotify_id)
     print(search_keyword_for_spotify_id)
     def lyrics(search_keyword_for_spotify_id):
-        url = "https://spotify-lyric-api.herokuapp.com/?trackid=" + find_track_id(search_keyword_for_spotify_id)
-        request = requests.get(url)
-        return request.json()
+        trackId = find_track_id(search_keyword_for_spotify_id)
+        if trackId == None:
+            return {"error": True}
+        else:
+            url = "https://spotify-lyric-api.herokuapp.com/?trackid=" + trackId
+            request = requests.get(url)
+            return request.json()
     result.pop("category")
     result.pop("feedbackTokens")
     result.pop("thumbnails")

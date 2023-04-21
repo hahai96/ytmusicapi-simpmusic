@@ -129,17 +129,22 @@ def get_user():
         return ytmusic.get_user(channelId)
     else:
         return ytmusic.get_user_playlists(channelId, params)
+@app.route("/ip", methods=["GET"])
+def get_my_ip():
+    return jsonify({'ip': request.remote_addr}), 200
 
 @app.route('/songs/metadata/')
 def get_song_metadata():
     videoId = request.args.get('videoId')
     song_ytm = ytmusic.get_song(videoId)
     query = ""
-    # URL = "https://music.youtube.com/watch?v=" + videoId
+    URL = "https://music.youtube.com/watch?v=" + videoId
     # ydl_opts = {}
     # with yt_dlp.YoutubeDL(ydl_opts) as ydl:
     #     info = ydl.extract_info(URL, download=False)
     # query =ydl.sanitize_info(info).get("title") + ydl.sanitize_info(info).get("artist")
+    pytube = YouTube(str(URL))
+    streamData = pytube.streams.filter(only_audio=True).order_by('abr').desc().first().url
     videoDetails = song_ytm['videoDetails']
     title = videoDetails['title']
     artist = videoDetails['author']
@@ -165,6 +170,7 @@ def get_song_metadata():
     result.pop("thumbnails")
     result.update({"thumbnails": thumbnails})
     result.update({"lyrics": lyrics(search_keyword_for_spotify_id)})
+    result.update({"streamData": str(streamData)})
     return convert_to_json(result)
 @app.route('/thumbnails/', methods=['GET', 'POST'])
 def get_thumbnails():

@@ -143,8 +143,8 @@ def get_song_metadata():
     # with yt_dlp.YoutubeDL(ydl_opts) as ydl:
     #     info = ydl.extract_info(URL, download=False)
     # query =ydl.sanitize_info(info).get("title") + ydl.sanitize_info(info).get("artist")
-    pytube = YouTube(str(URL))
-    streamData = pytube.streams.filter(only_audio=True).order_by('abr').desc().first().url
+    # pytube = YouTube(str(URL))
+    # streamData = pytube.streams.filter(only_audio=True).order_by('abr').desc().first().url
     videoDetails = song_ytm['videoDetails']
     title = videoDetails['title']
     artist = videoDetails['author']
@@ -169,8 +169,8 @@ def get_song_metadata():
     result.pop("feedbackTokens")
     result.pop("thumbnails")
     result.update({"thumbnails": thumbnails})
+    # result.update({"streamData": str(streamData)})
     result.update({"lyrics": lyrics(search_keyword_for_spotify_id)})
-    result.update({"streamData": str(streamData)})
     return convert_to_json(result)
 @app.route('/thumbnails/', methods=['GET', 'POST'])
 def get_thumbnails():

@@ -79,12 +79,12 @@ def search():
     query = request.args.get('q')
     filter = request.args.get('f')
     if (filter != None):
-        result = ytmusic.search(query, filter, limit=20)
+        result = ytmusic.search(query, filter, limit=40)
         print (len(result))
         a = convert_to_json(result)
         return a
     else:
-        result = ytmusic.search(query, limit=20)
+        result = ytmusic.search(query, limit=40)
         print (len(result))
         a = convert_to_json(result)
         return a

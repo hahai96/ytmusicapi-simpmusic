@@ -19,6 +19,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 
 ytmusic = YTMusic()
 
+
 app = Flask(__name__)
 #Spotify Config
 spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(
@@ -30,7 +31,7 @@ def convert_to_json(data: list[dict]):
     return send_from_directory('', 'myjson.json')
 
 def find_track_id(search_query):
-    results = spotify.search(q='track:' + search_query, type='track')
+    results = spotify.search(q= search_query, type='track', limit= 1)
     if len(results['tracks']['items']) < 1:
         return None
     else:
@@ -84,7 +85,7 @@ def search():
         a = convert_to_json(result)
         return a
     else:
-        result = ytmusic.search(query, limit=40)
+        result = ytmusic.search(query, limit=40) 
         print (len(result))
         a = convert_to_json(result)
         return a
@@ -135,6 +136,12 @@ def get_user():
 @app.route("/ip", methods=["GET"])
 def get_my_ip():
     return jsonify({'ip': request.remote_addr}), 200
+
+@app.route('/songs/related/')
+def get_related():
+    videoId = request.args.get('videoId')
+    data = ytmusic.get_song_related(videoId)
+    return convert_to_json(data)
 
 @app.route('/songs/metadata/')
 def get_song_metadata():

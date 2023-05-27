@@ -1,1415 +1,406 @@
-[
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "One Love",
-        "album": {
-            "name": "One Love",
-            "id": "MPREb_HYJM6TWzDLW"
+{
+    "resultType": "song",
+    "title": "AM:PM",
+    "album": {
+        "name": "AM:PM",
+        "id": "MPREb_dTqUBEpqJZ5"
+    },
+    "videoId": "d40rzwlq8l4",
+    "videoType": "MUSIC_VIDEO_TYPE_ATV",
+    "duration": "3:03",
+    "year": null,
+    "artists": [
+        {
+            "name": "NOTD",
+            "id": "UCJKSdusIzLEyV-LQKAY3UJA"
         },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
+        {
+            "name": "Maia Wright",
+            "id": "UCikEeEZiJKVBI5ql9Z4FOSg"
+        }
+    ],
+    "duration_seconds": 183,
+    "isExplicit": false,
+    "thumbnails": [
+        {
+            "url": "https://lh3.googleusercontent.com/a1psp1jDjiw_HvjmZ65G2bKEzbA0XgYDZEaGPLNl-ypQ_hzCw3_UBkjxFzhIJyCxhC5p7SmS5f2W9nT4=w60-h60-l90-rj",
+            "width": 60,
+            "height": 60
         },
-        "videoId": "fr4VNfMxsZQ",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "4:10",
-        "year": null,
-        "artists": [
+        {
+            "url": "https://lh3.googleusercontent.com/a1psp1jDjiw_HvjmZ65G2bKEzbA0XgYDZEaGPLNl-ypQ_hzCw3_UBkjxFzhIJyCxhC5p7SmS5f2W9nT4=w120-h120-l90-rj",
+            "width": 120,
+            "height": 120
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/a1psp1jDjiw_HvjmZ65G2bKEzbA0XgYDZEaGPLNl-ypQ_hzCw3_UBkjxFzhIJyCxhC5p7SmS5f2W9nT4=w226-h226-l90-rj",
+            "width": 226,
+            "height": 226
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/a1psp1jDjiw_HvjmZ65G2bKEzbA0XgYDZEaGPLNl-ypQ_hzCw3_UBkjxFzhIJyCxhC5p7SmS5f2W9nT4=w544-h544-l90-rj",
+            "width": 544,
+            "height": 544
+        }
+    ],
+    "lyrics": {
+        "error": false,
+        "syncType": "LINE_SYNCED",
+        "lines": [
             {
-                "name": "WINARTA",
-                "id": "UCQMk1nnjRzTj_ZwtS37-15w"
-            }
-        ],
-        "duration_seconds": 250,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/XrDDZWa1A4eL8kOuTSG4mVGQcnWbzovKmAwPq7hKQroWndNoTizanRLxpPla2uxrnW5Wj5Y-N3xfkkhv7Q=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "3160",
+                "words": "I fall too often",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/XrDDZWa1A4eL8kOuTSG4mVGQcnWbzovKmAwPq7hKQroWndNoTizanRLxpPla2uxrnW5Wj5Y-N3xfkkhv7Q=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "WINARTA - On My Own",
-        "album": {
-            "name": "On My Own",
-            "id": "MPREb_7SopsVVWesi"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "HdXPCJTwZVs",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:42",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA",
-                "id": "UCQMk1nnjRzTj_ZwtS37-15w"
-            }
-        ],
-        "duration_seconds": 222,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/J1OnbCi1B6grEmVPxK-pcOQphwB_ZtlHDEbEGsKIIDxVIdbbfXIiV5_s9WnYeqkPBhWCowoZhwT4OL4H=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "5120",
+                "words": "And I love to complicate until there's nothing",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/J1OnbCi1B6grEmVPxK-pcOQphwB_ZtlHDEbEGsKIIDxVIdbbfXIiV5_s9WnYeqkPBhWCowoZhwT4OL4H=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Next To Me",
-        "album": {
-            "name": "Next To Me",
-            "id": "MPREb_VHnf0qiNCJ9"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "zFN66AruRlg",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:38",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA",
-                "id": "UCQMk1nnjRzTj_ZwtS37-15w"
-            }
-        ],
-        "duration_seconds": 218,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/vcngmAxCVcQqSNukXKoM3--tq0r55UMPtr7bXlYgRVghh8FuvXluKDvxodzNFnbtRTQMOKrPJrYG4N5G7A=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "8820",
+                "words": "My feet get cold",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/vcngmAxCVcQqSNukXKoM3--tq0r55UMPtr7bXlYgRVghh8FuvXluKDvxodzNFnbtRTQMOKrPJrYG4N5G7A=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Close Your Eyes",
-        "album": {
-            "name": "Close Your Eyes",
-            "id": "MPREb_6qQamWiryBq"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "CHD5-4rl2ho",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "4:08",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA",
-                "id": "UCQMk1nnjRzTj_ZwtS37-15w"
-            }
-        ],
-        "duration_seconds": 248,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/8Kh3Gxz6TvrRg9faKkjoVXgIG3WLemXfXsVkYdLSehy2BRYaScw2ptNWxYKDM6GdjZcprXD-Ks5uSYqP=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "10830",
+                "words": "So, no more talking",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/8Kh3Gxz6TvrRg9faKkjoVXgIG3WLemXfXsVkYdLSehy2BRYaScw2ptNWxYKDM6GdjZcprXD-Ks5uSYqP=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Don't Look Back",
-        "album": {
-            "name": "Don't Look Back",
-            "id": "MPREb_r6Fn6TGQ6s3"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "tn_mH4WgLZE",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "4:01",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA",
-                "id": "UCQMk1nnjRzTj_ZwtS37-15w"
-            }
-        ],
-        "duration_seconds": 241,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/zPFzkJVEuZa-VqT7kbVeBSkbR0Wyoi5cWejYEL7daOq8x5hjHMXiC53-GY1gHfPqJc8xC0C9ST_Id4s4=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "12910",
+                "words": "Let's just let it go, the way that it's been going",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/zPFzkJVEuZa-VqT7kbVeBSkbR0Wyoi5cWejYEL7daOq8x5hjHMXiC53-GY1gHfPqJc8xC0C9ST_Id4s4=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Time",
-        "album": {
-            "name": "Time",
-            "id": "MPREb_A0dWZWWb8WK"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "9TUk47NYecI",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:51",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA & Sasha Nell",
-                "id": null
-            }
-        ],
-        "duration_seconds": 231,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/7QjJD3dnpKLd2gqhguBPJGnWb_teLVfooanO8deGvbRK5EpS4XM_BxMqDwldqENdzOUFGDjawAvdBL0=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "16670",
+                "words": "You keep me close",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/7QjJD3dnpKLd2gqhguBPJGnWb_teLVfooanO8deGvbRK5EpS4XM_BxMqDwldqENdzOUFGDjawAvdBL0=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Tell to the Tail Light",
-        "album": {
-            "name": "Tell to the Tail Light",
-            "id": "MPREb_6e3JPvYxsk4"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "W80fpt-nRUY",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:23",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA",
-                "id": "UCF5G1P729nqeZhxMK4_uCIg"
+                "startTimeMs": "18720",
+                "words": "I wanna feel like this forever",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "name": "Mac Louis",
-                "id": "UC8nPzTR5TFkuesk9KWErAfQ"
+                "startTimeMs": "21930",
+                "words": "A little reckless, babe",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "name": "Dare County",
-                "id": "UCOP6lVrNsZXRYbWexzOFc6A"
-            }
-        ],
-        "duration_seconds": 203,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/xfKXnQhxpdG6HykrTgqE5LmO1EdXqFVKyGLfwlvxhTyU5QpyvoEdyW4oAbkq8-nXKokR6u0_ub77oo2VhQ=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "23630",
+                "words": "We can do whatever we like",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/xfKXnQhxpdG6HykrTgqE5LmO1EdXqFVKyGLfwlvxhTyU5QpyvoEdyW4oAbkq8-nXKokR6u0_ub77oo2VhQ=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Your Love",
-        "album": {
-            "name": "Your Love",
-            "id": "MPREb_uMaHsWUcdXU"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "5WE8ZukM-fA",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:51",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA",
-                "id": "UCQMk1nnjRzTj_ZwtS37-15w"
-            }
-        ],
-        "duration_seconds": 231,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/xXRh4HNFUhICC2bochbzT2HbR8quHNhj-vIBn-PveSxHyM-DkCMgsFqbUGxAhtdvpstY3y3aVU64hbU=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "26780",
+                "words": "Yeah, we could feel like this forever",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/xXRh4HNFUhICC2bochbzT2HbR8quHNhj-vIBn-PveSxHyM-DkCMgsFqbUGxAhtdvpstY3y3aVU64hbU=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "With And Without You",
-        "album": {
-            "name": "With And Without You",
-            "id": "MPREb_hrW1agqFezk"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "G6GGcBCTacs",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:38",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA",
-                "id": null
-            }
-        ],
-        "duration_seconds": 218,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/UTMZEiKdJ-xQ331x_cIPs1iLs_Huy1FKt4ld78TmR-gH9rbcu5HpRfUbRoYw1uyjxa0-qzKiXZXY10Dh=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "29650",
+                "words": "I want you front and center",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/UTMZEiKdJ-xQ331x_cIPs1iLs_Huy1FKt4ld78TmR-gH9rbcu5HpRfUbRoYw1uyjxa0-qzKiXZXY10Dh=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "My Heart To Break",
-        "album": {
-            "name": "My Heart To Break",
-            "id": "MPREb_JAW87BqBysb"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "xPoxT-ZA0Y8",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:54",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA",
-                "id": "UCF5G1P729nqeZhxMK4_uCIg"
-            }
-        ],
-        "duration_seconds": 234,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/s-hJebjkOOrXpONGZTW5cSNgGlDk9liJvQH8y2HkJiPv3offFX1ejlPIx2rcr-gji3NxDV38a4a4FKLKag=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "31490",
+                "words": "I could be your nine to five, ooh",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/s-hJebjkOOrXpONGZTW5cSNgGlDk9liJvQH8y2HkJiPv3offFX1ejlPIx2rcr-gji3NxDV38a4a4FKLKag=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Why Can't Love Be Enough",
-        "album": {
-            "name": "Why Can't Love Be Enough",
-            "id": "MPREb_Ycx0dFVvEqA"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "LAK_608s2rc",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:10",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA, MrWhite, & Revealed Recordings",
-                "id": null
-            }
-        ],
-        "duration_seconds": 190,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/lgm5UbmfIn6y-cgKD-zZ2yYMzYONvzZLqS2MF9s9Q-WZP7yOpsVDYP6ScD6ViRKXjTkh23SIwjmSAYrY=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "35150",
+                "words": "Ooh, you're all I want",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/lgm5UbmfIn6y-cgKD-zZ2yYMzYONvzZLqS2MF9s9Q-WZP7yOpsVDYP6ScD6ViRKXjTkh23SIwjmSAYrY=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Slipping Away",
-        "album": {
-            "name": "Slipping Away",
-            "id": "MPREb_QbZlmwcZ9hg"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "vCIL895J3lY",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:36",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA",
-                "id": "UCF5G1P729nqeZhxMK4_uCIg"
+                "startTimeMs": "38090",
+                "words": "Give me all your love around the clock",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "name": "Mac Louis",
-                "id": "UC8nPzTR5TFkuesk9KWErAfQ"
-            }
-        ],
-        "duration_seconds": 216,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/ewL5ouLQ0Ws4DwK8tkxiILKlNh5v08-iLpN-_6EVUa19tM3bz6oYRq-Ol1YkrClVEDT5EIi-Lf76KIsA=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "41970",
+                "words": "AM:PM",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/ewL5ouLQ0Ws4DwK8tkxiILKlNh5v08-iLpN-_6EVUa19tM3bz6oYRq-Ol1YkrClVEDT5EIi-Lf76KIsA=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "You & I",
-        "album": {
-            "name": "You & I",
-            "id": "MPREb_iWYNpx4dJhC"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "0mT4ImevqY0",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:19",
-        "year": null,
-        "artists": [
-            {
-                "name": "Wildcrow, WINARTA, & AXYL",
-                "id": null
-            }
-        ],
-        "duration_seconds": 199,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/lIA0YUm6UZdi7rq9_-CuUD7_xU32bad3fNr5uMVKJzXenlxZCkaQtKvJzBZCkaOEA24d0pHV3t2SAiUunQ=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "43280",
+                "words": "Ooh, you're all I want",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/lIA0YUm6UZdi7rq9_-CuUD7_xU32bad3fNr5uMVKJzXenlxZCkaQtKvJzBZCkaOEA24d0pHV3t2SAiUunQ=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Stay Or Be Alone (feat. FNTS)",
-        "album": {
-            "name": "Stay Or Be Alone",
-            "id": "MPREb_KSSwLqbEv3X"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "-Y2LK-vDSdU",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:38",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA",
-                "id": "UCF5G1P729nqeZhxMK4_uCIg"
-            }
-        ],
-        "duration_seconds": 218,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/oa3HYq5ZNABkdj2e5NA1IqeZ9ppNvIZ-Ac29yz9S10-9-GhBs2EoGQrArXByP7pzO-ZQ0msvjgPPgiU=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "46080",
+                "words": "We're going and we never gonna stop",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/oa3HYq5ZNABkdj2e5NA1IqeZ9ppNvIZ-Ac29yz9S10-9-GhBs2EoGQrArXByP7pzO-ZQ0msvjgPPgiU=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Komang",
-        "album": {
-            "name": "Rainyday",
-            "id": "MPREb_DG5SWdPmICb"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "ymS99MBCD-g",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:05",
-        "year": null,
-        "artists": [
-            {
-                "name": "Rainyst",
-                "id": null
-            }
-        ],
-        "duration_seconds": 185,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/xPa0LdD_Cf67GNgwiOpHtCKsFRE8NO9rXc3ZFeCF34o0JuFeYHLxjnNNq1K4r9WAiOflTLdDdmsOIoRa=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "49800",
+                "words": "AM:PM",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/xPa0LdD_Cf67GNgwiOpHtCKsFRE8NO9rXc3ZFeCF34o0JuFeYHLxjnNNq1K4r9WAiOflTLdDdmsOIoRa=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Me Without You [WINARTA Remix] (feat. Anthony Meyer)",
-        "album": {
-            "name": "Me Without You (Remixes)",
-            "id": "MPREb_BPTYR3FzDqB"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "ARhEw9rVA5w",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:39",
-        "year": null,
-        "artists": [
-            {
-                "name": "HHMR, DannyZ, Sergius, WINARTA, and Anthony Meyer",
-                "id": null
-            }
-        ],
-        "duration_seconds": 219,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/ztdTi-pnePGEM34_1fT-TYlJ0x_fsHQ02ZEUf7MCtGXXed-LHTqV5BgAMbX5NDTEEd-P9Q2xEa96ZZU=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "51830",
+                "words": "\u266a",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/ztdTi-pnePGEM34_1fT-TYlJ0x_fsHQ02ZEUf7MCtGXXed-LHTqV5BgAMbX5NDTEEd-P9Q2xEa96ZZU=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Promise You",
-        "album": {
-            "name": "Promise You",
-            "id": "MPREb_m5ZY7eITY7q"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "wq0huRspmqk",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "4:08",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA",
-                "id": "UCoCX5pTDfJyA4C35XzXxUkA"
-            }
-        ],
-        "duration_seconds": 248,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/ragMKGMrpZei4wXPJwHiWJVtmFcKD-qR4I9dIEAEBxBLEIZnR5JkdS4mWm8FTcoYfiudk3Rnc1b1X2I=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "57530",
+                "words": "AM:PM",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/ragMKGMrpZei4wXPJwHiWJVtmFcKD-qR4I9dIEAEBxBLEIZnR5JkdS4mWm8FTcoYfiudk3Rnc1b1X2I=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Tell Me Now",
-        "album": {
-            "name": "Tell Me Now",
-            "id": "MPREb_UKShLZGlCuh"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "g9nUgEZnDDQ",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:44",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA",
-                "id": "UCoCX5pTDfJyA4C35XzXxUkA"
-            }
-        ],
-        "duration_seconds": 224,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/27fj_lupp0lUR8_1C-lkkqpyqdrIAJXsjOdnjqLqisxBX9QBF3xwwvQTAQoTtOlZev0M7kIaV3zMLoNN7Q=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "59560",
+                "words": "\u266a",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/27fj_lupp0lUR8_1C-lkkqpyqdrIAJXsjOdnjqLqisxBX9QBF3xwwvQTAQoTtOlZev0M7kIaV3zMLoNN7Q=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Everything To Me",
-        "album": {
-            "name": "Everything To Me",
-            "id": "MPREb_0arThgeB008"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "5AkcWj0ElNo",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:57",
-        "year": null,
-        "artists": [
-            {
-                "name": "WINARTA",
-                "id": "UCoCX5pTDfJyA4C35XzXxUkA"
-            }
-        ],
-        "duration_seconds": 237,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/LPgoMKx0QdiBCU77JDkkFIyeOxhClvm0EZ1usaOV2X5pMDn2brGEz4fy3JJJY7JojGnlGB1NP9BfzkYh=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "65980",
+                "words": "No seconds wasted",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/LPgoMKx0QdiBCU77JDkkFIyeOxhClvm0EZ1usaOV2X5pMDn2brGEz4fy3JJJY7JojGnlGB1NP9BfzkYh=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Happy with You (feat. Wildhearts)",
-        "album": {
-            "name": "Happy with You (feat. WildHearts) (Radio Edit)",
-            "id": "MPREb_p0e4da1Vo6b"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "mgp3_UvVgJU",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:58",
-        "year": null,
-        "artists": [
-            {
-                "name": "WildVibes, WINARTA, Arild Aas, Arild Aas, Wouter Postelmans",
-                "id": "UCJaxakPLzotBZu-CNcRxRTQ"
-            }
-        ],
-        "duration_seconds": 238,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/XHA-5UehVDfd8K3AHQqP_s7Cxf7fYi3qNTlxsQvPEDulCbittscPcWsv6TcsimQs8XzDUwnx8lQDQDEX=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "67870",
+                "words": "And I feel the night fading",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/XHA-5UehVDfd8K3AHQqP_s7Cxf7fYi3qNTlxsQvPEDulCbittscPcWsv6TcsimQs8XzDUwnx8lQDQDEX=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Happy with You (feat. Wildhearts)",
-        "album": {
-            "name": "Happy with You (feat. WildHearts) (Radio Edit)",
-            "id": "MPREb_p0e4da1Vo6b"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "mgp3_UvVgJU",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:58",
-        "year": null,
-        "artists": [
-            {
-                "name": "WildVibes, WINARTA, Arild Aas, Arild Aas, Wouter Postelmans",
-                "id": "UCJaxakPLzotBZu-CNcRxRTQ"
-            }
-        ],
-        "duration_seconds": 238,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/XHA-5UehVDfd8K3AHQqP_s7Cxf7fYi3qNTlxsQvPEDulCbittscPcWsv6TcsimQs8XzDUwnx8lQDQDEX=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "70160",
+                "words": "But I'm wide awake, and I don't wanna go",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/XHA-5UehVDfd8K3AHQqP_s7Cxf7fYi3qNTlxsQvPEDulCbittscPcWsv6TcsimQs8XzDUwnx8lQDQDEX=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Closer (WINARTA Remix)",
-        "album": {
-            "name": "Closer (Remixes)",
-            "id": "MPREb_KrD9BKpSC70"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "fNtt8E6l8hw",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:21",
-        "year": null,
-        "artists": [
-            {
-                "name": "NACHT, The Krusherz, Machaela, and WINARTA",
-                "id": null
-            }
-        ],
-        "duration_seconds": 201,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/I6iwop3ikjTir2AzHqfNNnDrLry7CinG5uXl6-lM5GCMuMtT9pg6GgwuZq7s3qlYS8owtDmdAVB1qO4jMg=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "73710",
+                "words": "So, let's not waste this",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/I6iwop3ikjTir2AzHqfNNnDrLry7CinG5uXl6-lM5GCMuMtT9pg6GgwuZq7s3qlYS8owtDmdAVB1qO4jMg=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Komang",
-        "album": {
-            "name": "Komang",
-            "id": "MPREb_JfcCAywUKqk"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "ctdissJGoUQ",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:43",
-        "year": null,
-        "artists": [
-            {
-                "name": "Raim Laode",
-                "id": "UC2ArcMzVC3E4X_hTXpQNzlg"
-            }
-        ],
-        "duration_seconds": 223,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/v5Z3HdA0ghsOL61-kpFEfUeLgGMFtufEV7-nkyN4yT6SADq1IS5cnhcOKSTUhKP5O4tiOJubjF1mpRok=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "75540",
+                "words": "Go ahead, take the shot my lips will be a chaser",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/v5Z3HdA0ghsOL61-kpFEfUeLgGMFtufEV7-nkyN4yT6SADq1IS5cnhcOKSTUhKP5O4tiOJubjF1mpRok=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Running",
-        "album": {
-            "name": "Running",
-            "id": "MPREb_CZvMfLB0zPc"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "4U6vQitftkE",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:07",
-        "year": null,
-        "artists": [
-            {
-                "name": "Waxel",
-                "id": "UCVhPkoVq_YIeEPrJigdV-uw"
+                "startTimeMs": "79620",
+                "words": "I ain't going home",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "name": "WINARTA",
-                "id": "UCF5G1P729nqeZhxMK4_uCIg"
-            }
-        ],
-        "duration_seconds": 187,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/0PjlelEAIY6C6IajC6rUWuY4fistmLyll6-4A2ZFo9KRvXr9RjD0L_8Mpyllh7VxJZhVQL8j61xmQoKa=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "81870",
+                "words": "I wanna feel like this forever",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/0PjlelEAIY6C6IajC6rUWuY4fistmLyll6-4A2ZFo9KRvXr9RjD0L_8Mpyllh7VxJZhVQL8j61xmQoKa=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Happiness Frequency Serotonin Dopamine",
-        "album": {
-            "name": "Binaural Beats - Brainwave",
-            "id": "MPREb_MfbDMt54LBH"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "SD6-7mbJaSg",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "44:40",
-        "year": null,
-        "artists": [
-            {
-                "name": "Music Body and Spirit",
-                "id": "UCSSIpegfWs3IHVPIuBOeOBw"
-            }
-        ],
-        "duration_seconds": 2680,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/lRen8ATrGSMZdjxmninrQ-rrAwn2PWEZB-GDBTf8oObokb2rMg8b8FgLsDiHkWau6XK2BYZaDidVxhI=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "84710",
+                "words": "A little reckless, babe",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/lRen8ATrGSMZdjxmninrQ-rrAwn2PWEZB-GDBTf8oObokb2rMg8b8FgLsDiHkWau6XK2BYZaDidVxhI=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "I Wanna Dance with Somebody (Who Loves Me)",
-        "album": {
-            "name": "Whitney",
-            "id": "MPREb_ryh4jqKR3tj"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "6xzN8Nt0Pok",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "4:52",
-        "year": null,
-        "artists": [
-            {
-                "name": "Whitney Houston",
-                "id": "UCcoxwwIh_afLwJHVBEQw62Q"
-            }
-        ],
-        "duration_seconds": 292,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/bu3-T2ZQxF8fLFpfq5mm6Bs5oeI5l2CNIe9UkoRQzNpd6wNjTTgu1FrUFZF9PbcZRrykJLeQlhhSdSxv=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "86550",
+                "words": "We can do whatever we like",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/bu3-T2ZQxF8fLFpfq5mm6Bs5oeI5l2CNIe9UkoRQzNpd6wNjTTgu1FrUFZF9PbcZRrykJLeQlhhSdSxv=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Unstoppable",
-        "album": {
-            "name": "This Is Acting (Deluxe Version)",
-            "id": "MPREb_gb9BJkbYRmr"
-        },
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "I90KY3HNm0Y",
-        "videoType": "MUSIC_VIDEO_TYPE_ATV",
-        "duration": "3:38",
-        "year": null,
-        "artists": [
-            {
-                "name": "Sia",
-                "id": "UCaPIRYCKs51kvD4jrbwMH1w"
-            }
-        ],
-        "duration_seconds": 218,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/rA2y27t2cz19Uh5OdoBEIgSTOoziWTYQ3xkret_OhNM_ji2lJ-KmG232s11Ngtw4TqZOk_pAte2mCNLF=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
+                "startTimeMs": "89780",
+                "words": "Yeah, we could feel like this forever",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "url": "https://lh3.googleusercontent.com/rA2y27t2cz19Uh5OdoBEIgSTOoziWTYQ3xkret_OhNM_ji2lJ-KmG232s11Ngtw4TqZOk_pAte2mCNLF=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Romeo x Diona Fona - Amante (Official Video)",
-        "album": null,
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "bpluFNfpIW8",
-        "videoType": "MUSIC_VIDEO_TYPE_UGC",
-        "duration": "3:11",
-        "year": null,
-        "artists": [
-            {
-                "name": "Donald Romeo Official",
-                "id": "UC6hw8EGe46i1Ns-4pPk75Vg"
-            }
-        ],
-        "views": "3.4M",
-        "duration_seconds": 191,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://i.ytimg.com/vi/bpluFNfpIW8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3miT7uxf6GUm6ouWAS8Z9NU9XD9-A",
-                "width": 400,
-                "height": 225
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Shiloh Dynasty - So low",
-        "album": null,
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "sR2NaL7EG2c",
-        "videoType": "MUSIC_VIDEO_TYPE_OMV",
-        "duration": "3:26",
-        "year": null,
-        "artists": [
-            {
-                "name": "Shiloh Dynasty",
-                "id": "UC_1uKFtloL04fUniGATpSzA"
-            }
-        ],
-        "views": "4.2M",
-        "duration_seconds": 206,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://i.ytimg.com/vi/sR2NaL7EG2c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mLp8i-g4akdvPZn_w_nWcynCRMgQ",
-                "width": 400,
-                "height": 225
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Pajak x Lara - Bella (Official Video)",
-        "album": null,
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "VgvupSwpjUY",
-        "videoType": "MUSIC_VIDEO_TYPE_UGC",
-        "duration": "2:47",
-        "year": null,
-        "artists": [
-            {
-                "name": "Urban Records",
-                "id": "UCUeqIUPT3W0ssdRa6jyiFcg"
-            }
-        ],
-        "views": "17M",
-        "duration_seconds": 167,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://i.ytimg.com/vi/VgvupSwpjUY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kg8KEy1FCdRmulGAsKGF18O5YxHw",
-                "width": 400,
-                "height": 225
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Violet",
-        "album": null,
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "GcvSJudQbVs",
-        "videoType": "MUSIC_VIDEO_TYPE_OMV",
-        "duration": "2:04",
-        "year": null,
-        "artists": [
-            {
-                "name": "Connor Price",
-                "id": "UChxU1Gp92Y6d6eXnJijz5Pg"
+                "startTimeMs": "92630",
+                "words": "I want you front and center",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "name": "Killa",
-                "id": "UCZG8foVIQNRS6gVM0FXQRBQ"
-            }
-        ],
-        "views": "10M",
-        "duration_seconds": 124,
-        "isExplicit": false,
-        "thumbnails": [
-            {
-                "url": "https://i.ytimg.com/vi/GcvSJudQbVs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kqifkrv1GjlmEQyDQzUl4XJ7NPHg",
-                "width": 400,
-                "height": 225
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Calm Down",
-        "album": null,
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "WcIcVapfqXw",
-        "videoType": "MUSIC_VIDEO_TYPE_OMV",
-        "duration": "4:00",
-        "year": null,
-        "artists": [
-            {
-                "name": "Rema",
-                "id": "UCy6qn2oxmoXA4_gBA5Q7zPw"
+                "startTimeMs": "94390",
+                "words": "I could be your nine to five, ooh",
+                "syllables": [],
+                "endTimeMs": "0"
             },
             {
-                "name": "Selena Gomez",
-                "id": "UCeBYRgPhy8kcRmIGQWKuqdQ"
-            }
-        ],
-        "views": "411M",
-        "duration_seconds": 240,
-        "isExplicit": false,
-        "thumbnails": [
+                "startTimeMs": "98250",
+                "words": "Ooh, you're all I want",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "url": "https://i.ytimg.com/vi/WcIcVapfqXw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3k5HWS-TfxVYRjJlI1ty4OMsHX_Cg",
-                "width": 400,
-                "height": 225
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "CKay - Love Nwantiti (Lyrics)",
-        "album": null,
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "NNv-Lb52VX4",
-        "videoType": "MUSIC_VIDEO_TYPE_UGC",
-        "duration": "3:15",
-        "year": null,
-        "artists": [
+                "startTimeMs": "100960",
+                "words": "Give me all your love around the clock",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "name": "Cakes & Eclairs",
-                "id": "UC4XJeGGdXj0vA4CxDDJ8J_A"
-            }
-        ],
-        "views": "10M",
-        "duration_seconds": 195,
-        "isExplicit": false,
-        "thumbnails": [
+                "startTimeMs": "104910",
+                "words": "AM:PM",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "url": "https://i.ytimg.com/vi/NNv-Lb52VX4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3luIC95CGw1Pn2QGrpv-Kn6aT5EqQ",
-                "width": 400,
-                "height": 225
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Bebe & Cece Winans - Lord lift us up",
-        "album": null,
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "dKMSVyByn90",
-        "videoType": "MUSIC_VIDEO_TYPE_UGC",
-        "duration": "5:09",
-        "year": null,
-        "artists": [
+                "startTimeMs": "106280",
+                "words": "Ooh, you're all I want",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "name": "einwolle",
-                "id": "UCUKQZFv3oMOx3RwsHFyGBlg"
-            }
-        ],
-        "views": "5.4M",
-        "duration_seconds": 309,
-        "isExplicit": false,
-        "thumbnails": [
+                "startTimeMs": "108970",
+                "words": "We're going and we never gonna stop",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "url": "https://i.ytimg.com/vi/dKMSVyByn90/hqdefault.jpg?sqp=-oaymwEWCMACELQBIAQqCghQEJADGFogjgJIWg&rs=AMzJL3nUglMW5fqyhJTop6qSJd6Jrl7yRQ",
-                "width": 320,
-                "height": 180
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Run To You",
-        "album": null,
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "nCBASt507WA",
-        "videoType": "MUSIC_VIDEO_TYPE_OMV",
-        "duration": "3:46",
-        "year": null,
-        "artists": [
+                "startTimeMs": "112890",
+                "words": "AM:PM",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "name": "Bryan Adams",
-                "id": "UCSoZk6OcvRneFfAZH3I3-gQ"
-            }
-        ],
-        "views": "73M",
-        "duration_seconds": 226,
-        "isExplicit": false,
-        "thumbnails": [
+                "startTimeMs": "114920",
+                "words": "\u266a",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "url": "https://i.ytimg.com/vi/nCBASt507WA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3l8QGDs9b9a6GjLEVeccnYOck0ahQ",
-                "width": 400,
-                "height": 225
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "FISHER - Losing It",
-        "album": null,
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "o3WdLtpWM_c",
-        "videoType": "MUSIC_VIDEO_TYPE_UGC",
-        "duration": "6:41",
-        "year": null,
-        "artists": [
+                "startTimeMs": "120710",
+                "words": "AM:PM",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "name": "blanc",
-                "id": "UC4w5l9jyqursG7wSEdNv3bQ"
-            }
-        ],
-        "views": "158M",
-        "duration_seconds": 401,
-        "isExplicit": false,
-        "thumbnails": [
+                "startTimeMs": "122740",
+                "words": "\u266a",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "url": "https://i.ytimg.com/vi/o3WdLtpWM_c/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kSeKy-NHCixacTpMCBx1nDY6ai9A",
-                "width": 400,
-                "height": 225
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Khairiyat",
-        "album": null,
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "9-AKLAfpjrI",
-        "videoType": "MUSIC_VIDEO_TYPE_OMV",
-        "duration": "4:59",
-        "year": null,
-        "artists": [
+                "startTimeMs": "129100",
+                "words": "I wanna feel like this forever",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "name": "Arijit Singh",
-                "id": "UCDxKh1gFWeYsqePvgVzmPoQ"
-            }
-        ],
-        "views": "254M",
-        "duration_seconds": 299,
-        "isExplicit": false,
-        "thumbnails": [
+                "startTimeMs": "131930",
+                "words": "A little reckless, babe",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "url": "https://i.ytimg.com/vi/9-AKLAfpjrI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lIxashvypnmZjHJ2B6Xvcz571huw",
-                "width": 400,
-                "height": 225
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "Santa Tell Me (With Lyrics) - Ariana Grande",
-        "album": null,
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "TN7PBdQu_PY",
-        "videoType": "MUSIC_VIDEO_TYPE_UGC",
-        "duration": "3:23",
-        "year": null,
-        "artists": [
+                "startTimeMs": "133790",
+                "words": "We can do whatever we like",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "name": "LyricsBy KatieB",
-                "id": "UC1Chs4mcDVLgVnkzXlJ30ug"
-            }
-        ],
-        "views": "77M",
-        "duration_seconds": 203,
-        "isExplicit": false,
-        "thumbnails": [
+                "startTimeMs": "136860",
+                "words": "Yeah, we could feel like this forever",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "url": "https://i.ytimg.com/vi/TN7PBdQu_PY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nFJHLKjYdvGUCoT6DjVoZ4128i3w",
-                "width": 400,
-                "height": 225
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "I Don't Want To Talk About It (from One Night Only! Rod Stewa...",
-        "album": null,
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "w46bWxS9IjY",
-        "videoType": "MUSIC_VIDEO_TYPE_OMV",
-        "duration": "4:30",
-        "year": null,
-        "artists": [
+                "startTimeMs": "139820",
+                "words": "I want you front and center",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "name": "Rod Stewart",
-                "id": "UCE5MST8NSGuWr88dQcNZ0fw"
-            }
-        ],
-        "views": "774M",
-        "duration_seconds": 270,
-        "isExplicit": false,
-        "thumbnails": [
+                "startTimeMs": "141630",
+                "words": "I could be your nine to five, ooh",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "url": "https://i.ytimg.com/vi/w46bWxS9IjY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3l3u9Hwbk178Ic4pgbvncTz2tC0Tw",
-                "width": 400,
-                "height": 225
-            }
-        ]
-    },
-    {
-        "category": "Songs",
-        "resultType": "song",
-        "title": "All I Want for Christmas Is You (Make My Wish Come True Edition)",
-        "album": null,
-        "feedbackTokens": {
-            "add": null,
-            "remove": null
-        },
-        "videoId": "aAkMkVFwAoo",
-        "videoType": "MUSIC_VIDEO_TYPE_OMV",
-        "duration": "4:03",
-        "year": null,
-        "artists": [
+                "startTimeMs": "145450",
+                "words": "Ooh, you're all I want",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "name": "Mariah Carey",
-                "id": "UCKRnq8aBOCanYlffje7HyvA"
-            }
-        ],
-        "views": "401M",
-        "duration_seconds": 243,
-        "isExplicit": false,
-        "thumbnails": [
+                "startTimeMs": "148200",
+                "words": "Give me all your love around the clock",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
             {
-                "url": "https://i.ytimg.com/vi/aAkMkVFwAoo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3keCZ8J1Y0D5MIpPbnjYe9vg2JkcQ",
-                "width": 400,
-                "height": 225
+                "startTimeMs": "152310",
+                "words": "AM:PM",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "153340",
+                "words": "Ooh, you're all I want",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "156200",
+                "words": "We're going and we never gonna stop",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "160140",
+                "words": "AM:PM",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "162170",
+                "words": "\u266a",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "167720",
+                "words": "AM:PM",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "169870",
+                "words": "\u266a",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "175870",
+                "words": "AM:PM",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "175900",
+                "words": "",
+                "syllables": [],
+                "endTimeMs": "0"
             }
         ]
     }
-]
+}

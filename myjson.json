@@ -1,46 +1,34 @@
 {
-    "resultType": "song",
-    "title": "AM:PM",
-    "album": {
-        "name": "AM:PM",
-        "id": "MPREb_dTqUBEpqJZ5"
-    },
-    "videoId": "d40rzwlq8l4",
-    "videoType": "MUSIC_VIDEO_TYPE_ATV",
-    "duration": "3:03",
-    "year": null,
+    "resultType": "video",
+    "videoId": "1OJQdxT6WHE",
+    "videoType": "MUSIC_VIDEO_TYPE_OMV",
+    "title": "hieuthuhai - ng\u1ee7 m\u1ed9t m\u00ecnh (t\u00ecnh r\u1ea5t t\u00ecnh) ft. negav (prod. by kewtiie)",
     "artists": [
         {
-            "name": "NOTD",
-            "id": "UCJKSdusIzLEyV-LQKAY3UJA"
-        },
-        {
-            "name": "Maia Wright",
-            "id": "UCikEeEZiJKVBI5ql9Z4FOSg"
+            "name": "HIEUTHUHAI",
+            "id": "UC-FbBvrUwI1CmCnurnJlc6Q"
         }
     ],
-    "duration_seconds": 183,
+    "duration": "3:26",
+    "duration_seconds": 206,
+    "year": null,
     "isExplicit": false,
+    "album": null,
     "thumbnails": [
         {
-            "url": "https://lh3.googleusercontent.com/a1psp1jDjiw_HvjmZ65G2bKEzbA0XgYDZEaGPLNl-ypQ_hzCw3_UBkjxFzhIJyCxhC5p7SmS5f2W9nT4=w60-h60-l90-rj",
-            "width": 60,
-            "height": 60
+            "url": "https://i.ytimg.com/vi/1OJQdxT6WHE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AOn4CLAqFx5e_I5uUJCrLwBEkju8IfY0Xw",
+            "width": 400,
+            "height": 225
         },
         {
-            "url": "https://lh3.googleusercontent.com/a1psp1jDjiw_HvjmZ65G2bKEzbA0XgYDZEaGPLNl-ypQ_hzCw3_UBkjxFzhIJyCxhC5p7SmS5f2W9nT4=w120-h120-l90-rj",
-            "width": 120,
-            "height": 120
+            "url": "https://i.ytimg.com/vi/1OJQdxT6WHE/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AOn4CLBwGirmHqn6QcIYQIaSKiWEWuZUpw",
+            "width": 800,
+            "height": 450
         },
         {
-            "url": "https://lh3.googleusercontent.com/a1psp1jDjiw_HvjmZ65G2bKEzbA0XgYDZEaGPLNl-ypQ_hzCw3_UBkjxFzhIJyCxhC5p7SmS5f2W9nT4=w226-h226-l90-rj",
-            "width": 226,
-            "height": 226
-        },
-        {
-            "url": "https://lh3.googleusercontent.com/a1psp1jDjiw_HvjmZ65G2bKEzbA0XgYDZEaGPLNl-ypQ_hzCw3_UBkjxFzhIJyCxhC5p7SmS5f2W9nT4=w544-h544-l90-rj",
-            "width": 544,
-            "height": 544
+            "url": "https://i.ytimg.com/vi/1OJQdxT6WHE/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AOn4CLBuTVm2wF0f9WYjlCfzMN5x4gkmmQ",
+            "width": 853,
+            "height": 480
         }
     ],
     "lyrics": {
@@ -48,355 +36,247 @@
         "syncType": "LINE_SYNCED",
         "lines": [
             {
-                "startTimeMs": "3160",
-                "words": "I fall too often",
+                "startTimeMs": "16780",
+                "words": "(Hey, Kewtiie)",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "5120",
-                "words": "And I love to complicate until there's nothing",
+                "startTimeMs": "20340",
+                "words": "H\u00e3y \u1edf l\u1ea1i v\u1edbi anh th\u00eam m\u1ed9t ng\u00e0y n\u1eefa th\u00f4i",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "8820",
-                "words": "My feet get cold",
+                "startTimeMs": "25980",
+                "words": "V\u00ec anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay \u0111\u00e2u",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "10830",
-                "words": "So, no more talking",
+                "startTimeMs": "29640",
+                "words": "B\u00ean ngo\u00e0i v\u00e0 u\u1ed1ng say, hay l\u00e0 ta n\u1eb1m \u0111\u00e2y c\u1ea3 \u0111\u00eam",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "12910",
-                "words": "Let's just let it go, the way that it's been going",
+                "startTimeMs": "35240",
+                "words": "Ch\u1ec9 l\u00e0 anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "16670",
-                "words": "You keep me close",
+                "startTimeMs": "39990",
+                "words": "Whoo-oh, hey-y-eh",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "18720",
-                "words": "I wanna feel like this forever",
+                "startTimeMs": "45090",
+                "words": "Baby n\u00f3i cho anh nghe, em h\u00e3y n\u00f3i cho anh nghe nh\u1eefng \u0111i\u1ec1u m\u00e0",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "21930",
-                "words": "A little reckless, babe",
+                "startTimeMs": "48850",
+                "words": "\u0110i\u1ec1u em mu\u1ed1n sau khi \u0111\u00eam nay tr\u00f4i qua l\u00e0 m\u1ed9t tr\u00e1i tim hay nh\u1eefng m\u00f3n qu\u00e0",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "23630",
-                "words": "We can do whatever we like",
+                "startTimeMs": "53640",
+                "words": "Em mu\u1ed1n \u0111\u00f4i tay anh \u0111\u1eb7t \u1edf nh\u1eefng n\u01a1i \u0111\u00e2u, anh \u0111\u00e3 nh\u1eafm \u0111\u00f4i m\u00f4i t\u1eeb nh\u1eefng ng\u00e0y \u0111\u1ea7u",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "26780",
-                "words": "Yeah, we could feel like this forever",
+                "startTimeMs": "58410",
+                "words": "I'm needing all your love",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "29650",
-                "words": "I want you front and center",
+                "startTimeMs": "60730",
+                "words": "Nh\u01b0ng em s\u1ebd ch\u1eb3ng th\u1ec3 th\u1ea5y anh khi qua ng\u00e0y mai",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "31490",
-                "words": "I could be your nine to five, ooh",
+                "startTimeMs": "64070",
+                "words": "B\u1edfi v\u00ec Thi\u00ean B\u00ecnh \u0111\u00e2y ch\u1eb3ng th\u1ec3 n\u00e0o b\u00ean ai m\u00e3i m\u00e3i",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "35150",
-                "words": "Ooh, you're all I want",
+                "startTimeMs": "67750",
+                "words": "H\u00e3y h\u1ee9a kh\u00f4ng n\u00f3i cho ai",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "38090",
-                "words": "Give me all your love around the clock",
+                "startTimeMs": "70250",
+                "words": "H\u00ecnh em g\u1eedi anh l\u00e0m sao m\u00e0 c\u00f3 th\u1ec3, yeah, yeah",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "41970",
-                "words": "AM:PM",
+                "startTimeMs": "74100",
+                "words": "Thay nh\u1eefng khi m\u00e0 em \u0111\u1eb1ng sau n\u1eb1m \u00f4m anh",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "43280",
-                "words": "Ooh, you're all I want",
+                "startTimeMs": "77960",
+                "words": "H\u00e3y \u1edf l\u1ea1i v\u1edbi anh th\u00eam m\u1ed9t ng\u00e0y n\u1eefa th\u00f4i",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "46080",
-                "words": "We're going and we never gonna stop",
+                "startTimeMs": "83400",
+                "words": "V\u00ec anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay \u0111\u00e2u",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "49800",
-                "words": "AM:PM",
+                "startTimeMs": "87190",
+                "words": "B\u00ean ngo\u00e0i v\u00e0 u\u1ed1ng say, hay l\u00e0 ta n\u1eb1m \u0111\u00e2y c\u1ea3 \u0111\u00eam",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "51830",
+                "startTimeMs": "93060",
+                "words": "B\u1edfi v\u00ec anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "96980",
+                "words": "Ch\u1eb3ng ph\u1ea3i \u0111\u00f3n hay \u0111\u01b0a",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "99070",
+                "words": "C\u1ee9 vi\u1ec7c l\u00ean nh\u00e0 anh nh\u01b0 c\u00e1ch em t\u1eebng \u0111\u1ebfn th\u00f4i",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "102520",
+                "words": "\u0110\u00e2y ch\u1eb3ng ph\u1ea3i l\u00e0 l\u1ea7n duy nh\u1ea5t c\u1ee7a em \u1edf \u0111\u00e2y",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "106720",
+                "words": "Ooh, d\u00f9 l\u00e0 ta ch\u1eb3ng ph\u1ea3i c\u1ee7a nhau",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "109670",
+                "words": "Nh\u01b0ng ch\u1ec9 m\u00ecnh anh \u0111\u01b0\u1ee3c h\u00f4n l\u00ean t\u00f3c em",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "112260",
+                "words": "Ch\u1eb3ng ph\u1ea3i quay m\u1eb7t v\u1ec1 n\u01a1i kh\u00e1c l\u00fac em thay \u0111\u1ed3",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "116640",
+                "words": "Ooh-woah-ooh-ooh, ooh-woah-ooh-ooh-ooh-ooh",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "121460",
+                "words": "Anh bi\u1ebft \u0111i\u1ec1u \u0111\u00f3 l\u00e0 sai nh\u01b0ng kh\u00f4ng cho em g\u1eb7p ai",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "123810",
+                "words": "Ph\u1ea3i \u1edf b\u00ean anh \u0111\u1ebfn ng\u00e0y mai, yeah",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "126360",
+                "words": "Ph\u1ea3i \u1edf \u0111\u1ebfn ng\u00e0y mai th\u00f4i",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "128680",
+                "words": "B\u1edfi v\u00ec ch\u00fang ta c\u0169ng ch\u1ec9 l\u00e0 hai con ng\u01b0\u1eddi c\u00f4 \u0111\u01a1n \u0111\u1ebfn v\u1edbi nhau",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "135370",
+                "words": "H\u00e3y \u1edf l\u1ea1i v\u1edbi anh th\u00eam m\u1ed9t ng\u00e0y n\u1eefa th\u00f4i",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "141150",
+                "words": "V\u00ec anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay \u0111\u00e2u",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "145030",
+                "words": "B\u00ean ngo\u00e0i v\u00e0 u\u1ed1ng say, hay l\u00e0 ta n\u1eb1m \u0111\u00e2y c\u1ea3 \u0111\u00eam",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "150840",
+                "words": "Ch\u1ec9 l\u00e0 anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay",
+                "syllables": [],
+                "endTimeMs": "0"
+            },
+            {
+                "startTimeMs": "154050",
                 "words": "\u266a",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "57530",
-                "words": "AM:PM",
+                "startTimeMs": "160200",
+                "words": "Ch\u1ec9 l\u00e0 anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "59560",
+                "startTimeMs": "163640",
                 "words": "\u266a",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "65980",
-                "words": "No seconds wasted",
+                "startTimeMs": "169880",
+                "words": "B\u1edfi v\u00ec anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "67870",
-                "words": "And I feel the night fading",
+                "startTimeMs": "173840",
+                "words": "Yeah-yeah-y-yeah, yeah-yeah-y-yeah",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "70160",
-                "words": "But I'm wide awake, and I don't wanna go",
+                "startTimeMs": "179490",
+                "words": "Baby n\u00f3i cho anh nghe, em h\u00e3y cho anh nghe nh\u1eefng \u0111i\u1ec1u l\u00e0",
                 "syllables": [],
                 "endTimeMs": "0"
             },
             {
-                "startTimeMs": "73710",
-                "words": "So, let's not waste this",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "75540",
-                "words": "Go ahead, take the shot my lips will be a chaser",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "79620",
-                "words": "I ain't going home",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "81870",
-                "words": "I wanna feel like this forever",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "84710",
-                "words": "A little reckless, babe",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "86550",
-                "words": "We can do whatever we like",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "89780",
-                "words": "Yeah, we could feel like this forever",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "92630",
-                "words": "I want you front and center",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "94390",
-                "words": "I could be your nine to five, ooh",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "98250",
-                "words": "Ooh, you're all I want",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "100960",
-                "words": "Give me all your love around the clock",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "104910",
-                "words": "AM:PM",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "106280",
-                "words": "Ooh, you're all I want",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "108970",
-                "words": "We're going and we never gonna stop",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "112890",
-                "words": "AM:PM",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "114920",
-                "words": "\u266a",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "120710",
-                "words": "AM:PM",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "122740",
-                "words": "\u266a",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "129100",
-                "words": "I wanna feel like this forever",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "131930",
-                "words": "A little reckless, babe",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "133790",
-                "words": "We can do whatever we like",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "136860",
-                "words": "Yeah, we could feel like this forever",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "139820",
-                "words": "I want you front and center",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "141630",
-                "words": "I could be your nine to five, ooh",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "145450",
-                "words": "Ooh, you're all I want",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "148200",
-                "words": "Give me all your love around the clock",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "152310",
-                "words": "AM:PM",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "153340",
-                "words": "Ooh, you're all I want",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "156200",
-                "words": "We're going and we never gonna stop",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "160140",
-                "words": "AM:PM",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "162170",
-                "words": "\u266a",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "167720",
-                "words": "AM:PM",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "169870",
-                "words": "\u266a",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "175870",
-                "words": "AM:PM",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "175900",
+                "startTimeMs": "183630",
                 "words": "",
                 "syllables": [],
                 "endTimeMs": "0"

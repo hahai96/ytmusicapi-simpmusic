@@ -160,17 +160,30 @@ def get_song_metadata():
     artist = videoDetails['author']
     thumbnails = videoDetails['thumbnail']['thumbnails']
     query = title + " " + artist
-    result = ytmusic.search(query, "songs", limit=1)[0]
+    result1 = ytmusic.search(query, limit=10)
+    def find_dict_with_key_value(list_of_dicts, key, value):
+        for dictionary in list_of_dicts:
+            if key in dictionary and dictionary[key] == value:
+                return dictionary
+        return None
+    check = find_dict_with_key_value(result1, "videoId", videoId)
+    print("\n" + str(check))
+    if check['resultType'] == "song":
+        result = check
+    elif check['resultType'] == "video":
+        result = check 
+    # result = ytmusic.search(query, "songs", limit=1)[0]
+    # print(result)
     result_clone = json.dumps(result, indent=4)
     parse_json = json.loads(result_clone)
     song_detail = parse_json
-    print(song_detail)
-    song_name = song_detail['title']
-    song_artists = song_detail['artists']
-    song_album = song_detail["album"]
+    # print(song_detail)
+    # song_name = song_detail['title']
+    # song_artists = song_detail['artists']
+    # song_album = song_detail["album"]
     search_keyword_for_spotify_id = title + " " + artist
     search_keyword_for_spotify_id = re.sub(r'[^\w\s]', '', search_keyword_for_spotify_id)
-    print(search_keyword_for_spotify_id)
+    # print(search_keyword_for_spotify_id)
     def lyrics(search_keyword_for_spotify_id):
         trackId = find_track_id(search_keyword_for_spotify_id)
         if trackId == None:
@@ -179,8 +192,21 @@ def get_song_metadata():
             url = "https://spotify-lyric-api.herokuapp.com/?trackid=" + trackId
             request = requests.get(url)
             return request.json()
-    result.pop("category")
-    result.pop("feedbackTokens")
+    for key in result:
+        if key == 'category':
+            result.pop(key)
+            break
+    for key in result:
+        if key == 'feedbackTokens':
+            result.pop(key)
+            break
+    if result['resultType'] == "video":
+        result.update({"year": None})
+        result.update({"isExplicit": False})
+        result.update({"album": None})
+        result.pop('views')
+    # result.pop("category")
+    # result.pop("feedbackTokens")
     result.pop("thumbnails")
     result.update({"thumbnails": thumbnails})
     # result.update({"streamData": str(streamData)})

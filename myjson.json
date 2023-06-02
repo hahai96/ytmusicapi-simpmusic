@@ -1,286 +1,582 @@
-{
-    "resultType": "video",
-    "videoId": "1OJQdxT6WHE",
-    "videoType": "MUSIC_VIDEO_TYPE_OMV",
-    "title": "hieuthuhai - ng\u1ee7 m\u1ed9t m\u00ecnh (t\u00ecnh r\u1ea5t t\u00ecnh) ft. negav (prod. by kewtiie)",
-    "artists": [
-        {
-            "name": "HIEUTHUHAI",
-            "id": "UC-FbBvrUwI1CmCnurnJlc6Q"
-        }
-    ],
-    "duration": "3:26",
-    "duration_seconds": 206,
-    "year": null,
-    "isExplicit": false,
-    "album": null,
-    "thumbnails": [
-        {
-            "url": "https://i.ytimg.com/vi/1OJQdxT6WHE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AOn4CLAqFx5e_I5uUJCrLwBEkju8IfY0Xw",
-            "width": 400,
-            "height": 225
-        },
-        {
-            "url": "https://i.ytimg.com/vi/1OJQdxT6WHE/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AOn4CLBwGirmHqn6QcIYQIaSKiWEWuZUpw",
-            "width": 800,
-            "height": 450
-        },
-        {
-            "url": "https://i.ytimg.com/vi/1OJQdxT6WHE/hq720.jpg?sqp=-oaymwEXCNUGEOADIAQqCwjVARCqCBh4INgESFo&rs=AOn4CLBuTVm2wF0f9WYjlCfzMN5x4gkmmQ",
-            "width": 853,
-            "height": 480
-        }
-    ],
-    "lyrics": {
-        "error": false,
-        "syncType": "LINE_SYNCED",
-        "lines": [
+[
+    {
+        "title": "The Same Way (feat. KiFi)",
+        "videoId": "wqz-GFkt5v8",
+        "artists": [
             {
-                "startTimeMs": "16780",
-                "words": "(Hey, Kewtiie)",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "20340",
-                "words": "H\u00e3y \u1edf l\u1ea1i v\u1edbi anh th\u00eam m\u1ed9t ng\u00e0y n\u1eefa th\u00f4i",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "25980",
-                "words": "V\u00ec anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay \u0111\u00e2u",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "29640",
-                "words": "B\u00ean ngo\u00e0i v\u00e0 u\u1ed1ng say, hay l\u00e0 ta n\u1eb1m \u0111\u00e2y c\u1ea3 \u0111\u00eam",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "35240",
-                "words": "Ch\u1ec9 l\u00e0 anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "39990",
-                "words": "Whoo-oh, hey-y-eh",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "45090",
-                "words": "Baby n\u00f3i cho anh nghe, em h\u00e3y n\u00f3i cho anh nghe nh\u1eefng \u0111i\u1ec1u m\u00e0",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "48850",
-                "words": "\u0110i\u1ec1u em mu\u1ed1n sau khi \u0111\u00eam nay tr\u00f4i qua l\u00e0 m\u1ed9t tr\u00e1i tim hay nh\u1eefng m\u00f3n qu\u00e0",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "53640",
-                "words": "Em mu\u1ed1n \u0111\u00f4i tay anh \u0111\u1eb7t \u1edf nh\u1eefng n\u01a1i \u0111\u00e2u, anh \u0111\u00e3 nh\u1eafm \u0111\u00f4i m\u00f4i t\u1eeb nh\u1eefng ng\u00e0y \u0111\u1ea7u",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "58410",
-                "words": "I'm needing all your love",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "60730",
-                "words": "Nh\u01b0ng em s\u1ebd ch\u1eb3ng th\u1ec3 th\u1ea5y anh khi qua ng\u00e0y mai",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "64070",
-                "words": "B\u1edfi v\u00ec Thi\u00ean B\u00ecnh \u0111\u00e2y ch\u1eb3ng th\u1ec3 n\u00e0o b\u00ean ai m\u00e3i m\u00e3i",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "67750",
-                "words": "H\u00e3y h\u1ee9a kh\u00f4ng n\u00f3i cho ai",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "70250",
-                "words": "H\u00ecnh em g\u1eedi anh l\u00e0m sao m\u00e0 c\u00f3 th\u1ec3, yeah, yeah",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "74100",
-                "words": "Thay nh\u1eefng khi m\u00e0 em \u0111\u1eb1ng sau n\u1eb1m \u00f4m anh",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "77960",
-                "words": "H\u00e3y \u1edf l\u1ea1i v\u1edbi anh th\u00eam m\u1ed9t ng\u00e0y n\u1eefa th\u00f4i",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "83400",
-                "words": "V\u00ec anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay \u0111\u00e2u",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "87190",
-                "words": "B\u00ean ngo\u00e0i v\u00e0 u\u1ed1ng say, hay l\u00e0 ta n\u1eb1m \u0111\u00e2y c\u1ea3 \u0111\u00eam",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "93060",
-                "words": "B\u1edfi v\u00ec anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "96980",
-                "words": "Ch\u1eb3ng ph\u1ea3i \u0111\u00f3n hay \u0111\u01b0a",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "99070",
-                "words": "C\u1ee9 vi\u1ec7c l\u00ean nh\u00e0 anh nh\u01b0 c\u00e1ch em t\u1eebng \u0111\u1ebfn th\u00f4i",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "102520",
-                "words": "\u0110\u00e2y ch\u1eb3ng ph\u1ea3i l\u00e0 l\u1ea7n duy nh\u1ea5t c\u1ee7a em \u1edf \u0111\u00e2y",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "106720",
-                "words": "Ooh, d\u00f9 l\u00e0 ta ch\u1eb3ng ph\u1ea3i c\u1ee7a nhau",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "109670",
-                "words": "Nh\u01b0ng ch\u1ec9 m\u00ecnh anh \u0111\u01b0\u1ee3c h\u00f4n l\u00ean t\u00f3c em",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "112260",
-                "words": "Ch\u1eb3ng ph\u1ea3i quay m\u1eb7t v\u1ec1 n\u01a1i kh\u00e1c l\u00fac em thay \u0111\u1ed3",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "116640",
-                "words": "Ooh-woah-ooh-ooh, ooh-woah-ooh-ooh-ooh-ooh",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "121460",
-                "words": "Anh bi\u1ebft \u0111i\u1ec1u \u0111\u00f3 l\u00e0 sai nh\u01b0ng kh\u00f4ng cho em g\u1eb7p ai",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "123810",
-                "words": "Ph\u1ea3i \u1edf b\u00ean anh \u0111\u1ebfn ng\u00e0y mai, yeah",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "126360",
-                "words": "Ph\u1ea3i \u1edf \u0111\u1ebfn ng\u00e0y mai th\u00f4i",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "128680",
-                "words": "B\u1edfi v\u00ec ch\u00fang ta c\u0169ng ch\u1ec9 l\u00e0 hai con ng\u01b0\u1eddi c\u00f4 \u0111\u01a1n \u0111\u1ebfn v\u1edbi nhau",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "135370",
-                "words": "H\u00e3y \u1edf l\u1ea1i v\u1edbi anh th\u00eam m\u1ed9t ng\u00e0y n\u1eefa th\u00f4i",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "141150",
-                "words": "V\u00ec anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay \u0111\u00e2u",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "145030",
-                "words": "B\u00ean ngo\u00e0i v\u00e0 u\u1ed1ng say, hay l\u00e0 ta n\u1eb1m \u0111\u00e2y c\u1ea3 \u0111\u00eam",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "150840",
-                "words": "Ch\u1ec9 l\u00e0 anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "154050",
-                "words": "\u266a",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "160200",
-                "words": "Ch\u1ec9 l\u00e0 anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "163640",
-                "words": "\u266a",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "169880",
-                "words": "B\u1edfi v\u00ec anh kh\u00f4ng mu\u1ed1n ph\u1ea3i ng\u1ee7 m\u1ed9t m\u00ecnh \u0111\u00eam nay",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "173840",
-                "words": "Yeah-yeah-y-yeah, yeah-yeah-y-yeah",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "179490",
-                "words": "Baby n\u00f3i cho anh nghe, em h\u00e3y cho anh nghe nh\u1eefng \u0111i\u1ec1u l\u00e0",
-                "syllables": [],
-                "endTimeMs": "0"
-            },
-            {
-                "startTimeMs": "183630",
-                "words": "",
-                "syllables": [],
-                "endTimeMs": "0"
+                "name": "Don Diablo",
+                "id": "UC0vxB2K-ylVmODXINPOSZQw"
             }
-        ]
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/aAh_gm2fHhZ5Z5wxpA6XGmjZZhHgaZuOabcyQfQEfZBzbLs2QKPvoJDVi2--t61_wRQ2g9-57gJf02e9=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/aAh_gm2fHhZ5Z5wxpA6XGmjZZhHgaZuOabcyQfQEfZBzbLs2QKPvoJDVi2--t61_wRQ2g9-57gJf02e9=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "The Same Way",
+            "id": "MPREb_h0BLaTGCGsx"
+        }
+    },
+    {
+        "title": "Take Her Place (feat. A R I Z O N A)",
+        "videoId": "JC6SfBnAMpQ",
+        "artists": [
+            {
+                "name": "Don Diablo",
+                "id": "UC0vxB2K-ylVmODXINPOSZQw"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/mwq8YJlc8MKrqhVTGJ-HJG44M-6mh1S_7eaezDEusxhz9bO_uIdSEBVfQg_3p7GLQmgtSH92sjO6X9U=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/mwq8YJlc8MKrqhVTGJ-HJG44M-6mh1S_7eaezDEusxhz9bO_uIdSEBVfQg_3p7GLQmgtSH92sjO6X9U=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Take Her Place",
+            "id": "MPREb_WNqqQhAJQAf"
+        }
+    },
+    {
+        "title": "Mr. Brightside",
+        "videoId": "JCHj6WLvzFE",
+        "artists": [
+            {
+                "name": "Don Diablo",
+                "id": "UC0vxB2K-ylVmODXINPOSZQw"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/itGue1Mmm5dB3rtz93CoudTs0d02ht3T2wXiKDyHC4BElhEDDd6ltD7joEFUO2bbSe3VvvirHoSt8SIo=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/itGue1Mmm5dB3rtz93CoudTs0d02ht3T2wXiKDyHC4BElhEDDd6ltD7joEFUO2bbSe3VvvirHoSt8SIo=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Mr. Brightside",
+            "id": "MPREb_FCCTyk7dMFM"
+        }
+    },
+    {
+        "title": "Problems (feat. John K)",
+        "videoId": "cn6JChLB1J4",
+        "artists": [
+            {
+                "name": "Don Diablo",
+                "id": "UC0vxB2K-ylVmODXINPOSZQw"
+            },
+            {
+                "name": "JLV",
+                "id": "UCaOGl02MdxoLcLQKcrNE6hA"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/EUlPquCpekXj2crv8jCxZawy3a8TCcDJlUf8l7LslyEIAiU3IlxZ7vlErm9kPvmgPtu_WiK_4F6pE_xO=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/EUlPquCpekXj2crv8jCxZawy3a8TCcDJlUf8l7LslyEIAiU3IlxZ7vlErm9kPvmgPtu_WiK_4F6pE_xO=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": true,
+        "album": {
+            "name": "Problems",
+            "id": "MPREb_z8Ioq7JCUQf"
+        }
+    },
+    {
+        "title": "When We're Gone",
+        "videoId": "IfcuabjIVW8",
+        "artists": [
+            {
+                "name": "Mesto",
+                "id": "UCjkJFiodfnRldYT7isvnckw"
+            },
+            {
+                "name": "Justin Mylo",
+                "id": "UCPbbHvxR-HwBC9gbAgV12YA"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/k5wTS4hOqkQARYrSqjg77-FgaLSYvdadGIs6lLVNS5Dqks41r_rIXx1mRDFAhf4f135jsvsvlgwwB5gx=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/k5wTS4hOqkQARYrSqjg77-FgaLSYvdadGIs6lLVNS5Dqks41r_rIXx1mRDFAhf4f135jsvsvlgwwB5gx=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "When We're Gone (Remix)",
+            "id": "MPREb_TjwZaAva6Si"
+        }
+    },
+    {
+        "title": "Dawn",
+        "videoId": "lw66CHgvCCw",
+        "artists": [
+            {
+                "name": "Matisse & Sadko",
+                "id": "UCJ-YZiz-gucyqHRqOU4h_bQ"
+            },
+            {
+                "name": "Alex Aris",
+                "id": "UCirmP0IycT_OLsnG5vJ8fvQ"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/sABUFU2e7f1vXP6SO_D031hlLPVVtQuab-RXine-okLOhEkcnpVhT6QELicpRhn_tkYlKqF-ZA5iUO0E=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/sABUFU2e7f1vXP6SO_D031hlLPVVtQuab-RXine-okLOhEkcnpVhT6QELicpRhn_tkYlKqF-ZA5iUO0E=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Dawn",
+            "id": "MPREb_9Suvv1EBZY9"
+        }
+    },
+    {
+        "title": "OK (feat. Lovespeake)",
+        "videoId": "r402mak0rTk",
+        "artists": [
+            {
+                "name": "Matisse & Sadko",
+                "id": "UCJ-YZiz-gucyqHRqOU4h_bQ"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/cdwoiBfY67a3f1XN9Fwa-dTYzq-tS0D6Fal928Fi99z-xJIheCC5PNS7G9vby-vBoL-bCBcJXaVPj7U=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/cdwoiBfY67a3f1XN9Fwa-dTYzq-tS0D6Fal928Fi99z-xJIheCC5PNS7G9vby-vBoL-bCBcJXaVPj7U=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "OK",
+            "id": "MPREb_IZSRPgqq1p8"
+        }
+    },
+    {
+        "title": "Still Around (feat. SMBDY)",
+        "videoId": "_IwmS8J2A5U",
+        "artists": [
+            {
+                "name": "Justin Mylo",
+                "id": "UCPbbHvxR-HwBC9gbAgV12YA"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/eUGLUbUkTXnTppDA7NDZvOKdnc0XoFLf_EkTer6J2vaKzcpfyb09c77KN7pIfpTnqfSaQHyKZjdgoQ0=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/eUGLUbUkTXnTppDA7NDZvOKdnc0XoFLf_EkTer6J2vaKzcpfyb09c77KN7pIfpTnqfSaQHyKZjdgoQ0=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": true,
+        "album": {
+            "name": "Still Around",
+            "id": "MPREb_334W1te6cIG"
+        }
+    },
+    {
+        "title": "Dynamite",
+        "videoId": "N4LpWY9DXNI",
+        "artists": [
+            {
+                "name": "Nicky Romero",
+                "id": "UCoDLwGqQLut_fVS3Ix9wJzA"
+            },
+            {
+                "name": "Mike Williams",
+                "id": "UCaJjl78OicxKmSWf-e1dlKg"
+            },
+            {
+                "name": "Amba Shepherd",
+                "id": "UCYOj9D89mJ7QGLUfVretX-Q"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/TfLeMDYUnHGf5hqpv5B9WlW42NPcD2V4ocpwZSy7DgOnE3k5YQJWDxUWPzBocYwitxSGdmY82E764AuB=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/TfLeMDYUnHGf5hqpv5B9WlW42NPcD2V4ocpwZSy7DgOnE3k5YQJWDxUWPzBocYwitxSGdmY82E764AuB=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Dynamite",
+            "id": "MPREb_Uz3E0xtZb19"
+        }
+    },
+    {
+        "title": "Sweet Life",
+        "videoId": "WHPG4uBhZeA",
+        "artists": [
+            {
+                "name": "Matisse & Sadko",
+                "id": "UCJ-YZiz-gucyqHRqOU4h_bQ"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/InGuB02J7cAESC5XyVgAPnYw85iPAbAMcfAE8eyLMQHmRHfhS4FAufW21YxYov7xq47OczwRiNuIuzY=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/InGuB02J7cAESC5XyVgAPnYw85iPAbAMcfAE8eyLMQHmRHfhS4FAufW21YxYov7xq47OczwRiNuIuzY=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Sweet Life",
+            "id": "MPREb_CU9fnhiC4Xn"
+        }
+    },
+    {
+        "title": "Aurora",
+        "videoId": "UYIM_i3-lAo",
+        "artists": [
+            {
+                "name": "Martin Garrix",
+                "id": "UCqJnSdHjKtfsrHi9aI-9d3g"
+            },
+            {
+                "name": "Blinders",
+                "id": "UC3TkEVclklmY38h-fOdcntg"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/81wzc-SJFEdsvftdMzGE4JgeXsLpYvneAfUoeV3P95P-6ehlTnMtU6tXclJPIr80A-sPRJAF755OqN8sZw=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/81wzc-SJFEdsvftdMzGE4JgeXsLpYvneAfUoeV3P95P-6ehlTnMtU6tXclJPIr80A-sPRJAF755OqN8sZw=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Sentio",
+            "id": "MPREb_7HdnOQMfJ3w"
+        }
+    },
+    {
+        "title": "Find You (feat. Dewain Whitmore)",
+        "videoId": "mmdMKAOmPlg",
+        "artists": [
+            {
+                "name": "Martin Garrix",
+                "id": "UCqJnSdHjKtfsrHi9aI-9d3g"
+            },
+            {
+                "name": "Justin Mylo",
+                "id": "UCuixfrBe0unTK0eP_774MTQ"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/81wzc-SJFEdsvftdMzGE4JgeXsLpYvneAfUoeV3P95P-6ehlTnMtU6tXclJPIr80A-sPRJAF755OqN8sZw=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/81wzc-SJFEdsvftdMzGE4JgeXsLpYvneAfUoeV3P95P-6ehlTnMtU6tXclJPIr80A-sPRJAF755OqN8sZw=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Sentio",
+            "id": "MPREb_7HdnOQMfJ3w"
+        }
+    },
+    {
+        "title": "Back to You",
+        "videoId": "Cik5LXvPoXo",
+        "artists": [
+            {
+                "name": "Nicky Romero",
+                "id": "UCoDLwGqQLut_fVS3Ix9wJzA"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/BA-ntIWz8YdWMR0KaqpfqdpC336seMbJ9hhHcjLNuPBsxiJ02Z92CruC5oHMiZqIRuh8MA1QLl24XEMk=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/BA-ntIWz8YdWMR0KaqpfqdpC336seMbJ9hhHcjLNuPBsxiJ02Z92CruC5oHMiZqIRuh8MA1QLl24XEMk=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Back to You",
+            "id": "MPREb_MqkON7MkukP"
+        }
+    },
+    {
+        "title": "Fade Away",
+        "videoId": "qmVK5HO93uE",
+        "artists": [
+            {
+                "name": "Matisse & Sadko",
+                "id": "UCJ-YZiz-gucyqHRqOU4h_bQ"
+            },
+            {
+                "name": "SMBDY",
+                "id": "UCx4PajIeRFVrd-0Nl4MeNhQ"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/f4kHzXq1NmKiOWAPO2Afuc7rmsg7OQ10NJorg6tipzwAshBS3ezaJOYPxE5mmZ4pkBLuh_BMv7s63HE0=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/f4kHzXq1NmKiOWAPO2Afuc7rmsg7OQ10NJorg6tipzwAshBS3ezaJOYPxE5mmZ4pkBLuh_BMv7s63HE0=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Fade Away",
+            "id": "MPREb_RcjrAysp3Yx"
+        }
+    },
+    {
+        "title": "Stay",
+        "videoId": "ExIqqBlYqPQ",
+        "artists": [
+            {
+                "name": "Nicky Romero",
+                "id": "UCoDLwGqQLut_fVS3Ix9wJzA"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/P8JZ-DxJRDT2SxMNcrn8D6EREAglwumeZjqTxAC1c6L9TR9_A7wRYwlzYxdNgCnYSrVbkbhoY5XgHBaN=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/P8JZ-DxJRDT2SxMNcrn8D6EREAglwumeZjqTxAC1c6L9TR9_A7wRYwlzYxdNgCnYSrVbkbhoY5XgHBaN=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Stay",
+            "id": "MPREb_HMmCRD9Capa"
+        }
+    },
+    {
+        "title": "Live Like This",
+        "videoId": "A2cWGCQAlgI",
+        "artists": [
+            {
+                "name": "Justin Mylo",
+                "id": "UCPbbHvxR-HwBC9gbAgV12YA"
+            },
+            {
+                "name": "Navarra",
+                "id": "UC6K2mlYKEvDpeptdfzkdYvw"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/dwu7MkwLBIhBa1ifpsggdEc9JUZZ1okM5j-1WsX8LJEX7_G_nhqBvsqWhLELX289kNJyTD2QVzenc8Q=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/dwu7MkwLBIhBa1ifpsggdEc9JUZZ1okM5j-1WsX8LJEX7_G_nhqBvsqWhLELX289kNJyTD2QVzenc8Q=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Live Like This",
+            "id": "MPREb_vcrtuUPqPph"
+        }
+    },
+    {
+        "title": "All Cried Out",
+        "videoId": "5agdFfPJIXY",
+        "artists": [
+            {
+                "name": "Lucas & Steve & AlterBoyz",
+                "id": null
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/fMI797SxtZHlqJNN8KNQ5pMAWBVyNJ1LX2sNVwGaiTGY53820lZNRcipt1_Y0Am9T4Q7-_lIZ4WAm27C=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/fMI797SxtZHlqJNN8KNQ5pMAWBVyNJ1LX2sNVwGaiTGY53820lZNRcipt1_Y0Am9T4Q7-_lIZ4WAm27C=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Letters To Remember",
+            "id": "MPREb_hra2tlSFPtb"
+        }
+    },
+    {
+        "title": "Summer Days (Ti\u00ebsto Remix) (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+        "videoId": "PmFob8sHeAk",
+        "artists": [
+            {
+                "name": "Martin Garrix",
+                "id": "UCqJnSdHjKtfsrHi9aI-9d3g"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/OgPkjkFeoz6cq8ASNXmCRcR-KOg4ooHfGkbHVmwFgp3FKarhXYGGo2vFIVEjJd5GpqQ50s6FVdnCicQ=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/OgPkjkFeoz6cq8ASNXmCRcR-KOg4ooHfGkbHVmwFgp3FKarhXYGGo2vFIVEjJd5GpqQ50s6FVdnCicQ=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Summer Days (Remixes)",
+            "id": "MPREb_mwfvA8vnvVt"
+        }
+    },
+    {
+        "title": "Wait For Life",
+        "videoId": "i2jLIK5C8W0",
+        "artists": [
+            {
+                "name": "Lucas & Steve",
+                "id": "UC3CUl_qWuxNANG7PavLxU3A"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/fMI797SxtZHlqJNN8KNQ5pMAWBVyNJ1LX2sNVwGaiTGY53820lZNRcipt1_Y0Am9T4Q7-_lIZ4WAm27C=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/fMI797SxtZHlqJNN8KNQ5pMAWBVyNJ1LX2sNVwGaiTGY53820lZNRcipt1_Y0Am9T4Q7-_lIZ4WAm27C=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Letters To Remember",
+            "id": "MPREb_hra2tlSFPtb"
+        }
+    },
+    {
+        "title": "Fade Away (Calvo Remix) (feat. INNA)",
+        "videoId": "sINWlHIgSbE",
+        "artists": [
+            {
+                "name": "Sam Feldt",
+                "id": "UCyED9VjWGlNsLljCgyLRoqw"
+            },
+            {
+                "name": "Lush & Simon",
+                "id": "UCeTJmYGWltZiCjuNDLqIVkg"
+            }
+        ],
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/rji3qiDk7ehhI1qxkYnkE3d0_8qI_kPwH_DSJIvrlKZdu0FVdPPSeIdpYR-5GvzNgE3FqKM33LDQGRIA=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/rji3qiDk7ehhI1qxkYnkE3d0_8qI_kPwH_DSJIvrlKZdu0FVdPPSeIdpYR-5GvzNgE3FqKM33LDQGRIA=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ],
+        "isExplicit": false,
+        "album": {
+            "name": "Fade Away (The Remixes)",
+            "id": "MPREb_vzGAL7hI47N"
+        }
     }
-}
+]

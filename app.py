@@ -140,7 +140,13 @@ def get_my_ip():
 @app.route('/songs/related/')
 def get_related():
     videoId = request.args.get('videoId')
-    data = ytmusic.get_song_related(videoId)
+    watch_playlist = ytmusic.get_watch_playlist(videoId)
+    browseId = watch_playlist["related"]
+    related_song = ytmusic.get_song_related(browseId)
+    if type(related_song) == list:
+        data = related_song[0]["contents"]
+    elif type(related_song) == dict:
+        data = related_song["contents"]
     return convert_to_json(data)
 
 @app.route('/songs/metadata/')

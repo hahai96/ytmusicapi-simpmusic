@@ -119,7 +119,11 @@ def get_albums():
     browseId = request.args.get('browseId')
     audioPlaylistId = request.args.get('audioPlaylistId')
     if audioPlaylistId == None:
-        data = ytmusic.get_album(browseId)
+        response = ytmusic.get_album(browseId)
+        for i in response["tracks"]:
+            i.pop("album")
+            i.update({"album": {"id" : browseId, "name": response["title"]}})
+        data = response
         return convert_to_json(data)
     if browseId == None:
         data = ytmusic.get_album_browse_id(audioPlaylistId)
@@ -187,8 +191,9 @@ def get_song_metadata():
     # song_name = song_detail['title']
     # song_artists = song_detail['artists']
     # song_album = song_detail["album"]
-    search_keyword_for_spotify_id = title + " " + artist
+    search_keyword_for_spotify_id = re.sub(r'\(feat\..*?\)', '', title).strip() + " " + artist
     search_keyword_for_spotify_id = re.sub(r'[^\w\s]', '', search_keyword_for_spotify_id)
+    print(search_keyword_for_spotify_id)
     # print(search_keyword_for_spotify_id)
     def lyrics(search_keyword_for_spotify_id):
         trackId = find_track_id(search_keyword_for_spotify_id)

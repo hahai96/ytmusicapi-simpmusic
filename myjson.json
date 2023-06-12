@@ -1,582 +1,395 @@
-[
-    {
-        "title": "The Same Way (feat. KiFi)",
-        "videoId": "wqz-GFkt5v8",
-        "artists": [
-            {
-                "name": "Don Diablo",
-                "id": "UC0vxB2K-ylVmODXINPOSZQw"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/aAh_gm2fHhZ5Z5wxpA6XGmjZZhHgaZuOabcyQfQEfZBzbLs2QKPvoJDVi2--t61_wRQ2g9-57gJf02e9=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/aAh_gm2fHhZ5Z5wxpA6XGmjZZhHgaZuOabcyQfQEfZBzbLs2QKPvoJDVi2--t61_wRQ2g9-57gJf02e9=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "The Same Way",
-            "id": "MPREb_h0BLaTGCGsx"
+{
+    "title": "ASCEND",
+    "type": "Album",
+    "thumbnails": [
+        {
+            "url": "https://lh3.googleusercontent.com/cUc4OSjMQi5gO3Tp1LbyqJAEprML0Pvt1vFKBC4Pag-jE4rJ0auFohSTT_6r1EodMH4lxIJVXV0eCOGR=w60-h60-l90-rj",
+            "width": 60,
+            "height": 60
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/cUc4OSjMQi5gO3Tp1LbyqJAEprML0Pvt1vFKBC4Pag-jE4rJ0auFohSTT_6r1EodMH4lxIJVXV0eCOGR=w120-h120-l90-rj",
+            "width": 120,
+            "height": 120
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/cUc4OSjMQi5gO3Tp1LbyqJAEprML0Pvt1vFKBC4Pag-jE4rJ0auFohSTT_6r1EodMH4lxIJVXV0eCOGR=w226-h226-l90-rj",
+            "width": 226,
+            "height": 226
+        },
+        {
+            "url": "https://lh3.googleusercontent.com/cUc4OSjMQi5gO3Tp1LbyqJAEprML0Pvt1vFKBC4Pag-jE4rJ0auFohSTT_6r1EodMH4lxIJVXV0eCOGR=w544-h544-l90-rj",
+            "width": 544,
+            "height": 544
         }
-    },
-    {
-        "title": "Take Her Place (feat. A R I Z O N A)",
-        "videoId": "JC6SfBnAMpQ",
-        "artists": [
-            {
-                "name": "Don Diablo",
-                "id": "UC0vxB2K-ylVmODXINPOSZQw"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/mwq8YJlc8MKrqhVTGJ-HJG44M-6mh1S_7eaezDEusxhz9bO_uIdSEBVfQg_3p7GLQmgtSH92sjO6X9U=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/mwq8YJlc8MKrqhVTGJ-HJG44M-6mh1S_7eaezDEusxhz9bO_uIdSEBVfQg_3p7GLQmgtSH92sjO6X9U=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Take Her Place",
-            "id": "MPREb_WNqqQhAJQAf"
+    ],
+    "description": "Ascend is the third studio album by American DJ and producer Illenium, released on August 16, 2019, through Astralwerks, making it his major-label debut and his only album on the label. The album features six singles.\n\nFrom Wikipedia (https://en.wikipedia.org/wiki/Ascend_(Illenium_album)) under Creative Commons Attribution CC-BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/legalcode)",
+    "artists": [
+        {
+            "name": "ILLENIUM",
+            "id": "UCX1RfjxgafTHW4gYocAD1lw"
         }
-    },
-    {
-        "title": "Mr. Brightside",
-        "videoId": "JCHj6WLvzFE",
-        "artists": [
-            {
-                "name": "Don Diablo",
-                "id": "UC0vxB2K-ylVmODXINPOSZQw"
+    ],
+    "year": "2019",
+    "trackCount": 17,
+    "duration": "57 minutes",
+    "audioPlaylistId": "OLAK5uy_kNUHhQrbCk0ziHFbUU3lmMr0eR8WMA9VQ",
+    "tracks": [
+        {
+            "videoId": "e8kinz5RKdQ",
+            "title": "I Care (Intro)",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": false,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "0:34",
+            "duration_seconds": 34,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
             }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/itGue1Mmm5dB3rtz93CoudTs0d02ht3T2wXiKDyHC4BElhEDDd6ltD7joEFUO2bbSe3VvvirHoSt8SIo=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/itGue1Mmm5dB3rtz93CoudTs0d02ht3T2wXiKDyHC4BElhEDDd6ltD7joEFUO2bbSe3VvvirHoSt8SIo=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
+        },
+        {
+            "videoId": "yqu2BcD4-ow",
+            "title": "Hold On",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": false,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "3:56",
+            "duration_seconds": 236,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
             }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Mr. Brightside",
-            "id": "MPREb_FCCTyk7dMFM"
+        },
+        {
+            "videoId": "XpmeVNxZ-Ks",
+            "title": "Good Things Fall Apart",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": false,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "3:37",
+            "duration_seconds": 217,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
+        },
+        {
+            "videoId": "qG6E4r1gumk",
+            "title": "That\u2019s Why",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": true,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "4:13",
+            "duration_seconds": 253,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
+        },
+        {
+            "videoId": "E4jggmGSoOk",
+            "title": "Blood",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": false,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "4:08",
+            "duration_seconds": 248,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
+        },
+        {
+            "videoId": "SL_-RqReveA",
+            "title": "Take You Down",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": false,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "3:42",
+            "duration_seconds": 222,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
+        },
+        {
+            "videoId": "zvbDiwV1LWU",
+            "title": "All Together",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": false,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "3:59",
+            "duration_seconds": 239,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
+        },
+        {
+            "videoId": "Q6jnXN_nTlY",
+            "title": "Crashing (feat. Bahari)",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": false,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "3:50",
+            "duration_seconds": 230,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
+        },
+        {
+            "videoId": "wZv1fTFYGSQ",
+            "title": "Broken Ones",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": false,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "3:19",
+            "duration_seconds": 199,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
+        },
+        {
+            "videoId": "k6IY8yAkr2o",
+            "title": "Every Piece Of Me",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": false,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "3:44",
+            "duration_seconds": 224,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
+        },
+        {
+            "videoId": null,
+            "title": "Takeaway",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": null,
+            "thumbnails": null,
+            "isAvailable": false,
+            "isExplicit": false,
+            "videoType": null,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
+        },
+        {
+            "videoId": "d1h07IzKsms",
+            "title": "Sad Songs",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": true,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "3:31",
+            "duration_seconds": 211,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
+        },
+        {
+            "videoId": "oDB-3auyYMw",
+            "title": "Pray (feat. Kameron)",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": false,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "4:56",
+            "duration_seconds": 296,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
+        },
+        {
+            "videoId": "mt1mXwBLsSE",
+            "title": "In Your Arms",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": false,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "3:41",
+            "duration_seconds": 221,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
+        },
+        {
+            "videoId": "sw70hBAYA44",
+            "title": "Gorgeous",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": false,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "4:38",
+            "duration_seconds": 278,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
+        },
+        {
+            "videoId": "OcZ4RZZEj7k",
+            "title": "Angel (Lonely Prelude)",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": false,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "0:42",
+            "duration_seconds": 42,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
+        },
+        {
+            "videoId": "BWorPV9036o",
+            "title": "Lonely",
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
+                }
+            ],
+            "likeStatus": "INDIFFERENT",
+            "thumbnails": null,
+            "isAvailable": true,
+            "isExplicit": false,
+            "videoType": "MUSIC_VIDEO_TYPE_OMV",
+            "duration": "4:31",
+            "duration_seconds": 271,
+            "album": {
+                "id": "MPREb_2V5EwUj7RF9",
+                "name": "ASCEND"
+            }
         }
-    },
-    {
-        "title": "Problems (feat. John K)",
-        "videoId": "cn6JChLB1J4",
-        "artists": [
-            {
-                "name": "Don Diablo",
-                "id": "UC0vxB2K-ylVmODXINPOSZQw"
-            },
-            {
-                "name": "JLV",
-                "id": "UCaOGl02MdxoLcLQKcrNE6hA"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/EUlPquCpekXj2crv8jCxZawy3a8TCcDJlUf8l7LslyEIAiU3IlxZ7vlErm9kPvmgPtu_WiK_4F6pE_xO=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/EUlPquCpekXj2crv8jCxZawy3a8TCcDJlUf8l7LslyEIAiU3IlxZ7vlErm9kPvmgPtu_WiK_4F6pE_xO=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": true,
-        "album": {
-            "name": "Problems",
-            "id": "MPREb_z8Ioq7JCUQf"
-        }
-    },
-    {
-        "title": "When We're Gone",
-        "videoId": "IfcuabjIVW8",
-        "artists": [
-            {
-                "name": "Mesto",
-                "id": "UCjkJFiodfnRldYT7isvnckw"
-            },
-            {
-                "name": "Justin Mylo",
-                "id": "UCPbbHvxR-HwBC9gbAgV12YA"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/k5wTS4hOqkQARYrSqjg77-FgaLSYvdadGIs6lLVNS5Dqks41r_rIXx1mRDFAhf4f135jsvsvlgwwB5gx=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/k5wTS4hOqkQARYrSqjg77-FgaLSYvdadGIs6lLVNS5Dqks41r_rIXx1mRDFAhf4f135jsvsvlgwwB5gx=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "When We're Gone (Remix)",
-            "id": "MPREb_TjwZaAva6Si"
-        }
-    },
-    {
-        "title": "Dawn",
-        "videoId": "lw66CHgvCCw",
-        "artists": [
-            {
-                "name": "Matisse & Sadko",
-                "id": "UCJ-YZiz-gucyqHRqOU4h_bQ"
-            },
-            {
-                "name": "Alex Aris",
-                "id": "UCirmP0IycT_OLsnG5vJ8fvQ"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/sABUFU2e7f1vXP6SO_D031hlLPVVtQuab-RXine-okLOhEkcnpVhT6QELicpRhn_tkYlKqF-ZA5iUO0E=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/sABUFU2e7f1vXP6SO_D031hlLPVVtQuab-RXine-okLOhEkcnpVhT6QELicpRhn_tkYlKqF-ZA5iUO0E=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Dawn",
-            "id": "MPREb_9Suvv1EBZY9"
-        }
-    },
-    {
-        "title": "OK (feat. Lovespeake)",
-        "videoId": "r402mak0rTk",
-        "artists": [
-            {
-                "name": "Matisse & Sadko",
-                "id": "UCJ-YZiz-gucyqHRqOU4h_bQ"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/cdwoiBfY67a3f1XN9Fwa-dTYzq-tS0D6Fal928Fi99z-xJIheCC5PNS7G9vby-vBoL-bCBcJXaVPj7U=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/cdwoiBfY67a3f1XN9Fwa-dTYzq-tS0D6Fal928Fi99z-xJIheCC5PNS7G9vby-vBoL-bCBcJXaVPj7U=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "OK",
-            "id": "MPREb_IZSRPgqq1p8"
-        }
-    },
-    {
-        "title": "Still Around (feat. SMBDY)",
-        "videoId": "_IwmS8J2A5U",
-        "artists": [
-            {
-                "name": "Justin Mylo",
-                "id": "UCPbbHvxR-HwBC9gbAgV12YA"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/eUGLUbUkTXnTppDA7NDZvOKdnc0XoFLf_EkTer6J2vaKzcpfyb09c77KN7pIfpTnqfSaQHyKZjdgoQ0=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/eUGLUbUkTXnTppDA7NDZvOKdnc0XoFLf_EkTer6J2vaKzcpfyb09c77KN7pIfpTnqfSaQHyKZjdgoQ0=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": true,
-        "album": {
-            "name": "Still Around",
-            "id": "MPREb_334W1te6cIG"
-        }
-    },
-    {
-        "title": "Dynamite",
-        "videoId": "N4LpWY9DXNI",
-        "artists": [
-            {
-                "name": "Nicky Romero",
-                "id": "UCoDLwGqQLut_fVS3Ix9wJzA"
-            },
-            {
-                "name": "Mike Williams",
-                "id": "UCaJjl78OicxKmSWf-e1dlKg"
-            },
-            {
-                "name": "Amba Shepherd",
-                "id": "UCYOj9D89mJ7QGLUfVretX-Q"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/TfLeMDYUnHGf5hqpv5B9WlW42NPcD2V4ocpwZSy7DgOnE3k5YQJWDxUWPzBocYwitxSGdmY82E764AuB=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/TfLeMDYUnHGf5hqpv5B9WlW42NPcD2V4ocpwZSy7DgOnE3k5YQJWDxUWPzBocYwitxSGdmY82E764AuB=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Dynamite",
-            "id": "MPREb_Uz3E0xtZb19"
-        }
-    },
-    {
-        "title": "Sweet Life",
-        "videoId": "WHPG4uBhZeA",
-        "artists": [
-            {
-                "name": "Matisse & Sadko",
-                "id": "UCJ-YZiz-gucyqHRqOU4h_bQ"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/InGuB02J7cAESC5XyVgAPnYw85iPAbAMcfAE8eyLMQHmRHfhS4FAufW21YxYov7xq47OczwRiNuIuzY=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/InGuB02J7cAESC5XyVgAPnYw85iPAbAMcfAE8eyLMQHmRHfhS4FAufW21YxYov7xq47OczwRiNuIuzY=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Sweet Life",
-            "id": "MPREb_CU9fnhiC4Xn"
-        }
-    },
-    {
-        "title": "Aurora",
-        "videoId": "UYIM_i3-lAo",
-        "artists": [
-            {
-                "name": "Martin Garrix",
-                "id": "UCqJnSdHjKtfsrHi9aI-9d3g"
-            },
-            {
-                "name": "Blinders",
-                "id": "UC3TkEVclklmY38h-fOdcntg"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/81wzc-SJFEdsvftdMzGE4JgeXsLpYvneAfUoeV3P95P-6ehlTnMtU6tXclJPIr80A-sPRJAF755OqN8sZw=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/81wzc-SJFEdsvftdMzGE4JgeXsLpYvneAfUoeV3P95P-6ehlTnMtU6tXclJPIr80A-sPRJAF755OqN8sZw=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Sentio",
-            "id": "MPREb_7HdnOQMfJ3w"
-        }
-    },
-    {
-        "title": "Find You (feat. Dewain Whitmore)",
-        "videoId": "mmdMKAOmPlg",
-        "artists": [
-            {
-                "name": "Martin Garrix",
-                "id": "UCqJnSdHjKtfsrHi9aI-9d3g"
-            },
-            {
-                "name": "Justin Mylo",
-                "id": "UCuixfrBe0unTK0eP_774MTQ"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/81wzc-SJFEdsvftdMzGE4JgeXsLpYvneAfUoeV3P95P-6ehlTnMtU6tXclJPIr80A-sPRJAF755OqN8sZw=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/81wzc-SJFEdsvftdMzGE4JgeXsLpYvneAfUoeV3P95P-6ehlTnMtU6tXclJPIr80A-sPRJAF755OqN8sZw=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Sentio",
-            "id": "MPREb_7HdnOQMfJ3w"
-        }
-    },
-    {
-        "title": "Back to You",
-        "videoId": "Cik5LXvPoXo",
-        "artists": [
-            {
-                "name": "Nicky Romero",
-                "id": "UCoDLwGqQLut_fVS3Ix9wJzA"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/BA-ntIWz8YdWMR0KaqpfqdpC336seMbJ9hhHcjLNuPBsxiJ02Z92CruC5oHMiZqIRuh8MA1QLl24XEMk=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/BA-ntIWz8YdWMR0KaqpfqdpC336seMbJ9hhHcjLNuPBsxiJ02Z92CruC5oHMiZqIRuh8MA1QLl24XEMk=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Back to You",
-            "id": "MPREb_MqkON7MkukP"
-        }
-    },
-    {
-        "title": "Fade Away",
-        "videoId": "qmVK5HO93uE",
-        "artists": [
-            {
-                "name": "Matisse & Sadko",
-                "id": "UCJ-YZiz-gucyqHRqOU4h_bQ"
-            },
-            {
-                "name": "SMBDY",
-                "id": "UCx4PajIeRFVrd-0Nl4MeNhQ"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/f4kHzXq1NmKiOWAPO2Afuc7rmsg7OQ10NJorg6tipzwAshBS3ezaJOYPxE5mmZ4pkBLuh_BMv7s63HE0=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/f4kHzXq1NmKiOWAPO2Afuc7rmsg7OQ10NJorg6tipzwAshBS3ezaJOYPxE5mmZ4pkBLuh_BMv7s63HE0=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Fade Away",
-            "id": "MPREb_RcjrAysp3Yx"
-        }
-    },
-    {
-        "title": "Stay",
-        "videoId": "ExIqqBlYqPQ",
-        "artists": [
-            {
-                "name": "Nicky Romero",
-                "id": "UCoDLwGqQLut_fVS3Ix9wJzA"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/P8JZ-DxJRDT2SxMNcrn8D6EREAglwumeZjqTxAC1c6L9TR9_A7wRYwlzYxdNgCnYSrVbkbhoY5XgHBaN=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/P8JZ-DxJRDT2SxMNcrn8D6EREAglwumeZjqTxAC1c6L9TR9_A7wRYwlzYxdNgCnYSrVbkbhoY5XgHBaN=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Stay",
-            "id": "MPREb_HMmCRD9Capa"
-        }
-    },
-    {
-        "title": "Live Like This",
-        "videoId": "A2cWGCQAlgI",
-        "artists": [
-            {
-                "name": "Justin Mylo",
-                "id": "UCPbbHvxR-HwBC9gbAgV12YA"
-            },
-            {
-                "name": "Navarra",
-                "id": "UC6K2mlYKEvDpeptdfzkdYvw"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/dwu7MkwLBIhBa1ifpsggdEc9JUZZ1okM5j-1WsX8LJEX7_G_nhqBvsqWhLELX289kNJyTD2QVzenc8Q=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/dwu7MkwLBIhBa1ifpsggdEc9JUZZ1okM5j-1WsX8LJEX7_G_nhqBvsqWhLELX289kNJyTD2QVzenc8Q=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Live Like This",
-            "id": "MPREb_vcrtuUPqPph"
-        }
-    },
-    {
-        "title": "All Cried Out",
-        "videoId": "5agdFfPJIXY",
-        "artists": [
-            {
-                "name": "Lucas & Steve & AlterBoyz",
-                "id": null
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/fMI797SxtZHlqJNN8KNQ5pMAWBVyNJ1LX2sNVwGaiTGY53820lZNRcipt1_Y0Am9T4Q7-_lIZ4WAm27C=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/fMI797SxtZHlqJNN8KNQ5pMAWBVyNJ1LX2sNVwGaiTGY53820lZNRcipt1_Y0Am9T4Q7-_lIZ4WAm27C=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Letters To Remember",
-            "id": "MPREb_hra2tlSFPtb"
-        }
-    },
-    {
-        "title": "Summer Days (Ti\u00ebsto Remix) (feat. Macklemore & Patrick Stump of Fall Out Boy)",
-        "videoId": "PmFob8sHeAk",
-        "artists": [
-            {
-                "name": "Martin Garrix",
-                "id": "UCqJnSdHjKtfsrHi9aI-9d3g"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/OgPkjkFeoz6cq8ASNXmCRcR-KOg4ooHfGkbHVmwFgp3FKarhXYGGo2vFIVEjJd5GpqQ50s6FVdnCicQ=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/OgPkjkFeoz6cq8ASNXmCRcR-KOg4ooHfGkbHVmwFgp3FKarhXYGGo2vFIVEjJd5GpqQ50s6FVdnCicQ=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Summer Days (Remixes)",
-            "id": "MPREb_mwfvA8vnvVt"
-        }
-    },
-    {
-        "title": "Wait For Life",
-        "videoId": "i2jLIK5C8W0",
-        "artists": [
-            {
-                "name": "Lucas & Steve",
-                "id": "UC3CUl_qWuxNANG7PavLxU3A"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/fMI797SxtZHlqJNN8KNQ5pMAWBVyNJ1LX2sNVwGaiTGY53820lZNRcipt1_Y0Am9T4Q7-_lIZ4WAm27C=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/fMI797SxtZHlqJNN8KNQ5pMAWBVyNJ1LX2sNVwGaiTGY53820lZNRcipt1_Y0Am9T4Q7-_lIZ4WAm27C=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Letters To Remember",
-            "id": "MPREb_hra2tlSFPtb"
-        }
-    },
-    {
-        "title": "Fade Away (Calvo Remix) (feat. INNA)",
-        "videoId": "sINWlHIgSbE",
-        "artists": [
-            {
-                "name": "Sam Feldt",
-                "id": "UCyED9VjWGlNsLljCgyLRoqw"
-            },
-            {
-                "name": "Lush & Simon",
-                "id": "UCeTJmYGWltZiCjuNDLqIVkg"
-            }
-        ],
-        "thumbnails": [
-            {
-                "url": "https://lh3.googleusercontent.com/rji3qiDk7ehhI1qxkYnkE3d0_8qI_kPwH_DSJIvrlKZdu0FVdPPSeIdpYR-5GvzNgE3FqKM33LDQGRIA=w60-h60-l90-rj",
-                "width": 60,
-                "height": 60
-            },
-            {
-                "url": "https://lh3.googleusercontent.com/rji3qiDk7ehhI1qxkYnkE3d0_8qI_kPwH_DSJIvrlKZdu0FVdPPSeIdpYR-5GvzNgE3FqKM33LDQGRIA=w120-h120-l90-rj",
-                "width": 120,
-                "height": 120
-            }
-        ],
-        "isExplicit": false,
-        "album": {
-            "name": "Fade Away (The Remixes)",
-            "id": "MPREb_vzGAL7hI47N"
-        }
-    }
-]
+    ],
+    "duration_seconds": 3421
+}

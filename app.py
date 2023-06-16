@@ -152,6 +152,20 @@ def get_related():
     elif type(related_song) == dict:
         data = related_song["contents"]
     return convert_to_json(data)
+@app.route('/songs/lyrics/')
+def get_lyrics():
+    query = request.args.get('q')
+    search_keyword_for_spotify_id = re.sub(r'[^\w\s]', '', query)
+    def lyrics(search_keyword_for_spotify_id):
+        trackId = find_track_id(search_keyword_for_spotify_id)
+        if trackId == None:
+            return {"error": True}
+        else:
+            url = "https://spotify-lyric-api.herokuapp.com/?trackid=" + trackId
+            request = requests.get(url)
+            return request.json()
+    lyrics = lyrics(search_keyword_for_spotify_id)
+    return convert_to_json(lyrics)
 
 @app.route('/songs/metadata/')
 def get_song_metadata():

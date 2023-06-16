@@ -1,395 +1,216 @@
 {
-    "title": "ASCEND",
-    "type": "Album",
-    "thumbnails": [
+    "error": false,
+    "syncType": "LINE_SYNCED",
+    "lines": [
         {
-            "url": "https://lh3.googleusercontent.com/cUc4OSjMQi5gO3Tp1LbyqJAEprML0Pvt1vFKBC4Pag-jE4rJ0auFohSTT_6r1EodMH4lxIJVXV0eCOGR=w60-h60-l90-rj",
-            "width": 60,
-            "height": 60
+            "startTimeMs": "10880",
+            "words": "Somedays it goes your way",
+            "syllables": [],
+            "endTimeMs": "0"
         },
         {
-            "url": "https://lh3.googleusercontent.com/cUc4OSjMQi5gO3Tp1LbyqJAEprML0Pvt1vFKBC4Pag-jE4rJ0auFohSTT_6r1EodMH4lxIJVXV0eCOGR=w120-h120-l90-rj",
-            "width": 120,
-            "height": 120
+            "startTimeMs": "13770",
+            "words": "Your on a road you can't explain",
+            "syllables": [],
+            "endTimeMs": "0"
         },
         {
-            "url": "https://lh3.googleusercontent.com/cUc4OSjMQi5gO3Tp1LbyqJAEprML0Pvt1vFKBC4Pag-jE4rJ0auFohSTT_6r1EodMH4lxIJVXV0eCOGR=w226-h226-l90-rj",
-            "width": 226,
-            "height": 226
+            "startTimeMs": "16490",
+            "words": "And then it all goes down the drain",
+            "syllables": [],
+            "endTimeMs": "0"
         },
         {
-            "url": "https://lh3.googleusercontent.com/cUc4OSjMQi5gO3Tp1LbyqJAEprML0Pvt1vFKBC4Pag-jE4rJ0auFohSTT_6r1EodMH4lxIJVXV0eCOGR=w544-h544-l90-rj",
-            "width": 544,
-            "height": 544
+            "startTimeMs": "22710",
+            "words": "Your cat's hit by a car",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "24500",
+            "words": "The ATM eats you card",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "27220",
+            "words": "You're wondering what changed from yesterday",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "33690",
+            "words": "Save me from- from going mental",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "39970",
+            "words": "Save me from just spinning out",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "44420",
+            "words": "Somedays are better than others",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "49830",
+            "words": "Somedays you just can't figure out",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "55250",
+            "words": "Somedays you can't explain",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "61500",
+            "words": "My best friend and me one night",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "64210",
+            "words": "Were drinking peace on crescent height (?)",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "66040",
+            "words": "Just like that we end up in a fight",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "72300",
+            "words": "Like a yo-yo up and down",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "75140",
+            "words": "You're heading north",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "76020",
+            "words": "You end up south",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "77870",
+            "words": "Save me from- from going mental",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "84110",
+            "words": "Save me from just spinning out",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "89530",
+            "words": "Somedays are better than others",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "94020",
+            "words": "Somedays you just can't figure out",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "99430",
+            "words": "Somedays are better than others",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "104910",
+            "words": "You can't explain somedays away",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "113040",
+            "words": "Someday",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "139980",
+            "words": "Save me from- from going mental",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "145300",
+            "words": "Save me from spinning out",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "153490",
+            "words": "Somedays are better",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "156180",
+            "words": "Somedays are never",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "158850",
+            "words": "Somedays- whatever",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "165140",
+            "words": "Somedays are better than lovers",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "170590",
+            "words": "Somedays you just can't figure out",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "175040",
+            "words": "Somedays are better than others",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "181410",
+            "words": "Somedays you just can't get out",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "186890",
+            "words": "Someday, yeah yeah",
+            "syllables": [],
+            "endTimeMs": "0"
+        },
+        {
+            "startTimeMs": "215650",
+            "words": "",
+            "syllables": [],
+            "endTimeMs": "0"
         }
-    ],
-    "description": "Ascend is the third studio album by American DJ and producer Illenium, released on August 16, 2019, through Astralwerks, making it his major-label debut and his only album on the label. The album features six singles.\n\nFrom Wikipedia (https://en.wikipedia.org/wiki/Ascend_(Illenium_album)) under Creative Commons Attribution CC-BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/legalcode)",
-    "artists": [
-        {
-            "name": "ILLENIUM",
-            "id": "UCX1RfjxgafTHW4gYocAD1lw"
-        }
-    ],
-    "year": "2019",
-    "trackCount": 17,
-    "duration": "57 minutes",
-    "audioPlaylistId": "OLAK5uy_kNUHhQrbCk0ziHFbUU3lmMr0eR8WMA9VQ",
-    "tracks": [
-        {
-            "videoId": "e8kinz5RKdQ",
-            "title": "I Care (Intro)",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": false,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "0:34",
-            "duration_seconds": 34,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "yqu2BcD4-ow",
-            "title": "Hold On",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": false,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "3:56",
-            "duration_seconds": 236,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "XpmeVNxZ-Ks",
-            "title": "Good Things Fall Apart",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": false,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "3:37",
-            "duration_seconds": 217,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "qG6E4r1gumk",
-            "title": "That\u2019s Why",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": true,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "4:13",
-            "duration_seconds": 253,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "E4jggmGSoOk",
-            "title": "Blood",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": false,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "4:08",
-            "duration_seconds": 248,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "SL_-RqReveA",
-            "title": "Take You Down",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": false,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "3:42",
-            "duration_seconds": 222,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "zvbDiwV1LWU",
-            "title": "All Together",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": false,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "3:59",
-            "duration_seconds": 239,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "Q6jnXN_nTlY",
-            "title": "Crashing (feat. Bahari)",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": false,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "3:50",
-            "duration_seconds": 230,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "wZv1fTFYGSQ",
-            "title": "Broken Ones",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": false,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "3:19",
-            "duration_seconds": 199,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "k6IY8yAkr2o",
-            "title": "Every Piece Of Me",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": false,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "3:44",
-            "duration_seconds": 224,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": null,
-            "title": "Takeaway",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": null,
-            "thumbnails": null,
-            "isAvailable": false,
-            "isExplicit": false,
-            "videoType": null,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "d1h07IzKsms",
-            "title": "Sad Songs",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": true,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "3:31",
-            "duration_seconds": 211,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "oDB-3auyYMw",
-            "title": "Pray (feat. Kameron)",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": false,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "4:56",
-            "duration_seconds": 296,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "mt1mXwBLsSE",
-            "title": "In Your Arms",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": false,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "3:41",
-            "duration_seconds": 221,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "sw70hBAYA44",
-            "title": "Gorgeous",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": false,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "4:38",
-            "duration_seconds": 278,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "OcZ4RZZEj7k",
-            "title": "Angel (Lonely Prelude)",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": false,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "0:42",
-            "duration_seconds": 42,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        },
-        {
-            "videoId": "BWorPV9036o",
-            "title": "Lonely",
-            "artists": [
-                {
-                    "name": "ILLENIUM",
-                    "id": "UCX1RfjxgafTHW4gYocAD1lw"
-                }
-            ],
-            "likeStatus": "INDIFFERENT",
-            "thumbnails": null,
-            "isAvailable": true,
-            "isExplicit": false,
-            "videoType": "MUSIC_VIDEO_TYPE_OMV",
-            "duration": "4:31",
-            "duration_seconds": 271,
-            "album": {
-                "id": "MPREb_2V5EwUj7RF9",
-                "name": "ASCEND"
-            }
-        }
-    ],
-    "duration_seconds": 3421
+    ]
 }

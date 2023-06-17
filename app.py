@@ -123,6 +123,9 @@ def get_albums():
         for i in response["tracks"]:
             i.pop("album")
             i.update({"album": {"id" : browseId, "name": response["title"]}})
+            i.pop("thumbnails")
+            videoId = i["videoId"]
+            i.update({"thumbnails": [{"height": 720, "width": 1280, "url": f"http://i.ytimg.com/vi/{videoId}/maxresdefault.jpg"}]})
         data = response
         return convert_to_json(data)
     if browseId == None:

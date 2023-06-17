@@ -141,6 +141,14 @@ def get_user():
 def get_my_ip():
     return jsonify({'ip': request.remote_addr}), 200
 
+@app.route('/videos/related/')
+def get_related_videos():
+    videoId = request.args.get('videoId')
+    watch_playlist = ytmusic.get_watch_playlist(videoId)
+    watch_playlist = watch_playlist["tracks"]
+    watch_playlist.remove(watch_playlist[0])
+    return convert_to_json(watch_playlist)
+
 @app.route('/songs/related/')
 def get_related():
     videoId = request.args.get('videoId')
@@ -155,8 +163,19 @@ def get_related():
 @app.route('/songs/lyrics/')
 def get_lyrics():
     query = request.args.get('q')
+    def clear_featured_artist(string):
+        # Define the pattern to match the "(feat. [any artist])" part
+        pattern = r'\(feat\. [^\)]+\)'
+
+        # Use regex to find and remove the pattern from the string
+        cleaned_string = re.sub(pattern, '', string, flags=re.IGNORECASE)
+
+        # Remove any leading or trailing spaces
+        cleaned_string = cleaned_string.strip()
+
+        return cleaned_string
     search_keyword_for_spotify_id = re.sub(r'[^\w\s]', '', query)
-    search_keyword_for_spotify_id = re.sub(r'\(feat\..*?\)', '', search_keyword_for_spotify_id).strip()
+    search_keyword_for_spotify_id = clear_featured_artist(search_keyword_for_spotify_id)
     def lyrics(search_keyword_for_spotify_id):
         trackId = find_track_id(search_keyword_for_spotify_id)
         if trackId == None:

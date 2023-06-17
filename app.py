@@ -156,6 +156,7 @@ def get_related():
 def get_lyrics():
     query = request.args.get('q')
     search_keyword_for_spotify_id = re.sub(r'[^\w\s]', '', query)
+    search_keyword_for_spotify_id = re.sub(r'\(feat\..*?\)', '', search_keyword_for_spotify_id).strip()
     def lyrics(search_keyword_for_spotify_id):
         trackId = find_track_id(search_keyword_for_spotify_id)
         if trackId == None:

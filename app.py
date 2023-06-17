@@ -147,6 +147,9 @@ def get_related_videos():
     watch_playlist = ytmusic.get_watch_playlist(videoId)
     watch_playlist = watch_playlist["tracks"]
     watch_playlist.remove(watch_playlist[0])
+    for item in watch_playlist:
+        item.pop("length")
+        item["thumbnails"] = item.pop("thumbnail")
     return convert_to_json(watch_playlist)
 
 @app.route('/songs/related/')

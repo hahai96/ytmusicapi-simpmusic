@@ -17,7 +17,7 @@ import billboard
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
-ytmusic = YTMusic()
+# ytmusic = YTMusic()
 
 
 app = Flask(__name__)
@@ -79,6 +79,8 @@ def log():
 def search():
     query = request.args.get('q')
     filter = request.args.get('f')
+    region = request.args.get('r')
+    ytmusic = YTMusic(location=region)
     if (filter != None):
         result = ytmusic.search(query, filter, limit=40)
         print (len(result))
@@ -100,13 +102,17 @@ def query():
 
 @app.route('/home')
 def get_home():
-    data = ytmusic.get_home(limit=20)
+    region = request.args.get('r')
+    ytmusic = YTMusic(location=region)
+    data = ytmusic.get_home(limit=30)
     return convert_to_json(data)
 
 @app.route('/browse/artists/')
 def browse_artists():
     channelId = request.args.get('channelId')
     params = request.args.get('params')
+    region = request.args.get('r')
+    ytmusic = YTMusic(location=region)
     if params == None:
         data = ytmusic.get_artist(channelId)
         return convert_to_json(data)
@@ -116,6 +122,8 @@ def browse_artists():
     
 @app.route('/browse/albums/')
 def get_albums():
+    region = request.args.get('r')
+    ytmusic = YTMusic(location=region)
     browseId = request.args.get('browseId')
     audioPlaylistId = request.args.get('audioPlaylistId')
     if audioPlaylistId == None:
@@ -134,6 +142,8 @@ def get_albums():
 
 @app.route('/user/')
 def get_user():
+    region = request.args.get('r')
+    ytmusic = YTMusic(location=region)
     channelId = request.args.get('channelId')
     params = request.args.get('params')
     if params == None:
@@ -146,6 +156,8 @@ def get_my_ip():
 
 @app.route('/videos/related/')
 def get_related_videos():
+    region = request.args.get('r')
+    ytmusic = YTMusic(location=region)
     videoId = request.args.get('videoId')
     watch_playlist = ytmusic.get_watch_playlist(videoId)
     watch_playlist = watch_playlist["tracks"]
@@ -157,6 +169,8 @@ def get_related_videos():
 
 @app.route('/songs/related/')
 def get_related():
+    region = request.args.get('r')
+    ytmusic = YTMusic(location=region)
     videoId = request.args.get('videoId')
     watch_playlist = ytmusic.get_watch_playlist(videoId)
     browseId = watch_playlist["related"]
@@ -195,6 +209,8 @@ def get_lyrics():
 
 @app.route('/songs/metadata/')
 def get_song_metadata():
+    region = request.args.get('r')
+    ytmusic = YTMusic(location=region)
     videoId = request.args.get('videoId')
     song_ytm = ytmusic.get_song(videoId)
     query = ""
@@ -272,6 +288,8 @@ def get_thumbnails():
 #EXPLORE
 @app.route('/explore/mood/title')
 def get_explore_mood():
+    region = request.args.get('r')
+    ytmusic = YTMusic(location=region)
     response = ytmusic._send_request("browse", {"browseId": "FEmusic_moods_and_genres"})
     moods = []
     genre = []
@@ -332,6 +350,8 @@ def get_explore_mood():
 @app.route('/explore/genre')
 def get_explore_playlist():
     params = request.args.get('p')
+    region = request.args.get('r')
+    ytmusic = YTMusic(location=region)
     endpoint = "FEmusic_moods_and_genres_category"
     response_1 = ytmusic._send_request("browse", {"browseId": endpoint, "params": params})
     with open("logs.json", "w") as f:
@@ -409,6 +429,8 @@ def get_explore_playlist():
 @app.route('/explore/mood')
 def get_explore_mood_playlist():
     params = request.args.get('p')
+    region = request.args.get('r')
+    ytmusic = YTMusic(location=region)
     endpoint = "FEmusic_moods_and_genres_category"
     response = ytmusic._send_request("browse", {"browseId": endpoint, "params": params})
     header = nav(response, ["header","musicHeaderRenderer", "title", "runs", 0, "text"])
@@ -449,6 +471,8 @@ def get_explore_mood_playlist():
 @app.route('/explore/charts')
 def get_explore_charts():
     countryCode = request.args.get('cc')
+    region = request.args.get('r')
+    ytmusic = YTMusic(location=region)
     data = ytmusic.get_charts(countryCode)
     return convert_to_json(data)
     #     {
@@ -543,6 +567,8 @@ def get_explore_charts():
 @app.route('/playlists')
 def get_playlist():
     playlistId = request.args.get('id')
+    region = request.args.get('r')
+    ytmusic = YTMusic(location=region)
     data = ytmusic.get_playlist(playlistId)
     return convert_to_json(data)
     # {

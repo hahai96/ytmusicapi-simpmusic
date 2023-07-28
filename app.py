@@ -91,6 +91,15 @@ def search():
         print (len(result))
         a = convert_to_json(result)
         return a
+    
+@app.route('/song/', methods=['GET'])
+def get_song():
+    videoId = request.args.get('videoId')
+    url = f"https://pipedapi.kavin.rocks/streams/{videoId}"
+    r = requests.get(url=url)
+    result = r.json()
+    return convert_to_json(result)
+
 @app.route("/query/", methods=['GET'])
 def query():
     query = request.args.get('q')

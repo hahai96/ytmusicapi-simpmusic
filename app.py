@@ -98,6 +98,7 @@ def get_song():
     url = f"https://pipedapi.kavin.rocks/streams/{videoId}"
     r = requests.get(url=url)
     result = r.json()
+    result = result['audioStreams']
     return convert_to_json(result)
 
 @app.route("/query/", methods=['GET'])

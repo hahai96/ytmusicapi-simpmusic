@@ -114,6 +114,15 @@ def get_song_full():
     data.update({"thumbnails": [{"height": 720, "width": 1280, "url": result["thumbnailUrl"]} ]})
     return convert_to_json(data)
 
+@app.route('/name/', methods=['GET'])
+def get_name():
+    name = request.args.get('n')
+    url = f"https://pipedapi.kavin.rocks/c/{name}"
+    r = requests.get(url=url)
+    result = r.json()
+    data = {"id": result["id"]}
+    return convert_to_json(data)
+
 @app.route("/query/", methods=['GET'])
 def query():
     query = request.args.get('q')

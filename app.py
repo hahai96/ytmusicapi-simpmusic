@@ -68,7 +68,7 @@ def thumbnail(songId):
 @app.route('/', methods=['GET'])
 def info():
     return """YTMusic API from maxrave
-    Thanks to @ytmusicapi, @spotipy, @billboard.py, @pytube"""
+    Thanks to @ytmusicapi, @spotipy, @Piped"""
 
 @app.route('/log', methods=['GET'])
 def log():
@@ -100,6 +100,19 @@ def get_song():
     result = r.json()
     result = result['audioStreams']
     return convert_to_json(result)
+
+@app.route('/song/full/', methods=['GET'])
+def get_song_full():
+    videoId = request.args.get('videoId')
+    url = f"https://pipedapi.kavin.rocks/streams/{videoId}"
+    r = requests.get(url=url)
+    result = r.json()
+    data = {}
+    data.update({"audioStreams": result["audioStreams"]})
+    data.update({"title": result["title"]})
+    data.update({"artist": [{"name": result["uploader"], "id": result["uploaderUrl"].replace("/channel/", "")} ]})
+    data.update({"thumbnails": [{"height": 720, "width": 1280, "url": result["thumbnailUrl"]} ]})
+    return convert_to_json(data)
 
 @app.route("/query/", methods=['GET'])
 def query():

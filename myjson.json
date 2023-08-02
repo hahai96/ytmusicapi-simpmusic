@@ -1,3324 +1,1561 @@
 [
     {
-        "title": "Ch\u1ecdn nhanh \u0111\u00e0i ph\u00e1t",
-        "contents": [
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby",
+        "album": {
+            "name": "Lullaby",
+            "id": "MPREb_uHCm69pmKyD"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "AkAgLlx-TPg",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:41",
+        "year": null,
+        "artists": [
             {
-                "title": "\u00c0 L\u00f4i",
-                "videoId": "-puZEwdU70A",
-                "artists": [
-                    {
-                        "name": "Double2T",
-                        "id": "UCwlxL3z8YeV_fk44k1BzJzg"
-                    },
-                    {
-                        "name": "Masew",
-                        "id": "UCNiFivCmiX0fUCkKOe8dEFA"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/vyNIhwcE0Re8HP8WbvXZWksou6HrmKcT3UWLT4f-VuuPxuRVUSHFs9k1hxMM8aSoCwsZpNWBPXkbDPU=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/vyNIhwcE0Re8HP8WbvXZWksou6HrmKcT3UWLT4f-VuuPxuRVUSHFs9k1hxMM8aSoCwsZpNWBPXkbDPU=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "\u00c0 L\u00f4i",
-                    "id": "MPREb_4IQNfqUqngp"
-                }
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
             },
             {
-                "title": "\u8d77\u98ce\u4e86",
-                "videoId": "YB5iYbg-aYc",
-                "artists": [
-                    {
-                        "name": "\u5468\u6df1",
-                        "id": "UC3xSH5DJZ0or5Tie0q0NFig"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/kPFwVu5NbTDoal3STqQi9KwdsV3db1nsx3pJmxSeWmLwIg5t8YEwukMx6JXyUc7q0rQyzVwAgh5kZoGy=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/kPFwVu5NbTDoal3STqQi9KwdsV3db1nsx3pJmxSeWmLwIg5t8YEwukMx6JXyUc7q0rQyzVwAgh5kZoGy=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "\u8d77\u98ce\u4e86",
-                    "id": "MPREb_8Ke3u4W9gC1"
-                }
+                "name": "Mike Williams",
+                "id": "UCaJjl78OicxKmSWf-e1dlKg"
+            }
+        ],
+        "duration_seconds": 161,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/hnW-Mib19RRALhdpkPkApziw1SLqXIylLBiNstyMuEjOa7O0AzpLoSG_fXo8SEhWdifHRsutYJGHILA=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "L\u00e0 Anh",
-                "videoId": "buPlpGsuti4",
-                "artists": [
-                    {
-                        "name": "Ph\u1ea1m L\u1ecbch",
-                        "id": "UC2q--FlOe8ugGg6j-ynduhg"
-                    },
-                    {
-                        "name": "BMZ",
-                        "id": "UCCg8UFhon8jw4RaLepsSjag"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/cEw1gY7viWofEp_lxAJpx_hOshBa9GnOFPNczlI5SkNI8ACKqxKyM8n0AGcA5EBUXrmH0AAnLiQVWpKl=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/cEw1gY7viWofEp_lxAJpx_hOshBa9GnOFPNczlI5SkNI8ACKqxKyM8n0AGcA5EBUXrmH0AAnLiQVWpKl=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "L\u00e0 Anh",
-                    "id": "MPREb_GLf3YM1n9ht"
-                }
-            },
-            {
-                "title": "V\u00ec Em Ch\u01b0a Bao Gi\u1edd Kh\u00f3c (c\u00f9ng v\u1edbi A.C Xu\u00e2n T\u00e0i)",
-                "videoId": "oGrqPoUZCkI",
-                "artists": [
-                    {
-                        "name": "H\u00e0 Nhi",
-                        "id": "UC-ZgmLpdU3XG56RL8dNsfIw"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/bK2S6PdywXGBk8J2zQ0jWwVNM0iaJ5VvLkjygKZ_kO4auMzEHfQpYh_te-ZRobbsOvmzQnFdyfOopUwrwA=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/bK2S6PdywXGBk8J2zQ0jWwVNM0iaJ5VvLkjygKZ_kO4auMzEHfQpYh_te-ZRobbsOvmzQnFdyfOopUwrwA=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "V\u00ec Em Ch\u01b0a Bao Gi\u1edd Kh\u00f3c",
-                    "id": "MPREb_pJoYvqvBnQO"
-                }
-            },
-            {
-                "title": "Queencard",
-                "videoId": "v_gO_P8gug8",
-                "artists": [
-                    {
-                        "name": "(G)I-DLE",
-                        "id": "UCWT2ZfW7d8YI-HinHEVhyCA"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/Wv2stMD4szjwVvdle5LlQw6DSFkVsIIn2m_lHRgW-ARdxZnsSqoh2KvyUCorsW6Q4Zv-9jlvA-vaObw=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/Wv2stMD4szjwVvdle5LlQw6DSFkVsIIn2m_lHRgW-ARdxZnsSqoh2KvyUCorsW6Q4Zv-9jlvA-vaObw=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "I feel",
-                    "id": "MPREb_kjiD9GFgNcd"
-                }
-            },
-            {
-                "title": "I AM",
-                "videoId": "a0LmdjshiAQ",
-                "artists": [
-                    {
-                        "name": "IVE",
-                        "id": "UC_4Y1QqJr60C5Z7-eQWy-mw"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/x7_1s7IkR-TA_WB1EMjlsUvORQkrlVxEUVFlxJLhzfrxwSW-cbs2hSYkQXtHGIfJrH-lvQklOqmAU1EM=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/x7_1s7IkR-TA_WB1EMjlsUvORQkrlVxEUVFlxJLhzfrxwSW-cbs2hSYkQXtHGIfJrH-lvQklOqmAU1EM=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "I've IVE",
-                    "id": "MPREb_nWqaTeggmK8"
-                }
-            },
-            {
-                "title": "NGAY MAI NGUOI TA LAY CHONG",
-                "videoId": "Ad4lYfTc1sI",
-                "artists": [
-                    {
-                        "name": "TH\u00c0NH \u0110\u1ea0T",
-                        "id": "UC5BgsIM7-481lfFcptYGcsw"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/YXUb8Reei3riqh9s0xO2m5TE9NF8txl5-mjN0XN0wwbVw-tKxfpd6q0LFJqqWAfpWnMBbtIhykQ_7NM=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/YXUb8Reei3riqh9s0xO2m5TE9NF8txl5-mjN0XN0wwbVw-tKxfpd6q0LFJqqWAfpWnMBbtIhykQ_7NM=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "NG\u00c0Y MAI NG\u01af\u1edcI TA L\u1ea4Y CH\u1ed2NG",
-                    "id": "MPREb_grRIMbWSAi5"
-                }
-            },
-            {
-                "title": "Cupid",
-                "videoId": "CcAqoRmQWhA",
-                "artists": [
-                    {
-                        "name": "FIFTY FIFTY",
-                        "id": "UCMca81qQN9V3jOe7wyfbvDQ"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/aNYwueKXyXRauPqG7yd2m7ORbu18oJfE41tjt4mk6YkKrgtTlTl_dtD-9Jncl4MSg8xVG5IjAzcoSwI=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/aNYwueKXyXRauPqG7yd2m7ORbu18oJfE41tjt4mk6YkKrgtTlTl_dtD-9Jncl4MSg8xVG5IjAzcoSwI=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "The Beginning: Cupid",
-                    "id": "MPREb_TPS1vKR5d1G"
-                }
-            },
-            {
-                "title": "\u0111\u01b0a em v\u1ec1 nh\u00e0a",
-                "videoId": "YM5nx2s8cz0",
-                "artists": [
-                    {
-                        "name": "GREY D x Chillies",
-                        "id": "UCxqXDmjSpeNuScT5OPRZStQ"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/HeWuWBgVg8BmYAPa9DReKqlNThDOzLZdK_Ut4gvvhVtlEMI05LSDg5ne2RqWSE8GgEBdJKzXCuK7Bb0=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/HeWuWBgVg8BmYAPa9DReKqlNThDOzLZdK_Ut4gvvhVtlEMI05LSDg5ne2RqWSE8GgEBdJKzXCuK7Bb0=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "\u0111\u01b0a em v\u1ec1 nh\u00e0a",
-                    "id": "MPREb_ekWSFgiJgGg"
-                }
-            },
-            {
-                "title": "Super Shy",
-                "videoId": "0c7zGU2C2mM",
-                "artists": [
-                    {
-                        "name": "NewJeans",
-                        "id": "UCxOqS3cYg4FaHbobICo7nFQ"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/FzLKj6zFEJna0gRNDeZRH4nuQwEyN-YbCaC-bIGLoia6EhirHUachdvdEdR3VdB7pArgFCW8mtpLPL0=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/FzLKj6zFEJna0gRNDeZRH4nuQwEyN-YbCaC-bIGLoia6EhirHUachdvdEdR3VdB7pArgFCW8mtpLPL0=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "NewJeans 'Super Shy'",
-                    "id": "MPREb_6lRp2rpQllT"
-                }
-            },
-            {
-                "title": "Still love you",
-                "videoId": "lkNgJltBFTQ",
-                "artists": [
-                    {
-                        "name": "Lee Hong Gi, Yoo Hwe Seung",
-                        "id": "UCUgEe8gOnVrUXifs-56iw6w"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/WvzDvqz9gIxWeAMoPaWK8SHk1pekgEoT4c8h6uEOsULyG-9u8dy0h3SY-yPsDZO0IHKGdVNU2IXAy8ZQvw=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/WvzDvqz9gIxWeAMoPaWK8SHk1pekgEoT4c8h6uEOsULyG-9u8dy0h3SY-yPsDZO0IHKGdVNU2IXAy8ZQvw=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "FNC LAB 'Still love you'",
-                    "id": "MPREb_HgeEZhLWj4c"
-                }
-            },
-            {
-                "title": "\uaf43(FLOWER)",
-                "videoId": "cJ-KtgbuId0",
-                "artists": [
-                    {
-                        "name": "JISOO",
-                        "id": "UCXxpxPHh1fzPQir37pX1cog"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/jqwottkjQiLBZM03oP-gUB4V3QKnP40u0u-ONeDeHNGqSPZ9L5DFRmF5QABaeJ0U_PK6Gc27AzCUAZxl=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/jqwottkjQiLBZM03oP-gUB4V3QKnP40u0u-ONeDeHNGqSPZ9L5DFRmF5QABaeJ0U_PK6Gc27AzCUAZxl=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "ME",
-                    "id": "MPREb_ZFoSS2Ububc"
-                }
-            },
-            {
-                "title": "Hello",
-                "videoId": "Ei8UnOPJX7w",
-                "artists": [
-                    {
-                        "name": "Adele",
-                        "id": "UCRw0x9_EfawqmgDI2IgQLLg"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/LRj9RZOKcS7PrG-NvXKnwSekCqXNWMItrnuF6WXmr3MeujS1HxqjiATe6H5HCM6-hoHNYncjmlIovaaH=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/LRj9RZOKcS7PrG-NvXKnwSekCqXNWMItrnuF6WXmr3MeujS1HxqjiATe6H5HCM6-hoHNYncjmlIovaaH=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "25",
-                    "id": "MPREb_PiyfuVl6aYd"
-                }
-            },
-            {
-                "title": "Let's Say Goodbye",
-                "videoId": "AMg1locCoN0",
-                "artists": [
-                    {
-                        "name": "Parc Jae Jung",
-                        "id": "UCo7NRqhdPwDmdv1rwH5gJPg"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/qqxzG0kvaw2y25TMQKuJGE-CqyLvbrf2mDtN9zGbPZ3Zess7p1R-iQPzNrocizwqtJxqA5XNbFpqMpV4=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/qqxzG0kvaw2y25TMQKuJGE-CqyLvbrf2mDtN9zGbPZ3Zess7p1R-iQPzNrocizwqtJxqA5XNbFpqMpV4=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "Alone",
-                    "id": "MPREb_K7DYw4DyWaE"
-                }
-            },
-            {
-                "title": "\u30a2\u30a4\u30c9\u30eb",
-                "videoId": "m9SMT5ipbxk",
-                "artists": [
-                    {
-                        "name": "YOASOBI",
-                        "id": "UCI6B8NkZKqlFWoiC_xE-hzA"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/AjWNrfzz6BqjRL5diZ-bPxFqGOsNk20xS6jcqoQWpNGWdch404mDWKVBkl4s9n74aLjXJWgldqm3Dc8=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/AjWNrfzz6BqjRL5diZ-bPxFqGOsNk20xS6jcqoQWpNGWdch404mDWKVBkl4s9n74aLjXJWgldqm3Dc8=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "\u30a2\u30a4\u30c9\u30eb",
-                    "id": "MPREb_6h43ySO9duW"
-                }
-            },
-            {
-                "title": "Crush on you",
-                "videoId": "9b9QGbw896A",
-                "artists": [
-                    {
-                        "name": "Kassy",
-                        "id": "UCmTM3KKMCA7ZlfRmCF0Jivw"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/pOQ29Yf8H76eygRGBOG-1oFeQadLtlLjJ3Cbf9fdmP2Ypq62ub-qfV5FGxLnAhlel_XXe0UaNZnLcPqLcw=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/pOQ29Yf8H76eygRGBOG-1oFeQadLtlLjJ3Cbf9fdmP2Ypq62ub-qfV5FGxLnAhlel_XXe0UaNZnLcPqLcw=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "Crush on you",
-                    "id": "MPREb_WF8ncx3BPEt"
-                }
-            },
-            {
-                "title": "Ordinary Confession",
-                "videoId": "LJrxa5kej6A",
-                "artists": [
-                    {
-                        "name": "LEE MU JIN",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/gDV55Gl1tDwlkdCSwJIvQUx6i0bSog1ocXp-WytTJ2DJKnvH4Lp5l7otZgWan4XgQvoks17S2ptJSq8SiA=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/gDV55Gl1tDwlkdCSwJIvQUx6i0bSog1ocXp-WytTJ2DJKnvH4Lp5l7otZgWan4XgQvoks17S2ptJSq8SiA=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "Ordinary Confession",
-                    "id": "MPREb_MEXhFTdcBfl"
-                }
-            },
-            {
-                "title": "Seven - Clean Ver. (c\u00f9ng v\u1edbi Latto)",
-                "videoId": "9hIe7HT4GeM",
-                "artists": [
-                    {
-                        "name": "\uc815\uad6d (Jung Kook)",
-                        "id": "UC-pOuHFcndLpyfWSPVqXt_A"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/Fmc_iazw3PjZJt33CVCRwrCoZPrYIn_38nJ5g8bo8zvTmcdwXYmhRb0ftz4TJ8uT24t4kOllQHBmkZHs=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/Fmc_iazw3PjZJt33CVCRwrCoZPrYIn_38nJ5g8bo8zvTmcdwXYmhRb0ftz4TJ8uT24t4kOllQHBmkZHs=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "Seven (Weekend Ver.)",
-                    "id": "MPREb_yPe9wWayXTb"
-                }
-            },
-            {
-                "title": "Gone",
-                "videoId": "egvkZiONRwE",
-                "artists": [
-                    {
-                        "name": "ROS\u00c9",
-                        "id": "UCbpXC82cTLngSiZrysAaE-w"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/65kFV85Gei9KJYwchlCM34v9jxcvgF4DWeM5JzMo3MHpWoEV3UN883myuTaFgkCh5x4ZkP2q7ANaUfaT=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/65kFV85Gei9KJYwchlCM34v9jxcvgF4DWeM5JzMo3MHpWoEV3UN883myuTaFgkCh5x4ZkP2q7ANaUfaT=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "R",
-                    "id": "MPREb_wZMizWKpMuC"
-                }
-            },
-            {
-                "title": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e20\u0e32\u0e1e\u0e22\u0e19\u0e15\u0e4c \u201c\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01\u0e42\u0e04\u0e15\u0e23\u0e25\u0e37\u0e21\u0e22\u0e32\u0e01 My Precious\u201d)",
-                "videoId": "GsWcUoU5Qb4",
-                "artists": [
-                    {
-                        "name": "NONT TANONT",
-                        "id": "UC0qrQfKKZnoP03_8s-2n8-g"
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/a3aVTZQNZOsev0mE3Z-JvItIYvkSDlUrhwc4hkxwJ4rpcG_EmgBHOaAXMrF7p3gMxyPe4ozgn0m280sq=w60-h60-l90-rj",
-                        "width": 60,
-                        "height": 60
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/a3aVTZQNZOsev0mE3Z-JvItIYvkSDlUrhwc4hkxwJ4rpcG_EmgBHOaAXMrF7p3gMxyPe4ozgn0m280sq=w120-h120-l90-rj",
-                        "width": 120,
-                        "height": 120
-                    }
-                ],
-                "isExplicit": false,
-                "album": {
-                    "name": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01 (First Love)",
-                    "id": "MPREb_p0U6Z4J4S7l"
-                }
+                "url": "https://lh3.googleusercontent.com/hnW-Mib19RRALhdpkPkApziw1SLqXIylLBiNstyMuEjOa7O0AzpLoSG_fXo8SEhWdifHRsutYJGHILA=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
             }
         ]
     },
     {
-        "title": "Video nh\u1ea1c h\u00e0ng \u0111\u1ea7u",
-        "contents": [
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Sing Your Lullaby",
+        "album": {
+            "name": "Sing Your Lullaby",
+            "id": "MPREb_TqbwZD7IzLe"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "lJ6kdMPTPQ8",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "3:43",
+        "year": null,
+        "artists": [
             {
-                "title": "LALA",
-                "videoId": "MkO9g3ywnG4",
-                "artists": [
-                    {
-                        "name": "Myke Towers",
-                        "id": "UCYPsIfSIEwWcoynHBP5k1dg"
-                    },
-                    {
-                        "name": "147\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/MkO9g3ywnG4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lXgWOctSYj06NXI_0G4Qn1myhW7g",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "147\u00a0Tr"
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
             },
             {
-                "title": "Seven (c\u00f9ng v\u1edbi Latto)",
-                "videoId": "QU9c0053UAU",
-                "artists": [
-                    {
-                        "name": "Jung Kook",
-                        "id": "UC-pOuHFcndLpyfWSPVqXt_A"
-                    },
-                    {
-                        "name": "125\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/QU9c0053UAU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ki23gt683kPaAs_tipdild1wrLTQ",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "125\u00a0Tr"
+                "name": "Mike Williams",
+                "id": "UCaJjl78OicxKmSWf-e1dlKg"
+            }
+        ],
+        "duration_seconds": 223,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/iHl8GRtA5CQGz_mhQB9WIQnOXbtECCjezoMq0OuthYwbmL3Ea3unXQ-odqYZiYM74lWSHSymJphAzK4j=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "La Bebe (Remix)",
-                "videoId": "3mchJ-EW9rM",
-                "artists": [
-                    {
-                        "name": "Yng Lvcas, Peso Pluma",
-                        "id": null
-                    },
-                    {
-                        "name": "457\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/3mchJ-EW9rM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lYNEyEaZyHv1ANWvSP4Iaebyrdhg",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "457\u00a0Tr"
-            },
-            {
-                "title": "un x100to",
-                "videoId": "3inw26U-os4",
-                "artists": [
-                    {
-                        "name": "Grupo Frontera",
-                        "id": "UCJa2FF4TUB13Mm0GurZAqog"
-                    },
-                    {
-                        "name": "Bad Bunny",
-                        "id": "UCiY3z8HAGD6BlSNKVn2kSvQ"
-                    },
-                    {
-                        "name": "418\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/3inw26U-os4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lo_vIbzr7FHhlOBFFTJ2XcQDp33Q",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "418\u00a0Tr"
-            },
-            {
-                "title": "Try That in a Small Town",
-                "videoId": "b1_RKu-ESCY",
-                "artists": [
-                    {
-                        "name": "Jason Aldean",
-                        "id": "UCqXFqUOdli3KUx6LZ9IN5ng"
-                    },
-                    {
-                        "name": "24\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/b1_RKu-ESCY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mXhajH3T4t7VGLhH8YzeGcX7eJoA",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "24\u00a0Tr"
-            },
-            {
-                "title": "Barbie Girl Video",
-                "videoId": "ZyhrYis509A",
-                "artists": [
-                    {
-                        "name": "Aqua",
-                        "id": "UCYKLsBeLLaPmAsRkw8yznCw"
-                    },
-                    {
-                        "name": "1,2\u00a0T l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/ZyhrYis509A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mm_TTij_1aEFq8QlZ_GS91_sd8Uw",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "1,2\u00a0T"
-            },
-            {
-                "title": "TQG",
-                "videoId": "jZGpkLElSu8",
-                "artists": [
-                    {
-                        "name": "Shakira",
-                        "id": "UCo6JijJGA3IvIiPsawDK3Ww"
-                    },
-                    {
-                        "name": "KAROL G",
-                        "id": "UC7n3gWRN0vQzgiOKc51aZ4w"
-                    },
-                    {
-                        "name": "705\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/jZGpkLElSu8/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lh1-dLBLBp_B3BNhRZmVP00rstRQ",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "705\u00a0Tr"
-            },
-            {
-                "title": "Shaka Laka (c\u00f9ng v\u1edbi Kodak Black)",
-                "videoId": "nNv-QEvwfIE",
-                "artists": [
-                    {
-                        "name": "6ix9ine",
-                        "id": "UCYore7kfhcJYO_gSpN_KJKQ"
-                    },
-                    {
-                        "name": "Yailin la Mas Viral",
-                        "id": "UCpMjO3rZM1xqn-s9HmtC_cA"
-                    },
-                    {
-                        "name": "18\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/nNv-QEvwfIE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mWZT-Qfgu9EZ1UicXhDgvtuIgLTQ",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "18\u00a0Tr"
-            },
-            {
-                "title": "Tere Vaaste (From \"Zara Hatke Zara Bachke\")",
-                "videoId": "X7WXHhokylc",
-                "artists": [
-                    {
-                        "name": "Varun Jain",
-                        "id": "UCWyltr87ugPcDU_SzsiTjcA"
-                    },
-                    {
-                        "name": "Shadab Faridi",
-                        "id": "UCLk9bNLvMCKqewX0Gaqog0g"
-                    },
-                    {
-                        "name": "Altamash Faridi",
-                        "id": "UCWWTia_h5V0lV69f4IDdWSg"
-                    },
-                    {
-                        "name": "Sachin\u2013Jigar",
-                        "id": "UCcuXjaACiyViK8QTuztjR6A"
-                    },
-                    {
-                        "name": "215\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/X7WXHhokylc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kJcGI-FO64pIrlBJxcwylyMaQ7JQ",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "215\u00a0Tr"
-            },
-            {
-                "title": "ETA",
-                "videoId": "jOTfBlKSQYY",
-                "artists": [
-                    {
-                        "name": "NewJeans",
-                        "id": "UCxOqS3cYg4FaHbobICo7nFQ"
-                    },
-                    {
-                        "name": "17\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/jOTfBlKSQYY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3m3unlKCv4VdqLmuBa1jTa3JGifqA",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "17\u00a0Tr"
-            },
-            {
-                "title": "Nothing Compares 2 U (Official Music Video) [HD]",
-                "videoId": "0-EF60neguk",
-                "artists": [
-                    {
-                        "name": "Sin\u00e9ad O'Connor",
-                        "id": "UC3N6q2-7iltxJ2kQFJPEJWA"
-                    },
-                    {
-                        "name": "412\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/0-EF60neguk/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mobkv3DtulAO2ZFJ9KEqds2yW8tA",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "412\u00a0Tr"
-            },
-            {
-                "title": "Sent Gamkauwa",
-                "videoId": "n86cMw_SyWU",
-                "artists": [
-                    {
-                        "name": "Shivani Singh",
-                        "id": "UCw1nmZNMPznfIATncxoZlAQ"
-                    },
-                    {
-                        "name": "80\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/n86cMw_SyWU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nElRNbiTEgEjCs_b5yf_tMotE_GQ",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "80\u00a0Tr"
-            },
-            {
-                "title": "Guli Mata",
-                "videoId": "Gp1RNYBckBs",
-                "artists": [
-                    {
-                        "name": "Saad Lamjarred",
-                        "id": "UCq3Rh1L8aSl8C7hlMzRXCKQ"
-                    },
-                    {
-                        "name": "Shreya Ghoshal",
-                        "id": "UCrC-7fsdTCYeaRBpwA6j-Eg"
-                    },
-                    {
-                        "name": "41\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/Gp1RNYBckBs/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mZ_dJbTmCyThhI3GyAH_7La6SKDQ",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "41\u00a0Tr"
-            },
-            {
-                "title": "Idol",
-                "videoId": "ZRtdQ81jPUQ",
-                "artists": [
-                    {
-                        "name": "YOASOBI",
-                        "id": "UCI6B8NkZKqlFWoiC_xE-hzA"
-                    },
-                    {
-                        "name": "259\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/ZRtdQ81jPUQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kwJM4mC9Dpiu4_6QcRJk1Bvp1a9Q",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "259\u00a0Tr"
-            },
-            {
-                "title": "Los del Espacio",
-                "videoId": "eBSQug_xtwc",
-                "artists": [
-                    {
-                        "name": "LIT killah",
-                        "id": "UC1qoOeueDduCF1S6xnXYmqA"
-                    },
-                    {
-                        "name": "Tiago PZK",
-                        "id": "UCjYEamX786QxvyO527ezaaw"
-                    },
-                    {
-                        "name": "Maria Becerra",
-                        "id": "UCyE23CF-5Be1FgN-VcFGg8A"
-                    },
-                    {
-                        "name": "Duki",
-                        "id": "UCtLchRAZex11gn-ah1_1Pgw"
-                    },
-                    {
-                        "name": "110\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/eBSQug_xtwc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lo2IJMeg0yR3QIKm8f8tOO6v_sMw",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "110\u00a0Tr"
-            },
-            {
-                "title": "Zihaal e Miskin",
-                "videoId": "11OWuPcElJw",
-                "artists": [
-                    {
-                        "name": "Javed - Mohsin, Vishal Mishra v\u00e0 Shreya Ghoshal",
-                        "id": null
-                    },
-                    {
-                        "name": "160\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/11OWuPcElJw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n8erhhTIFIgPcMsdWUlM4l-l48xg",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "160\u00a0Tr"
-            },
-            {
-                "title": "Ella Baila Sola",
-                "videoId": "lZiaYpD9ZrI",
-                "artists": [
-                    {
-                        "name": "Eslab\u00f3n Armado",
-                        "id": "UCmqrOR5GZcSNS5BLAAt6hPg"
-                    },
-                    {
-                        "name": "Peso Pluma",
-                        "id": "UCzmabbKsmXlWnI9N2kKQ4lA"
-                    },
-                    {
-                        "name": "312\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/lZiaYpD9ZrI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kMe_tWXfZ2rSxRf27CXdOVeNjt7A",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "312\u00a0Tr"
-            },
-            {
-                "title": "S91",
-                "videoId": "B-mmOSi3K_k",
-                "artists": [
-                    {
-                        "name": "KAROL G",
-                        "id": "UC7n3gWRN0vQzgiOKc51aZ4w"
-                    },
-                    {
-                        "name": "41\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/B-mmOSi3K_k/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n39CUBIdqyXNtHsJYfSt4qDmX69A",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "41\u00a0Tr"
-            },
-            {
-                "title": "Classy 101",
-                "videoId": "cD5T1Y4b7wA",
-                "artists": [
-                    {
-                        "name": "Feid",
-                        "id": "UCc3e8O2V5_7OA300ursDyFQ"
-                    },
-                    {
-                        "name": "Young Miko",
-                        "id": "UCJzwfOuHuaB6DuPfh6rrPoA"
-                    },
-                    {
-                        "name": "186\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/cD5T1Y4b7wA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kz8wNDjkK141Ehey5dW7mX-mrpig",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "186\u00a0Tr"
-            },
-            {
-                "title": "Haloday\u0131 (feat. Azer B\u00fclb\u00fcl) - Aman G\u00fczel Yava\u015f Y\u00fcr\u00fc",
-                "videoId": "x6WIaylMrmM",
-                "artists": [
-                    {
-                        "name": "Bar\u0131\u015f M\u00fczik",
-                        "id": "UCwwZvHgUqj-dJXpIgZJIwyw"
-                    },
-                    {
-                        "name": "43\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/x6WIaylMrmM/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ldt-0JI4WlcK1eiNSOm1JlKDie7g",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "43\u00a0Tr"
-            },
-            {
-                "title": "Fr\u00e1gil",
-                "videoId": "MtPgcgcZZEc",
-                "artists": [
-                    {
-                        "name": "Yahritza Y Su Esencia",
-                        "id": "UC5oOy_NEadrnh0lXtJpzgjA"
-                    },
-                    {
-                        "name": "Grupo Frontera",
-                        "id": "UCJa2FF4TUB13Mm0GurZAqog"
-                    },
-                    {
-                        "name": "103\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/MtPgcgcZZEc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mh_53ypv2tLUWsyusuBnVjGhYpnA",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "103\u00a0Tr"
-            },
-            {
-                "title": "Queencard",
-                "videoId": "7HDeem-JaSY",
-                "artists": [
-                    {
-                        "name": "(G)I-DLE",
-                        "id": "UCWT2ZfW7d8YI-HinHEVhyCA"
-                    },
-                    {
-                        "name": "186\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/7HDeem-JaSY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lqp8Z4iHXRnI2ZESjG32PWrrDSHg",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "186\u00a0Tr"
-            },
-            {
-                "title": "CORAZ\u00d3N VAC\u00cdO",
-                "videoId": "bwleqLlAu-Y",
-                "artists": [
-                    {
-                        "name": "Maria Becerra",
-                        "id": "UCyE23CF-5Be1FgN-VcFGg8A"
-                    },
-                    {
-                        "name": "56\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/bwleqLlAu-Y/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3neqXocuUJfk-c_WtYzWqldQZYEdg",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "56\u00a0Tr"
-            },
-            {
-                "title": "Qu\u00e9 Agon\u00eda",
-                "videoId": "Q8xIa7KcI1A",
-                "artists": [
-                    {
-                        "name": "\u00c1ngela Aguilar",
-                        "id": "UC4cu15Vfy2VLuqV-pQSXSug"
-                    },
-                    {
-                        "name": "Yuridia",
-                        "id": "UCKgCf7mtjN7yyYjrDJ1QJnQ"
-                    },
-                    {
-                        "name": "442\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/Q8xIa7KcI1A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nwvR6BgDz_QF-WBfXvRzUEZ0LqFw",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "442\u00a0Tr"
-            },
-            {
-                "title": "K-POP",
-                "videoId": "_kS7F4VpJa0",
-                "artists": [
-                    {
-                        "name": "The Weeknd",
-                        "id": "UClYV6hHlupm_S_ObS1W-DYw"
-                    },
-                    {
-                        "name": "Bad Bunny",
-                        "id": "UCiY3z8HAGD6BlSNKVn2kSvQ"
-                    },
-                    {
-                        "name": "Travis Scott",
-                        "id": "UCf_gP4AMRSgAfyzbkeS9k4g"
-                    },
-                    {
-                        "name": "14\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/_kS7F4VpJa0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3n__7j-d2GhIYrfH6qghFqmUFHrQg",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "14\u00a0Tr"
-            },
-            {
-                "title": "PESO PLUMA: Bzrp Music Sessions, Vol. 55",
-                "videoId": "v5_SYkFpFiY",
-                "artists": [
-                    {
-                        "name": "Bizarrap",
-                        "id": "UCONiUl5u7y2bMaVZJcuRDEQ"
-                    },
-                    {
-                        "name": "Peso Pluma",
-                        "id": "UCzmabbKsmXlWnI9N2kKQ4lA"
-                    },
-                    {
-                        "name": "165\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/v5_SYkFpFiY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kb9bW0Vka8GqgRHR_AJOUePMtKsg",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "165\u00a0Tr"
-            },
-            {
-                "title": "Barbie World (with Aqua) (c\u00f9ng v\u1edbi Aqua)",
-                "videoId": "CUj2AWEJnwQ",
-                "artists": [
-                    {
-                        "name": "Nicki Minaj",
-                        "id": "UCTTcTeAszDGxALRSMkJH9FQ"
-                    },
-                    {
-                        "name": "Ice Spice",
-                        "id": "UCUA7hrg4GtPogRTgHqNWA7g"
-                    },
-                    {
-                        "name": "50\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/CUj2AWEJnwQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nutC28hpNbtVaYuuTL2zVJaYZzsA",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "50\u00a0Tr"
-            },
-            {
-                "title": "Calm Down",
-                "videoId": "WcIcVapfqXw",
-                "artists": [
-                    {
-                        "name": "Rema",
-                        "id": "UCy6qn2oxmoXA4_gBA5Q7zPw"
-                    },
-                    {
-                        "name": "Selena Gomez",
-                        "id": "UCeBYRgPhy8kcRmIGQWKuqdQ"
-                    },
-                    {
-                        "name": "576\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/WcIcVapfqXw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3k5HWS-TfxVYRjJlI1ty4OMsHX_Cg",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "576\u00a0Tr"
-            },
-            {
-                "title": "Seven (c\u00f9ng v\u1edbi Latto)",
-                "videoId": "1QYBiNRu1ok",
-                "artists": [
-                    {
-                        "name": "Jung Kook",
-                        "id": "UC-pOuHFcndLpyfWSPVqXt_A"
-                    },
-                    {
-                        "name": "28\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/1QYBiNRu1ok/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lYArDz2Rr8DpXjqVHpCWqHb1gH8A",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "28\u00a0Tr"
-            },
-            {
-                "title": "Naa Ready",
-                "videoId": "szvt1vD0Uug",
-                "artists": [
-                    {
-                        "name": "Asal Kolaar",
-                        "id": "UCeQwH00D8hF6R32OIBrW5AQ"
-                    },
-                    {
-                        "name": "84\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/szvt1vD0Uug/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lUBLVt3wmtu9f1hBk6Hsxnrcn1YA",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "84\u00a0Tr"
-            },
-            {
-                "title": "Baby - O Rendu Prema Meghaalila | Anand Deverakonda,Vaishnavi, Viraj| Vijai Bulganin,Sai Rajesh, SKN",
-                "videoId": "D_SRMiIWyL4",
-                "artists": [
-                    {
-                        "name": "Sony Music South",
-                        "id": "UCn4rEMqKtwBQ6-oEwbd4PcA"
-                    },
-                    {
-                        "name": "43\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/D_SRMiIWyL4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lvwuDMaiWODV-GsAIBd6blKkHMwQ",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "43\u00a0Tr"
-            },
-            {
-                "title": "Jhoome Jo Pathaan",
-                "videoId": "YxWlaYCA8MU",
-                "artists": [
-                    {
-                        "name": "Vishal - Shekhar",
-                        "id": "UCWXJyrk1diAufFuTHCTfQ2A"
-                    },
-                    {
-                        "name": "Arijit Singh",
-                        "id": "UCDxKh1gFWeYsqePvgVzmPoQ"
-                    },
-                    {
-                        "name": "Sukriti Kakkar",
-                        "id": "UCmXA9buYa5HeKA73CeoAaUw"
-                    },
-                    {
-                        "name": "Vishal Dadlani",
-                        "id": "UCe223VU7Yb2pRFxMpHUdCvA"
-                    },
-                    {
-                        "name": "633\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/YxWlaYCA8MU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nc8I_l1bSebkAOfUHMRJ3uSDVqsQ",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "633\u00a0Tr"
-            },
-            {
-                "title": "Pobre Coraz\u00f3n (Ao Vivo) (c\u00f9ng v\u1edbi Onda Sabanera)",
-                "videoId": "Dcow-Jp3Ak4",
-                "artists": [
-                    {
-                        "name": "Ke Personajes",
-                        "id": "UCYJ_9Y3IoTbGZpU0TuQ8PPA"
-                    },
-                    {
-                        "name": "210\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/Dcow-Jp3Ak4/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nFPC_JacAR9WcdeZxCB0hZjuZoiw",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "210\u00a0Tr"
-            },
-            {
-                "title": "OJITOS ROJOS",
-                "videoId": "LTE9ktAcSQg",
-                "artists": [
-                    {
-                        "name": "Grupo Frontera",
-                        "id": "UCJa2FF4TUB13Mm0GurZAqog"
-                    },
-                    {
-                        "name": "Ke Personajes",
-                        "id": "UCYJ_9Y3IoTbGZpU0TuQ8PPA"
-                    },
-                    {
-                        "name": "13\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/LTE9ktAcSQg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kf18VqNs28dbkNl5wShAFMqNiq2A",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "13\u00a0Tr"
-            },
-            {
-                "title": "TULUM",
-                "videoId": "mG_RN0oB4oE",
-                "artists": [
-                    {
-                        "name": "Peso Pluma",
-                        "id": "UCzmabbKsmXlWnI9N2kKQ4lA"
-                    },
-                    {
-                        "name": "Grupo Frontera",
-                        "id": "UCJa2FF4TUB13Mm0GurZAqog"
-                    },
-                    {
-                        "name": "66\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/mG_RN0oB4oE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kDhOblv1s-3vQMvqYhxRoVKJ2Y_Q",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "66\u00a0Tr"
-            },
-            {
-                "title": "Acr\u00f3stico (Official Video)",
-                "videoId": "PWmJhh_qTSY",
-                "artists": [
-                    {
-                        "name": "Shakira",
-                        "id": "UCo6JijJGA3IvIiPsawDK3Ww"
-                    },
-                    {
-                        "name": "206\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/PWmJhh_qTSY/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3l7p4eaPLYhqX6S0os02vSZ7fcObQ",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "206\u00a0Tr"
-            },
-            {
-                "title": "Nosso Quadro",
-                "videoId": "r9GrcxTGNWg",
-                "artists": [
-                    {
-                        "name": "Ana Castela",
-                        "id": "UCyDsKwygOyI3zbIIQPR8K1g"
-                    },
-                    {
-                        "name": "206\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/r9GrcxTGNWg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mC5h5_gMoXq4YBOvafNkbfYt_tVg",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "206\u00a0Tr"
-            },
-            {
-                "title": "Sprinter [Music Video]",
-                "videoId": "pSY3i5XHHXo",
-                "artists": [
-                    {
-                        "name": "Central Cee v\u00e0 Dave",
-                        "id": null
-                    },
-                    {
-                        "name": "70\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/pSY3i5XHHXo/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lVK_WznGfLyvwjTKgC_06BIVzCMw",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "70\u00a0Tr"
-            },
-            {
-                "title": "Flower",
-                "videoId": "YudHcBIxlYw",
-                "artists": [
-                    {
-                        "name": "Jisoo",
-                        "id": "UC623qv3rAYCO9VXFTdfg_tQ"
-                    },
-                    {
-                        "name": "BLACKPINK",
-                        "id": "UCkbbMCA40i18i7UdjayMPAg"
-                    },
-                    {
-                        "name": "346\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/YudHcBIxlYw/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kd1BCzjVW6Dlqp1Sng4quZiWuK1g",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "346\u00a0Tr"
-            },
-            {
-                "title": "O Priyotoma",
-                "videoId": "VXDO1LQNx54",
-                "artists": [
-                    {
-                        "name": "Balam",
-                        "id": "UCEqc7vBTukmIKNnjWoWVFKg"
-                    },
-                    {
-                        "name": "Konal",
-                        "id": "UCWW_6MO6zrC64txpet1R2Pw"
-                    },
-                    {
-                        "name": "48\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ],
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/VXDO1LQNx54/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mfZzoNiUSMFTVJmDSMR1tI8qUaEg",
-                        "width": 400,
-                        "height": 225
-                    }
-                ],
-                "isExplicit": false,
-                "views": "48\u00a0Tr"
+                "url": "https://lh3.googleusercontent.com/iHl8GRtA5CQGz_mhQB9WIQnOXbtECCjezoMq0OuthYwbmL3Ea3unXQ-odqYZiYM74lWSHSymJphAzK4j=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
             }
         ]
     },
     {
-        "title": "Th\u01b0 gi\u00e3n",
-        "contents": [
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby (Acoustic)",
+        "album": {
+            "name": "The Wave EP (Acoustic)",
+            "id": "MPREb_ZBwiVAQEU5j"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "JfRmH7sS3ko",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:03",
+        "year": null,
+        "artists": [
             {
-                "title": "Pop giai \u0111i\u1ec7u c\u0169",
-                "playlistId": "RDCLAK5uy_nHSqCJjDrW9HBhCNdF6tWPdnOMngOv0wA",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/rAUuEbLF7CYEYBXU3yAY4npMCzTgPxMhlD-ygH9iv_SuDXGDuDvO0Z4MTh33xAI6o3UnpWFe26MS_hBZ=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/rAUuEbLF7CYEYBXU3yAY4npMCzTgPxMhlD-ygH9iv_SuDXGDuDvO0Z4MTh33xAI6o3UnpWFe26MS_hBZ=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Ed Sheeran, Gabrielle, Lewis Capaldi, Simply Red"
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
+            }
+        ],
+        "duration_seconds": 123,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/_Dw3AaPH1Ul49oyhdx09HQGuIK1MzsnSJvsY0rGYdEWYFfvUh1eHB1tGaoOf6Z8XNLqkODLiVgBPS48WMQ=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "Nh\u1ea1c acoustic \u00eam d\u1ecbu v\u01b0\u1ee3t th\u1eddi gian",
-                "playlistId": "RDCLAK5uy_kluqSMlnog1GDp3fK-kzf787f9DMW8LB0",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/t9xcLjNlSeEJMQKHLC4r8ToQACpGuX2Rocmd-V4bLefZ9ltYzzgNtOrYjigjprXGZwDqTz17k5V4zl4=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/t9xcLjNlSeEJMQKHLC4r8ToQACpGuX2Rocmd-V4bLefZ9ltYzzgNtOrYjigjprXGZwDqTz17k5V4zl4=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "The Beatles, Bob Dylan, Ed Sheeran, The Rolling Stones"
-            },
-            {
-                "title": "R&B th\u01b0 gi\u00e3n",
-                "playlistId": "RDCLAK5uy_mX4JK0m7lhZ8Egv1E7bbXox_e0k6rGejo",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/zsIhKZhLKnPtyWBEDKAAZeur01lKdr0oVOcGXmA30eJ88QK1GLBUh14NdSd5FbgmXduTLwuiYA4mKzI=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/zsIhKZhLKnPtyWBEDKAAZeur01lKdr0oVOcGXmA30eJ88QK1GLBUh14NdSd5FbgmXduTLwuiYA4mKzI=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "SZA, Masego, Chxrry22, RINI"
-            },
-            {
-                "title": "Piano d\u1ecbu \u00eam",
-                "playlistId": "RDCLAK5uy_ldooV6iHaoPy6VKyVuHDq0DT4lh-3tRqQ",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/w_IkywS60PT1JsZafZXkcUtpFR83tsa1vlziPdAP8syGHsMVLOH4QwQKZk8yRi0Lv_eWju4bNQVpz6yj=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/w_IkywS60PT1JsZafZXkcUtpFR83tsa1vlziPdAP8syGHsMVLOH4QwQKZk8yRi0Lv_eWju4bNQVpz6yj=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "The Chillest, Ilen, Elliott Jack Sansom, Chad Lawson"
-            },
-            {
-                "title": "Acoustic cover t\u00ecnh ca",
-                "playlistId": "RDCLAK5uy_km8j1Msn0n8FTLRIw0krI9k2sf-t1Z4hg",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/bAruCGgTx2EpS3FiaWuR95GwFjZH3ofkuJ3mE-rgMUCW7whGPIfPWyzQbVlujVFcXVlqrklz666KVB0=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/bAruCGgTx2EpS3FiaWuR95GwFjZH3ofkuJ3mE-rgMUCW7whGPIfPWyzQbVlujVFcXVlqrklz666KVB0=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Boyce Avenue, Ryan Adams, Birdy, Sleeping At Last"
-            },
-            {
-                "title": "Jazz th\u01b0 gi\u00e3n",
-                "playlistId": "RDCLAK5uy_kL57PLcOmExjhzqGfGhvA82ZWe4fPH2c4",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/9LRgeba47a0U1xYHxZnLvo9HUG3ML7b26A9gx0JcBZR7sQimfE2cI0N1yGtQGOqMFPEW0NpwII0YGw=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/9LRgeba47a0U1xYHxZnLvo9HUG3ML7b26A9gx0JcBZR7sQimfE2cI0N1yGtQGOqMFPEW0NpwII0YGw=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Claus Waidtl\u00f8w, Bladverk Band, Hara Noda, Bill Evans"
-            },
-            {
-                "title": "\u0110\u1ed9c t\u1ea5u piano hi\u1ec7n \u0111\u1ea1i",
-                "playlistId": "RDCLAK5uy_l3jcyafhPprVNoFpQZL02ofimw9WsO6mE",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/-1H7_JKtT1ZLn07odmQtMXpikTfTd9HANrJli8yE1HnHJOQj1E4Vu-xfxba9x_Q0jVS-kNjtstXQfMJx=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/-1H7_JKtT1ZLn07odmQtMXpikTfTd9HANrJli8yE1HnHJOQj1E4Vu-xfxba9x_Q0jVS-kNjtstXQfMJx=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Goldb\u00e6k, Stephan Moccio, Lo.Flynn, Doeke"
-            },
-            {
-                "title": "Nh\u1ea1c c\u1ed5 \u0111i\u1ec3n \u0111\u1ec3 thi\u1ec1n",
-                "playlistId": "RDCLAK5uy_ldLj_raotpFCQGWiQ7L-Ag5GTbGOyjgRY",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/eKIUu0x74PRwdst4LEQewuo8sCGQGaFP1uSc2L1xFLmNDppCUCsit_tAH0Z_95Rg02s0AX57c5pruw=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/eKIUu0x74PRwdst4LEQewuo8sCGQGaFP1uSc2L1xFLmNDppCUCsit_tAH0Z_95Rg02s0AX57c5pruw=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Peter Gregson, Ludovico Einaudi, James Southall, Chad Lawson"
-            },
-            {
-                "title": "Nh\u1ea1c EDM d\u1ec5 nghe",
-                "playlistId": "RDCLAK5uy_n4bsKshkdwxaEJYz8ZXxh6kF9Frsf369k",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/LEbXKypBRYUl54JsLbMMU3vNhgnuyvllpgWXa65jGq2PpjsUc2navVYa1hKHwnhaFYdevEpIcotTJA=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/LEbXKypBRYUl54JsLbMMU3vNhgnuyvllpgWXa65jGq2PpjsUc2navVYa1hKHwnhaFYdevEpIcotTJA=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Kygo, Elderbrook, Gryffin, Alan Walker"
-            },
-            {
-                "title": "Nh\u1ea1c Hip-Hop c\u1ef1c phi\u00eau",
-                "playlistId": "RDCLAK5uy_myzznSrnHv4d3VAWYEFRkjuSvgiAXZshk",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/_zu8JR--C4ucviSEqwV9yHPGdO-k5F10bvAVOSLUQRZXKNXL7XWAiGwROv5kDob0r563-rCkiZxTog=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/_zu8JR--C4ucviSEqwV9yHPGdO-k5F10bvAVOSLUQRZXKNXL7XWAiGwROv5kDob0r563-rCkiZxTog=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Drake, A$AP Rocky, J. Cole, Kid Cudi"
+                "url": "https://lh3.googleusercontent.com/_Dw3AaPH1Ul49oyhdx09HQGuIK1MzsnSJvsY0rGYdEWYFfvUh1eHB1tGaoOf6Z8XNLqkODLiVgBPS48WMQ=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
             }
         ]
     },
     {
-        "title": "Danh s\u00e1ch ph\u00e1t th\u1ecbnh h\u00e0nh tr\u00ean c\u1ed9ng \u0111\u1ed3ng",
-        "contents": [
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby (GATT\u00dcSO Remix)",
+        "album": {
+            "name": "Lullaby (GATT\u00dcSO Remix)",
+            "id": "MPREb_uhuTvFkYYYB"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "OwDvGrU3jRw",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "3:43",
+        "year": null,
+        "artists": [
             {
-                "title": "Em \u0110i Tr\u00ean C\u1ecf Non",
-                "playlistId": "PL6zisefsxqKJ0dHyDkDUlAqLUyA3RHcp6",
-                "thumbnails": [
-                    {
-                        "url": "https://yt3.googleusercontent.com/n6N9xvfKYHL9XhxRtzVbAy1Rd4cdh7Pfwkh79-MdOjOkJQXtlVcuZqJ-uLwdXmYBuehhn3A0oGw=s192",
-                        "width": 192,
-                        "height": 192
-                    },
-                    {
-                        "url": "https://yt3.googleusercontent.com/n6N9xvfKYHL9XhxRtzVbAy1Rd4cdh7Pfwkh79-MdOjOkJQXtlVcuZqJ-uLwdXmYBuehhn3A0oGw=s576",
-                        "width": 576,
-                        "height": 576
-                    }
-                ],
-                "description": "Minh L\u01b0\u01a1ng \u2022 25\u00a0N l\u01b0\u1ee3t xem"
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
             },
             {
-                "title": "Liked Songs",
-                "playlistId": "PLlsTjQaWJO9uP6jY92ACIeXG_CDcW_kRK",
-                "thumbnails": [
-                    {
-                        "url": "https://yt3.googleusercontent.com/HGcUE56GiL2zhQkxbn1UMH8LFzjmnYvoMLRJNDphvabtOnyJBzZTiMLWo1R1DfxYeprEddP2Lfz_=s192",
-                        "width": 192,
-                        "height": 192
-                    },
-                    {
-                        "url": "https://yt3.googleusercontent.com/HGcUE56GiL2zhQkxbn1UMH8LFzjmnYvoMLRJNDphvabtOnyJBzZTiMLWo1R1DfxYeprEddP2Lfz_=s576",
-                        "width": 576,
-                        "height": 576
-                    }
-                ],
-                "description": "Nguy\u1ec5n H\u1eefu Tr\u1ecdng \u2022 1\u00a0N l\u01b0\u1ee3t xem"
+                "name": "Mike Williams",
+                "id": "UCaJjl78OicxKmSWf-e1dlKg"
+            }
+        ],
+        "duration_seconds": 223,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/5i5t6DMMlO4QNk8nhDGwPh9wlJf2P9iR6Kr3t2HpzTgLupiFwfPOEgdRrQzFZvB43wKXudson4Uk-Zlusw=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "Nh\u1ea1c 8x9x",
-                "playlistId": "PL2OrTZvt8jZrI2YOC6M7fuYKx81Amy4oY",
-                "thumbnails": [
-                    {
-                        "url": "https://yt3.googleusercontent.com/uAL3WR-ziqW1pzjlPfe6M8-U3pHrT5Q1tE2ao09h4YCrmulOMN-oM-AFv7szmqTxdkb2fto2IiQ=s192",
-                        "width": 192,
-                        "height": 192
-                    },
-                    {
-                        "url": "https://yt3.googleusercontent.com/uAL3WR-ziqW1pzjlPfe6M8-U3pHrT5Q1tE2ao09h4YCrmulOMN-oM-AFv7szmqTxdkb2fto2IiQ=s576",
-                        "width": 576,
-                        "height": 576
-                    }
-                ],
-                "description": "V\u1edbi B\u00f9i \u2022 5,6\u00a0N l\u01b0\u1ee3t xem"
-            },
-            {
-                "title": "nhac hot",
-                "playlistId": "PLWA5T2Mp10HYAXLJHDwcaW48NulBYN8xM",
-                "thumbnails": [
-                    {
-                        "url": "https://yt3.googleusercontent.com/UuS5o9Ag378BMJmxIMzF1UdhQe3JLBJshzPtH3MCpDTLee9YxWx0hl6F6_BQxqKDdufPO2NN2g=s192",
-                        "width": 192,
-                        "height": 192
-                    },
-                    {
-                        "url": "https://yt3.googleusercontent.com/UuS5o9Ag378BMJmxIMzF1UdhQe3JLBJshzPtH3MCpDTLee9YxWx0hl6F6_BQxqKDdufPO2NN2g=s576",
-                        "width": 576,
-                        "height": 576
-                    }
-                ],
-                "description": "Cu\u1ed9c s\u1ed1ng th\u00fa v\u1ecb channel \u2022 4,3\u00a0N l\u01b0\u1ee3t xem"
-            },
-            {
-                "title": "VN HOT 2023",
-                "playlistId": "PLLuBiCObLP45DxVbfVifWZCBE4pDJmOUr",
-                "thumbnails": [
-                    {
-                        "url": "https://yt3.googleusercontent.com/FneisLjghN4J5wPLWy0_Vlrboik8Kec6azld0kKAalMsXA1HZzf-vtB_eYfPjn6JzZWZuhuu18Sy=s192",
-                        "width": 192,
-                        "height": 192
-                    },
-                    {
-                        "url": "https://yt3.googleusercontent.com/FneisLjghN4J5wPLWy0_Vlrboik8Kec6azld0kKAalMsXA1HZzf-vtB_eYfPjn6JzZWZuhuu18Sy=s576",
-                        "width": 576,
-                        "height": 576
-                    }
-                ],
-                "description": "GOLDSWIM - FITNESS & YOGA \u2022 4\u00a0N l\u01b0\u1ee3t xem"
-            },
-            {
-                "title": "Ng\u1ecdt th\u00e0nh \u0110\u1eafng",
-                "playlistId": "PLic8Ub1GMnWnNL0S9TxH6fljXrMQm-aIx",
-                "thumbnails": [
-                    {
-                        "url": "https://yt3.googleusercontent.com/G-PV_FrIo5hcT6X5BblwMCo_RLmLZumtz0X2R2noXSd64wB-T23fhs_hwG6BW1YkHMqK6t8mwg=s192",
-                        "width": 192,
-                        "height": 192
-                    },
-                    {
-                        "url": "https://yt3.googleusercontent.com/G-PV_FrIo5hcT6X5BblwMCo_RLmLZumtz0X2R2noXSd64wB-T23fhs_hwG6BW1YkHMqK6t8mwg=s576",
-                        "width": 576,
-                        "height": 576
-                    }
-                ],
-                "description": "Henrifine \u2022 1,2\u00a0N l\u01b0\u1ee3t xem"
-            },
-            {
-                "title": "Y\u00eau th\u00edch",
-                "playlistId": "PLOnFK4M4m0D1GXYXbsfdt0NCi_ef1BczO",
-                "thumbnails": [
-                    {
-                        "url": "https://yt3.googleusercontent.com/V2bRf0xeilzUAOOqOxWtyD6JlGKcRTHeKy10Z76hLFXTEaSp-EozKgqTRjpELrBzh7TyBVg_7RTF=s192",
-                        "width": 192,
-                        "height": 192
-                    },
-                    {
-                        "url": "https://yt3.googleusercontent.com/V2bRf0xeilzUAOOqOxWtyD6JlGKcRTHeKy10Z76hLFXTEaSp-EozKgqTRjpELrBzh7TyBVg_7RTF=s576",
-                        "width": 576,
-                        "height": 576
-                    }
-                ],
-                "description": "Hanh Pham \u2022 6,1\u00a0N l\u01b0\u1ee3t xem"
-            },
-            {
-                "title": "Hot",
-                "playlistId": "PLAzUECMz7svTaev9c1psHVo--L2qarAYo",
-                "thumbnails": [
-                    {
-                        "url": "https://yt3.googleusercontent.com/UDprWIGV7RB7bdzuJ5fTbjhsmRnMS97GWOc5tPm3e1JEfsGh4gYE8nFVpGXeToQypWZkrIAvGRE=s192",
-                        "width": 192,
-                        "height": 192
-                    },
-                    {
-                        "url": "https://yt3.googleusercontent.com/UDprWIGV7RB7bdzuJ5fTbjhsmRnMS97GWOc5tPm3e1JEfsGh4gYE8nFVpGXeToQypWZkrIAvGRE=s576",
-                        "width": 576,
-                        "height": 576
-                    }
-                ],
-                "description": "Duc Pham \u2022 1,8\u00a0N l\u01b0\u1ee3t xem"
-            },
-            {
-                "title": "Nh\u1ea1c c\u1ee7a Khanh",
-                "playlistId": "PLddZV4icD_LVBrhdoMHsxCstdEFtD3FK5",
-                "thumbnails": [
-                    {
-                        "url": "https://yt3.googleusercontent.com/DnNUyUkFT7UVdBOK-v8-j8nb2RvzlEGit3F8s9yz94LgJdx6m3RiW-dQ6dISZXvI9xebJE9c7QU=s192",
-                        "width": 192,
-                        "height": 192
-                    },
-                    {
-                        "url": "https://yt3.googleusercontent.com/DnNUyUkFT7UVdBOK-v8-j8nb2RvzlEGit3F8s9yz94LgJdx6m3RiW-dQ6dISZXvI9xebJE9c7QU=s576",
-                        "width": 576,
-                        "height": 576
-                    }
-                ],
-                "description": "Phuong Nguyen \u2022 39\u00a0N l\u01b0\u1ee3t xem"
-            },
-            {
-                "title": "nh\u1ea1c Vi\u1ec7t",
-                "playlistId": "PL6lgHNA27LyBHpZhc9D-GR8UlVN04BJMi",
-                "thumbnails": [
-                    {
-                        "url": "https://yt3.googleusercontent.com/H958DwnfzDiLHb6G0lvPR60u8LyfWZl1fDTJajGBB7_NgO-QJDkb59gZ0lFynHV6rZN17GUS8LE=s192",
-                        "width": 192,
-                        "height": 192
-                    },
-                    {
-                        "url": "https://yt3.googleusercontent.com/H958DwnfzDiLHb6G0lvPR60u8LyfWZl1fDTJajGBB7_NgO-QJDkb59gZ0lFynHV6rZN17GUS8LE=s576",
-                        "width": 576,
-                        "height": 576
-                    }
-                ],
-                "description": "Duy Ph\u1ea1m B\u00e1 \u2022 3,4\u00a0N l\u01b0\u1ee3t xem"
+                "url": "https://lh3.googleusercontent.com/5i5t6DMMlO4QNk8nhDGwPh9wlJf2P9iR6Kr3t2HpzTgLupiFwfPOEgdRrQzFZvB43wKXudson4Uk-Zlusw=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
             }
         ]
     },
     {
-        "title": "Video nh\u1ea1c \u0111\u1ec1 xu\u1ea5t",
-        "contents": [
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby (Acoustic)",
+        "album": {
+            "name": "Lullaby (Acoustic)",
+            "id": "MPREb_aDmYle8UwdW"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "iloYIcZaVm0",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:03",
+        "year": null,
+        "artists": [
             {
-                "title": "L\u00e0 Anh (Deep No Vocal)",
-                "videoId": "6-LmZLjS5WI",
-                "playlistId": null,
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/6-LmZLjS5WI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mgwyHDQghSi72os1t8cBDtkLzc6w",
-                        "width": 400,
-                        "height": 225
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/6-LmZLjS5WI/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3lx_R7FiEsgVAfjWmWQSiCGLq3IgA",
-                        "width": 800,
-                        "height": 450
-                    }
-                ],
-                "artists": [
-                    {
-                        "name": "Ph\u1ea1m L\u1ecbch",
-                        "id": "UC2q--FlOe8ugGg6j-ynduhg"
-                    },
-                    {
-                        "name": "28\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ]
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
             },
             {
-                "title": "Mike - l\u1eddi t\u00e2m s\u1ef1 s\u1ed1 3 (lyrics video)",
-                "videoId": "ReSHW-KEuuU",
-                "playlistId": null,
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/ReSHW-KEuuU/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3ldbAW4lBlQB0Zoz9NVd6SLbuhXNQ",
-                        "width": 400,
-                        "height": 225
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/ReSHW-KEuuU/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3lOFrTdb0mwBsCnwAbFTVD0hZ3UwA",
-                        "width": 800,
-                        "height": 450
-                    }
-                ],
-                "artists": [
-                    {
-                        "name": "Mikelodic",
-                        "id": "UCWcSkLH2qJJLBrIOP07-GzQ"
-                    },
-                    {
-                        "name": "2,5\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ]
+                "name": "Mike Williams",
+                "id": "UCaJjl78OicxKmSWf-e1dlKg"
+            }
+        ],
+        "duration_seconds": 123,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/g6qE-4WnAmbBcAjJrFyDFTXiP514DrhCxg_zlXzVpTzc-Q8uTy0otLjuOOwEjsNgVsGQFW3QZs1cRE8M=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "MAKING MY WAY",
-                "videoId": "niPkap1ozUA",
-                "playlistId": null,
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/niPkap1ozUA/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lHdFGewdZ873sz5kqREQCVj5swnQ",
-                        "width": 400,
-                        "height": 225
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/niPkap1ozUA/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3mY24FbyI_iR7WEuyXz5t_ewO1uTg",
-                        "width": 800,
-                        "height": 450
-                    }
-                ],
-                "artists": [
-                    {
-                        "name": "S\u01a1n T\u00f9ng M-TP",
-                        "id": "UC3muIvzjhubNpJ4Pn_0kCQw"
-                    },
-                    {
-                        "name": "31\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ]
-            },
-            {
-                "title": "\u9ed1\u6708\u5149",
-                "videoId": "oMNo24KCIqE",
-                "playlistId": null,
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/oMNo24KCIqE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3k6QhpktDynIxWAcJzw2XIXb-Sxdg",
-                        "width": 400,
-                        "height": 225
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/oMNo24KCIqE/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3kBlvZXcXgnGItYx1vTWzYxCn5YiA",
-                        "width": 800,
-                        "height": 450
-                    }
-                ],
-                "artists": [
-                    {
-                        "name": "Bi Chen Zhang",
-                        "id": "UCkxTMlZkje8t_ZRC78V1A4w"
-                    },
-                    {
-                        "name": "Mao Buyi",
-                        "id": "UCi42YK8HZGByBiUbIL1cgNA"
-                    },
-                    {
-                        "name": "2,6\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ]
-            },
-            {
-                "title": "The Wind",
-                "videoId": "dE-zmDWDRkg",
-                "playlistId": null,
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/dE-zmDWDRkg/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nmQvMfLxNgYzZJuJ6vKTXBJrNoWw",
-                        "width": 400,
-                        "height": 225
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/dE-zmDWDRkg/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3mR-ApIssXx8e6aquPwNj3tcIdtmA",
-                        "width": 800,
-                        "height": 450
-                    }
-                ],
-                "artists": [
-                    {
-                        "name": "La Jiao",
-                        "id": "UCjshPfS_a0a-K7TFWi8RKOw"
-                    },
-                    {
-                        "name": "403\u00a0N l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ]
-            },
-            {
-                "title": "\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01 (First Love) Ost.\u0e23\u0e31\u0e01\u0e41\u0e23\u0e01\u0e42\u0e04\u0e15\u0e23\u0e25\u0e37\u0e21\u0e22\u0e32\u0e01 My Precious - NONT TANONT",
-                "videoId": "tYPIR8XWXFE",
-                "playlistId": null,
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/tYPIR8XWXFE/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nrznwUTqazzMoWB3SpYlOw6ah_Lw",
-                        "width": 400,
-                        "height": 225
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/tYPIR8XWXFE/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3m6zGU9SVVou9jK71FDhW_HesazEA",
-                        "width": 800,
-                        "height": 450
-                    }
-                ],
-                "artists": [
-                    {
-                        "name": "GMMTV RECORDS",
-                        "id": "UC_mceLIVkQun_Xcu1KBmfdw"
-                    },
-                    {
-                        "name": "39\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ]
-            },
-            {
-                "title": "My Love (Official Video)",
-                "videoId": "ulOb9gIGGd0",
-                "playlistId": null,
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/ulOb9gIGGd0/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3naSJRmZgS0NDEhf5cfxS0jAjTTow",
-                        "width": 400,
-                        "height": 225
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/ulOb9gIGGd0/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3liJedBA5EiA7B5nCQlzZydooKqFQ",
-                        "width": 800,
-                        "height": 450
-                    }
-                ],
-                "artists": [
-                    {
-                        "name": "Westlife",
-                        "id": "UCONC7E8-0YszPsER3azgcrA"
-                    },
-                    {
-                        "name": "333\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ]
-            },
-            {
-                "title": "We Belong Together Closed Captioned",
-                "videoId": "0habxsuXW4g",
-                "playlistId": null,
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/0habxsuXW4g/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kfD4w1RZ-d7t429E5nhimHoCkkAA",
-                        "width": 400,
-                        "height": 225
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/0habxsuXW4g/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3nxpDHiQklQx4tnD_rPozpL8gCe2A",
-                        "width": 800,
-                        "height": 450
-                    }
-                ],
-                "artists": [
-                    {
-                        "name": "Mariah Carey",
-                        "id": "UCKRnq8aBOCanYlffje7HyvA"
-                    },
-                    {
-                        "name": "599\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ]
-            },
-            {
-                "title": "Hello (Official Music Video)",
-                "videoId": "YQHsXMglC9A",
-                "playlistId": null,
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/YQHsXMglC9A/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3mOXgLO36aohcOsJYn0QqvDrpLVgQ",
-                        "width": 400,
-                        "height": 225
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/YQHsXMglC9A/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3n0K-94gcAnYhZs5sLp6V8ThHrHHQ",
-                        "width": 800,
-                        "height": 450
-                    }
-                ],
-                "artists": [
-                    {
-                        "name": "Adele",
-                        "id": "UCRw0x9_EfawqmgDI2IgQLLg"
-                    },
-                    {
-                        "name": "3\u00a0T l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ]
-            },
-            {
-                "title": "Seven (c\u00f9ng v\u1edbi Latto)",
-                "videoId": "1QYBiNRu1ok",
-                "playlistId": null,
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/1QYBiNRu1ok/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3lYArDz2Rr8DpXjqVHpCWqHb1gH8A",
-                        "width": 400,
-                        "height": 225
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/1QYBiNRu1ok/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3mw0thHN1ShK2iOTMladsVHUN6kVQ",
-                        "width": 800,
-                        "height": 450
-                    }
-                ],
-                "artists": [
-                    {
-                        "name": "Jung Kook",
-                        "id": "UC-pOuHFcndLpyfWSPVqXt_A"
-                    },
-                    {
-                        "name": "28\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ]
+                "url": "https://lh3.googleusercontent.com/g6qE-4WnAmbBcAjJrFyDFTXiP514DrhCxg_zlXzVpTzc-Q8uTy0otLjuOOwEjsNgVsGQFW3QZs1cRE8M=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
             }
         ]
     },
     {
-        "title": "Danh s\u00e1ch ph\u00e1t rock",
-        "contents": [
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby (GATT\u00dcSO Remix)",
+        "album": {
+            "name": "Lullaby (GATT\u00dcSO Remix)",
+            "id": "MPREb_gRzYMqcf1AU"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "dS5xMsJ1bQI",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "3:43",
+        "year": null,
+        "artists": [
             {
-                "title": "Rock Klasik Jiwang",
-                "playlistId": "RDCLAK5uy_kkZ4TIdi6df2Eyj7VwJnJbatv2B77-O6w",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/KXqCO5dUU4rP7lvkmrgHhlNj5BJo8YEMJsPc39AyA_H2yIVJvKE1pmmpVq_D_tVr48xXCCcOmxLSZg=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/KXqCO5dUU4rP7lvkmrgHhlNj5BJo8YEMJsPc39AyA_H2yIVJvKE1pmmpVq_D_tVr48xXCCcOmxLSZg=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Search, XPDC, Samudera, Slam"
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
             },
             {
-                "title": "Nh\u1ea1c Rock th\u01b0 gi\u00e3n th\u1eadp ni\u00ean 1980",
-                "playlistId": "RDCLAK5uy_kvzSF-chVVpH1r55Frc3fuHXCyRc01sYg",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/DVF-V7f_M8-7ZFRbX8QaIKiN1EgexcyAMraQ2ZjNn4fhnGGikQ22MZhYCMkoua84MFtfQksUisZr4KYe=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/DVF-V7f_M8-7ZFRbX8QaIKiN1EgexcyAMraQ2ZjNn4fhnGGikQ22MZhYCMkoua84MFtfQksUisZr4KYe=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Fleetwood Mac, TOTO, Queen, Journey"
+                "name": "Mike Williams",
+                "id": "UCaJjl78OicxKmSWf-e1dlKg"
+            }
+        ],
+        "duration_seconds": 223,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/h3aU1lp6IvWacI2F_nhmGc8DAmzLgdwNvIFMIpWyhDMPvLFnZOIj7mQyRcgw15nN65k5RUFpuz8W2Sqg=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "Nh\u1ea1c Rock \u00eam tai vang danh m\u1ed9t th\u1eddi",
-                "playlistId": "RDCLAK5uy_nNGk2yOsNF2AWjk3FbtO8FjvQhT1FUi_c",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/FmEI7Y44J_hp2ecFJgoestuzzbTknk1tMMT8MAx1zKYOUN97i5zxlcstXhVzJXulPBKzcpFrAOdARG4=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/FmEI7Y44J_hp2ecFJgoestuzzbTknk1tMMT8MAx1zKYOUN97i5zxlcstXhVzJXulPBKzcpFrAOdARG4=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Fleetwood Mac, The Eagles, Creedence Clearwater Revival, Crosby, Stills & Nash"
-            },
-            {
-                "title": "Nh\u1eefng b\u1ea3n nh\u1ea1c Rock khi\u1ebfn b\u1ea1n kh\u00f4ng th\u1ec3 \u0111\u1ee9ng y\u00ean",
-                "playlistId": "RDCLAK5uy_km8O-Ih1wUwDSDLdsobHb0PURoU136_5Q",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/VQGWvU40s7ZtGMRZwgNxl3IwaqkKqxbEOSJPDyd7DyICsqic9glDbAXYn1tHLGRaQ6_yu_sq-trCzw=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/VQGWvU40s7ZtGMRZwgNxl3IwaqkKqxbEOSJPDyd7DyICsqic9glDbAXYn1tHLGRaQ6_yu_sq-trCzw=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "AC/DC, Red Hot Chili Peppers, Foo Fighters, Guns N' Roses"
-            },
-            {
-                "title": "Rock All Day Roll All Night",
-                "playlistId": "RDCLAK5uy_kztWUiOd42stlpXD8mCA1cch2CRQABk2c",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/J9igyxPEyojhsorEJNcy5tgjpsRTO-_bOeSl4a7KO2h6qJd27zVt-MnoxrAOaqe8rzUbVGNZvgAse94=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/J9igyxPEyojhsorEJNcy5tgjpsRTO-_bOeSl4a7KO2h6qJd27zVt-MnoxrAOaqe8rzUbVGNZvgAse94=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Foo Fighters, Fall Out Boy, Linkin Park, Biffy Clyro"
-            },
-            {
-                "title": "Anatolian Rock Classics",
-                "playlistId": "RDCLAK5uy_nkN2Fde5lIJN38ta7Tyvr8Uona03aHnRo",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/XPQ-imvGrt2C2PaNq4axqlLT_epPFyqD6Ltn14Rc6AnIicBLOOK8Bb99CJypr3f42_hdXxwSpMFeoGoA=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/XPQ-imvGrt2C2PaNq4axqlLT_epPFyqD6Ltn14Rc6AnIicBLOOK8Bb99CJypr3f42_hdXxwSpMFeoGoA=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Bar\u0131\u015f Man\u00e7o, Mo\u011follar, Cem Karaca & Mo\u011follar, Erkin Koray"
-            },
-            {
-                "title": "C\u00e1c b\u1ea3n Rock Ballad \u00eam d\u1ecbu",
-                "playlistId": "RDCLAK5uy_nyKVppE-RpLkeCcwLct4rvN9e8AAsS_qw",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/kIOCCx-ipN4FIOR4DXED5Ag-i0Y_EHMRdHki5M_wvENLMuoD7lDN1eAo4Fd400NY5b4GtamjIsti9Q=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/kIOCCx-ipN4FIOR4DXED5Ag-i0Y_EHMRdHki5M_wvENLMuoD7lDN1eAo4Fd400NY5b4GtamjIsti9Q=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "The Eagles, Fleetwood Mac, Chicago, Air Supply"
-            },
-            {
-                "title": "C\u01a1n cu\u1ed3ng n\u1ed9 Nu-Metal",
-                "playlistId": "RDCLAK5uy_ny800pDYXFLBKqgRJqVCNI5-Qi8GWNvsc",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/kLTCXD6t5-_onweMj_zq8R1bfZk0x0SZCWxBN_Z4YY8T2VEcqMvv1JYh-Oy-B2sSFZ2w3-xQNIt_T3o=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/kLTCXD6t5-_onweMj_zq8R1bfZk0x0SZCWxBN_Z4YY8T2VEcqMvv1JYh-Oy-B2sSFZ2w3-xQNIt_T3o=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Linkin Park, Limp Bizkit, Korn, System Of A Down"
-            },
-            {
-                "title": "Nh\u1eefng t\u01b0\u1ee3ng \u0111\u00e0i c\u1ee7a d\u00f2ng nh\u1ea1c Metal",
-                "playlistId": "RDCLAK5uy_k59GXAlPBRGnPK4iQupnDUUI1AIz1t6QM",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/9Q3Bg10TTEpckT8loX0eSPzkxAGiD8mIAw6MgKHI92MNHvSQk2KtbGjwIrNOMKpp5Qw1QHoen8WvO5ct=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/9Q3Bg10TTEpckT8loX0eSPzkxAGiD8mIAw6MgKHI92MNHvSQk2KtbGjwIrNOMKpp5Qw1QHoen8WvO5ct=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Slipknot, Metallica, Korn, Stone Sour"
-            },
-            {
-                "title": "Turkish Rock Legends",
-                "playlistId": "RDCLAK5uy_mq6KpOULj_9zLh4CH3s9IIT_87Tyf9eIk",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/HvHA4I7zfiuGJC9n3eR52H_VARvOvzYPRtj6QpRMcCFygz_C31AGfEgYFQmHcxki7chR3H_Bc6VIHA=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/HvHA4I7zfiuGJC9n3eR52H_VARvOvzYPRtj6QpRMcCFygz_C31AGfEgYFQmHcxki7chR3H_Bc6VIHA=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Teoman, Duman, maNga, Athena"
+                "url": "https://lh3.googleusercontent.com/h3aU1lp6IvWacI2F_nhmGc8DAmzLgdwNvIFMIpWyhDMPvLFnZOIj7mQyRcgw15nN65k5RUFpuz8W2Sqg=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
             }
         ]
     },
     {
-        "title": "\u0110ang th\u1ecbnh h\u00e0nh",
-        "contents": [
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby",
+        "album": {
+            "name": "Mystery",
+            "id": "MPREb_WEPFOzddPez"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "WQWOv-w8JpM",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "1:41",
+        "year": null,
+        "artists": [
             {
-                "title": "K-HITLIST",
-                "playlistId": "RDCLAK5uy_l7wbVbkC-dG5fyEQQsBfjm_z3dLAhYyvo",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/jxk4ylciVafS1jV8gSs5kmKNMi_92KSNnTSZUo5BzmlbFYjkz81Uncikk7m_kAmHuBPqO7RX7SyAEQ=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/jxk4ylciVafS1jV8gSs5kmKNMi_92KSNnTSZUo5BzmlbFYjkz81Uncikk7m_kAmHuBPqO7RX7SyAEQ=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "NewJeans, IVE, IU, LE SSERAFIM"
+                "name": "R3hab Beatz",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
+            }
+        ],
+        "duration_seconds": 101,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/abqDAbYcSyV76Lrl4_aY1TmOdXZxQxRXnK-RTyFr61-fg9ymWjFLw-JVilJzVHwUjZj3Dblyp0VLemVL=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "BEAT ON",
-                "playlistId": "RDCLAK5uy_nMqMWmqwZwDvMcqcAohgO_Dp_7zT1nSC8",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/yvnwrU2vN9GMzFd7uLICbgIMlO_20J0ePfXtyoeTMTbQk8YHAaZIqS5z4j8BnWkzC4wx62hp67JqcA=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/yvnwrU2vN9GMzFd7uLICbgIMlO_20J0ePfXtyoeTMTbQk8YHAaZIqS5z4j8BnWkzC4wx62hp67JqcA=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "aespa, NewJeans, IVE, NMIXX"
-            },
-            {
-                "title": "\uac10\uc131 On",
-                "playlistId": "RDCLAK5uy_m9ty3WvAucm7-5KsKdro9_HnocE8LSS9o",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/aepCHh7YcgM8ihmykVHnGL2V9YAinhnKSV7G9ZUZz08h5R5KTMlfx5K_QSpaNDdXzQLA_Iyu9go91A=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/aepCHh7YcgM8ihmykVHnGL2V9YAinhnKSV7G9ZUZz08h5R5KTMlfx5K_QSpaNDdXzQLA_Iyu9go91A=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "KyoungSeo, MeloMance, Han Dong Geun, Zia"
-            },
-            {
-                "title": "Bollywood Hitlist",
-                "playlistId": "RDCLAK5uy_n9Fbdw7e6ap-98_A-8JYBmPv64v-Uaq1g",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/fbJaMFd8yjkegTOMW2B-0L7V6Tfxilt1kJQtFAaaOlDStzYnGn5qQ9STg8sc7YAkTYsozfdwg4jpibw6=w226-h226-s-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/fbJaMFd8yjkegTOMW2B-0L7V6Tfxilt1kJQtFAaaOlDStzYnGn5qQ9STg8sc7YAkTYsozfdwg4jpibw6=w544-h544-s-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Arijit Singh, Amitabh Bhattacharya, Pritam, Sachin\u2013Jigar"
-            },
-            {
-                "title": "The Hit List",
-                "playlistId": "RDCLAK5uy_kmPRjHDECIcuVwnKsx2Ng7fyNgFKWNJFs",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/s6Ojc39_c3-apAAuOtQCLGp9kEBDAXnTAMisMgNWB30wcg2ETAKlf9LUF0VV4kcOzSoCPEB9e8HtyQ=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/s6Ojc39_c3-apAAuOtQCLGp9kEBDAXnTAMisMgNWB30wcg2ETAKlf9LUF0VV4kcOzSoCPEB9e8HtyQ=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Peso Pluma, Ice Spice, Bad Bunny, SZA"
-            },
-            {
-                "title": "NEON: Pop Hits",
-                "playlistId": "RDCLAK5uy_nhf3h98yS3LCk_bVNQu6GjWG7ARvMaiFQ",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/RLis6CcmDSH5OxijnIeyloat4WiYCii_jklSKibrlUIb880mjuI4ytXKL9PZXGuXQvpHuH9_1yWdYdrr=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/RLis6CcmDSH5OxijnIeyloat4WiYCii_jklSKibrlUIb880mjuI4ytXKL9PZXGuXQvpHuH9_1yWdYdrr=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Nicki Minaj, Ice Spice, Taylor Swift, Chinchilla"
-            },
-            {
-                "title": "J-Hits!",
-                "playlistId": "RDCLAK5uy_nbK9qSkqYZvtMXH1fLCMmC1yn8HEm0W90",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/_6ziirel3kf_x_3s_m7i10Vo94NW57Q71QbZztD3xh6nDr-ohDvk8OXYi7pzmnimhcJkMtt3XzYV1j8=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/_6ziirel3kf_x_3s_m7i10Vo94NW57Q71QbZztD3xh6nDr-ohDvk8OXYi7pzmnimhcJkMtt3XzYV1j8=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "imase, SOUTHERN ALL STARS, XG, Mrs.GREEN APPLE"
-            },
-            {
-                "title": "Feel",
-                "playlistId": "RDCLAK5uy_mFO2tSOkp3Ti5zWQoaPsXJ-rhcKZ6iv30",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/i4snZ9DFdtnGGBJZV90VwTRVzGXtaTtDkAT1wqDyHfjiS80RI-tSJnnJH2lReKRM7uRfjD4F2UlhPi-2=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/i4snZ9DFdtnGGBJZV90VwTRVzGXtaTtDkAT1wqDyHfjiS80RI-tSJnnJH2lReKRM7uRfjD4F2UlhPi-2=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Sody, Post Malone, Nessa Barrett, Alexander Stewart"
-            },
-            {
-                "title": "RELEASED",
-                "playlistId": "RDCLAK5uy_k5n4srrEB1wgvIjPNTXS9G1ufE9WQxhnA",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/oaFANwoh_WYO_FbvfzoyjDJetmjutZ9mNZIQBSeP_5by3XsciEkFFu5UAHKQZFW1GlnQnIExVi6Pia9n=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/oaFANwoh_WYO_FbvfzoyjDJetmjutZ9mNZIQBSeP_5by3XsciEkFFu5UAHKQZFW1GlnQnIExVi6Pia9n=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Billen Ted, R\u00f3is\u00edn Murphy, ceo@business.net, Post Malone"
-            },
-            {
-                "title": "On Everything",
-                "playlistId": "RDCLAK5uy_lBGRuQnsG37Akr1CY4SxL0VWFbPrbO4gs",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/xk761mdp0lRUFS57HAsoULQw47vHOHk7WzjTRLrZJyhlqCbUonYUF3iWBl-s8LSXOe4XgQxlfTdsyq4=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/xk761mdp0lRUFS57HAsoULQw47vHOHk7WzjTRLrZJyhlqCbUonYUF3iWBl-s8LSXOe4XgQxlfTdsyq4=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Metro Boomin, Travis Scott, Sexyy Red, NLE Choppa"
+                "url": "https://lh3.googleusercontent.com/abqDAbYcSyV76Lrl4_aY1TmOdXZxQxRXnK-RTyFr61-fg9ymWjFLw-JVilJzVHwUjZj3Dblyp0VLemVL=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
             }
         ]
     },
     {
-        "title": "Feeling good",
-        "contents": [
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby (Steff da Campo Remix)",
+        "album": {
+            "name": "Lullaby (Steff da Campo Remix)",
+            "id": "MPREb_m0qlZW57FZ5"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "AY3mivVATms",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:55",
+        "year": null,
+        "artists": [
             {
-                "title": "Ballad Mandopop nh\u1eb9 nh\u00e0ng",
-                "playlistId": "RDCLAK5uy_n_sz-xNYVBufENsdri7PFhP8ybpfkIlck",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/x8aAiUA9Tg7JA3iJT7H70x2nijEwfnzlSd2uULfllpOt9wKr64f2MA8S2K838UL2rM9KeY-50fwoIKo=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/x8aAiUA9Tg7JA3iJT7H70x2nijEwfnzlSd2uULfllpOt9wKr64f2MA8S2K838UL2rM9KeY-50fwoIKo=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Eric Chou, Jay Chou, G.E.M., Accusefive"
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
             },
             {
-                "title": "Hay nh\u1ea5t th\u1eadp ni\u00ean 90",
-                "playlistId": "RDCLAK5uy_ms55UKAmQE5XAkphnhV1GPaWnd6fx_5Fc",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/obFe9nfiMsY0O5oJEpkO5aeo0STyQteC6ZPsbYPu19_xOwWiadttgBgRunpb19wNLVDl-01HfEP-ew=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/obFe9nfiMsY0O5oJEpkO5aeo0STyQteC6ZPsbYPu19_xOwWiadttgBgRunpb19wNLVDl-01HfEP-ew=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Shania Twain, Natalie Imbruglia, Spin Doctors, Alanis Morissette"
+                "name": "Mike Williams",
+                "id": "UCaJjl78OicxKmSWf-e1dlKg"
+            }
+        ],
+        "duration_seconds": 175,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/kAWEbxrJFYC4fxojjLHaWGtd12wtinPEX5tCmsPVgQW7H8b92YI0wseYcEEjf83T87Ud4Rpe14WIxJTZ=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "Giai \u0111i\u1ec7u R&B r\u1ed9n r\u00e0ng",
-                "playlistId": "RDCLAK5uy_kF-D-D23zHZ5JcC1mO5EhQEPqZ9-SK4NU",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/ZDzT1l636j-CAEP18HcCvy2AhqXKSwP4sxK0TmxsUZa3E5y5NdKp_0X1K5AtY0blAL5LzjsfJRA6iO5e=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/ZDzT1l636j-CAEP18HcCvy2AhqXKSwP4sxK0TmxsUZa3E5y5NdKp_0X1K5AtY0blAL5LzjsfJRA6iO5e=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Bruno Mars, Drake, Calvin Harris, Beyonc\u00e9"
-            },
-            {
-                "title": "J-Pop c\u0169 v\u00e0 m\u1edbi hay nh\u1ea5t",
-                "playlistId": "RDCLAK5uy_kvhjcPWzH7xZL-WnqGbiA_euQGy5_cbHI",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/jGufuK-30SA6W9SY9uZf5H5YEZuCPJL18raVVlqMv9WNx7aZcRtypvTZAE87TrC18cI_S19PqCz8ff8Z=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/jGufuK-30SA6W9SY9uZf5H5YEZuCPJL18raVVlqMv9WNx7aZcRtypvTZAE87TrC18cI_S19PqCz8ff8Z=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Ado, YOASOBI, Fujii Kaze, OFFICIAL HIGE DANDISM"
-            },
-            {
-                "title": "Pop t\u01b0\u01a1i vui",
-                "playlistId": "RDCLAK5uy_mfdqvCAl8wodlx2P2_Ai2gNkiRDAufkkI",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/-ZNC3w71iSs1df7ogBe-LmZj98AzwhHVxJpQVe-nO5VKw8s2M3B8g_7v0mih9NV2dRwX8_a0znewkJI=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/-ZNC3w71iSs1df7ogBe-LmZj98AzwhHVxJpQVe-nO5VKw8s2M3B8g_7v0mih9NV2dRwX8_a0znewkJI=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Camila Cabello, Ed Sheeran, Bastille, Justin Bieber"
-            },
-            {
-                "title": "Nh\u1ea1c Hip-Hop/R&B H\u00e0n Qu\u1ed1c phi\u00eau b\u1ed3ng",
-                "playlistId": "RDCLAK5uy_kT-sIJz2O-hpkxwjosN2hMt9Y5xevcPYI",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/eh7t_hmhzgxfm3_gcESZ4Arebt6qBEPuBegLhYzF-yxI4EYhLEYUUOIzOW-FizdnW3_d5r1WOw8GczE=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/eh7t_hmhzgxfm3_gcESZ4Arebt6qBEPuBegLhYzF-yxI4EYhLEYUUOIzOW-FizdnW3_d5r1WOw8GczE=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "lIlBOI, pH-1, Lee Young Ji, SURAN"
-            },
-            {
-                "title": "Such Fun",
-                "playlistId": "RDCLAK5uy_miEDbTEB2wkTklDaoV0_srC3Jqez-pTwA",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/kJ0MdAhGU_2RlQvMNPs-8GZSxv0s3crr8Tf3AI8r75EFj1fK0wskxsld6G5NQS6_yJgOe158H5pnrem7=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/kJ0MdAhGU_2RlQvMNPs-8GZSxv0s3crr8Tf3AI8r75EFj1fK0wskxsld6G5NQS6_yJgOe158H5pnrem7=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Mirkelam, MF\u00d6, Bar\u0131\u015f Man\u00e7o, Nil Karaibrahimgil"
-            },
-            {
-                "title": "Nh\u1ea1c Pop vui t\u01b0\u01a1i",
-                "playlistId": "RDCLAK5uy_k5DxhF_vXgbHHoaQ_d2hRBlY11Qgr3xpY",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/XqpYyb_Kkhvq02oRxJvzKiLrSVP3GWrcIY22oV16C-OCOdOE19HRyktLhkVo6CkYdj3Ulct4zQkify4=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/XqpYyb_Kkhvq02oRxJvzKiLrSVP3GWrcIY22oV16C-OCOdOE19HRyktLhkVo6CkYdj3Ulct4zQkify4=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Coldplay, Rachel Platten, The Script, OneRepublic"
-            },
-            {
-                "title": "Feel-good Pop Hits",
-                "playlistId": "RDCLAK5uy_kY7Uomg8uSGAGuvMIKc3HsVg_ipocKTrE",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/PiXWU8bqSkti4dEbt7LKktLiNd0ugLjUv2UC4_j5cmlosNRC5Cuas-sN8w-tLHs1Nvd9fIT72L7kVXqE=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/PiXWU8bqSkti4dEbt7LKktLiNd0ugLjUv2UC4_j5cmlosNRC5Cuas-sN8w-tLHs1Nvd9fIT72L7kVXqE=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Jason Derulo, Maroon 5, The Weeknd, Pharrell Williams"
-            },
-            {
-                "title": "Jazz Latin",
-                "playlistId": "RDCLAK5uy_lDA1IUXJfnEH78l7lLI-CcD7pwXSuAyNY",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/mbHtzEJl6o2RM8rrsWJHlNkl2FXblfmuKjT1nxII4x4xABJp_t3xRGpLOd3Z0UUICJ2zZkNFxNafFwh4=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/mbHtzEJl6o2RM8rrsWJHlNkl2FXblfmuKjT1nxII4x4xABJp_t3xRGpLOd3Z0UUICJ2zZkNFxNafFwh4=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Poncho Sanchez, Arturo Sandoval, Tito Puente, Guitarrista de Atena"
+                "url": "https://lh3.googleusercontent.com/kAWEbxrJFYC4fxojjLHaWGtd12wtinPEX5tCmsPVgQW7H8b92YI0wseYcEEjf83T87Ud4Rpe14WIxJTZ=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
             }
         ]
     },
     {
-        "title": "Bi\u1ec3u di\u1ec5n tr\u1ef1c ti\u1ebfp",
-        "contents": [
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby (c\u00f9ng v\u1edbi BISH\u00d8P v\u00e0 Bishop)",
+        "album": {
+            "name": "Lullaby",
+            "id": "MPREb_hav3huRkAgi"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "R0uWgcdEeh8",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "3:34",
+        "year": null,
+        "artists": [
             {
-                "title": "Shut Down",
-                "videoId": "NpVJidAKOqc",
-                "playlistId": null,
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/NpVJidAKOqc/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3nIheltLWZa3GmC4Egy-uqjNXJkmw",
-                        "width": 400,
-                        "height": 225
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/NpVJidAKOqc/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3mBZ2X0xP3WrR10ilWjiEXJsY1mAA",
-                        "width": 800,
-                        "height": 450
-                    }
-                ],
-                "artists": [
-                    {
-                        "name": "BLACKPINK",
-                        "id": "UCkbbMCA40i18i7UdjayMPAg"
-                    },
-                    {
-                        "name": "17\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ]
+                "name": "Chocolate Puma",
+                "id": "UCM4WBT2cY_6pBOFrN1-DDTw"
             },
             {
-                "title": "Pretty Savage",
-                "videoId": "VLpUsmBafMQ",
-                "playlistId": null,
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/VLpUsmBafMQ/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3m7ZS4LkfHhrJlLnvZbipyfsHtWxw",
-                        "width": 400,
-                        "height": 225
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/VLpUsmBafMQ/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3lv_lKA9zo_baemeym6-D4Dktnh3g",
-                        "width": 800,
-                        "height": 450
-                    }
-                ],
-                "artists": [
-                    {
-                        "name": "BLACKPINK",
-                        "id": "UCkbbMCA40i18i7UdjayMPAg"
-                    },
-                    {
-                        "name": "19\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ]
+                "name": "Firebeatz",
+                "id": "UC83KRXMahVfzXdQkG_Z2Lag"
+            }
+        ],
+        "duration_seconds": 214,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/oEE-cS-4gIl6LXRhug9_ug4awiNoJlHM4pjd_lABjmxy0uvxibto0el4uBO_hR87on4ESt8BDF4sgAE=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "\u8d77\u98ce\u4e86",
-                "videoId": "YB5iYbg-aYc",
-                "playlistId": null,
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/kPFwVu5NbTDoal3STqQi9KwdsV3db1nsx3pJmxSeWmLwIg5t8YEwukMx6JXyUc7q0rQyzVwAgh5kZoGy=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/kPFwVu5NbTDoal3STqQi9KwdsV3db1nsx3pJmxSeWmLwIg5t8YEwukMx6JXyUc7q0rQyzVwAgh5kZoGy=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "artists": [
-                    {
-                        "name": "B\u00e0i h\u00e1t",
-                        "id": null
-                    },
-                    {
-                        "name": "\u5468\u6df1",
-                        "id": "UC3xSH5DJZ0or5Tie0q0NFig"
-                    }
-                ]
-            },
-            {
-                "title": "Tu\u1ea5n H\u01b0ng \"ph\u00e1 l\u1ec7\" khi \u0111\u01b0\u1ee3c H\u00e0 Nhi m\u1eddi h\u00e1t hit kh\u1ee7ng m\u1ed9t th\u1eddi V\u1eaaN NH\u1eda | live at #Lululola",
-                "videoId": "rvBz2wLoDOI",
-                "playlistId": null,
-                "thumbnails": [
-                    {
-                        "url": "https://i.ytimg.com/vi/rvBz2wLoDOI/sddefault.jpg?sqp=-oaymwEWCJADEOEBIAQqCghqEJQEGHgg6AJIWg&rs=AMzJL3kk8b1K6V9g0CX_TI6NuThWmiOm6Q",
-                        "width": 400,
-                        "height": 225
-                    },
-                    {
-                        "url": "https://i.ytimg.com/vi/rvBz2wLoDOI/hq720.jpg?sqp=-oaymwEXCKAGEMIDIAQqCwjVARCqCBh4INgESFo&rs=AMzJL3mPVOW4xzXHb1f-2ZAlT91_-f8BZQ",
-                        "width": 800,
-                        "height": 450
-                    }
-                ],
-                "artists": [
-                    {
-                        "name": "Lululola Show",
-                        "id": "UCs_-IW1S83ky-jZGm1P8L2w"
-                    },
-                    {
-                        "name": "1,4\u00a0Tr l\u01b0\u1ee3t xem",
-                        "id": null
-                    }
-                ]
+                "url": "https://lh3.googleusercontent.com/oEE-cS-4gIl6LXRhug9_ug4awiNoJlHM4pjd_lABjmxy0uvxibto0el4uBO_hR87on4ESt8BDF4sgAE=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
             }
         ]
     },
     {
-        "title": "Danh s\u00e1ch ph\u00e1t pop",
-        "contents": [
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "BAD!",
+        "album": {
+            "name": "BAD!",
+            "id": "MPREb_wb59H9BQABO"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "uwNbDMlVLvQ",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:54",
+        "year": null,
+        "artists": [
             {
-                "title": "Nh\u1ea1c acoustic \u00eam d\u1ecbu v\u01b0\u1ee3t th\u1eddi gian",
-                "playlistId": "RDCLAK5uy_kluqSMlnog1GDp3fK-kzf787f9DMW8LB0",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/t9xcLjNlSeEJMQKHLC4r8ToQACpGuX2Rocmd-V4bLefZ9ltYzzgNtOrYjigjprXGZwDqTz17k5V4zl4=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/t9xcLjNlSeEJMQKHLC4r8ToQACpGuX2Rocmd-V4bLefZ9ltYzzgNtOrYjigjprXGZwDqTz17k5V4zl4=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "The Beatles, Bob Dylan, Ed Sheeran, The Rolling Stones"
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
+            }
+        ],
+        "duration_seconds": 174,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/uRNDtyXvTEGoTix7lD_2bA06bkVYcxqh3ZIIb5Ol2viLqnK8lMZ0mxMvIep1tndakCZIp8aSB2evMjuy=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "Acoustic cover t\u00ecnh ca",
-                "playlistId": "RDCLAK5uy_km8j1Msn0n8FTLRIw0krI9k2sf-t1Z4hg",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/bAruCGgTx2EpS3FiaWuR95GwFjZH3ofkuJ3mE-rgMUCW7whGPIfPWyzQbVlujVFcXVlqrklz666KVB0=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/bAruCGgTx2EpS3FiaWuR95GwFjZH3ofkuJ3mE-rgMUCW7whGPIfPWyzQbVlujVFcXVlqrklz666KVB0=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Boyce Avenue, Ryan Adams, Birdy, Sleeping At Last"
-            },
-            {
-                "title": "Hit th\u1eadp ni\u00ean 2000",
-                "playlistId": "RDCLAK5uy_mVQsicmiGWIirrcMMQO4g7QL3BQKuKCSM",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/ZTCZsbApLibPgOcSoA2_373I-DnNwyeLlahtEt9GnW7otA8HC3JOVVEKER0Dhl8XAwVrjGjxr_NGOQA7=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/ZTCZsbApLibPgOcSoA2_373I-DnNwyeLlahtEt9GnW7otA8HC3JOVVEKER0Dhl8XAwVrjGjxr_NGOQA7=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Rihanna, Shakira, Adele, The Ting Tings"
-            },
-            {
-                "title": "Nh\u1ea1c Pop kinh \u0111i\u1ec3n ng\u1ecdt ng\u00e0o",
-                "playlistId": "RDCLAK5uy_nDL8KeBrUagwyISwNmyEiSfYgz1gVCesg",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/XyREm3Y-HafFR_mxyJF99Pd9zerLQiJ0q62_XEnzPK2g30m_V04iVdzAwyP1T9-_3ruclUASulQFjSY=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/XyREm3Y-HafFR_mxyJF99Pd9zerLQiJ0q62_XEnzPK2g30m_V04iVdzAwyP1T9-_3ruclUASulQFjSY=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Coldplay, OneRepublic, Avril Lavigne, Ed Sheeran"
-            },
-            {
-                "title": "Pop \u0111\u1ec9nh cao",
-                "playlistId": "RDCLAK5uy_lb6CVU6S4uVugLVNTU9WhqfaomWAgnho4",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/BJQlF3li_vQMpYuC7JKQan3Qehp4OxW9tBRf1Ik7C5fX4J8boxXZRhJn5ubf3jxGA8UFUHEhnrODPQ=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/BJQlF3li_vQMpYuC7JKQan3Qehp4OxW9tBRf1Ik7C5fX4J8boxXZRhJn5ubf3jxGA8UFUHEhnrODPQ=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Little Mix, Dua Lipa, Clean Bandit, Sia"
-            },
-            {
-                "title": "Pop Certified",
-                "playlistId": "RDCLAK5uy_lBNUteBRencHzKelu5iDHwLF6mYqjL-JU",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/iMegY2OQtDD0TfOPgClLE79qJHseGLbND0ze0RRke-rD7jmCkcOkIiVcHVZEx6A4n7ZO097KXvpyD19d=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/iMegY2OQtDD0TfOPgClLE79qJHseGLbND0ze0RRke-rD7jmCkcOkIiVcHVZEx6A4n7ZO097KXvpyD19d=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Ed Sheeran, Taylor Swift, Kim Petras, Miley Cyrus"
-            },
-            {
-                "title": "Nh\u1eefng b\u1ea3n nh\u1ea1c Pop s\u00f4i \u0111\u1ed9ng, \u0111\u00ecnh \u0111\u00e1m",
-                "playlistId": "RDCLAK5uy_m2516Cz955UxQM4DgjKPrKeGwAcQ6wj3Q",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/buE5Skhz-QQ14LIFJia9n_ZynF6KMDR2svqiG3pPVRNnn_JL210YrTMhzUNUyLOG7Ctoi5dUC9cbQd0=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/buE5Skhz-QQ14LIFJia9n_ZynF6KMDR2svqiG3pPVRNnn_JL210YrTMhzUNUyLOG7Ctoi5dUC9cbQd0=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Little Mix, Bruno Mars, Fifth Harmony, Jason Derulo"
-            },
-            {
-                "title": "Feel-good Pop Hits",
-                "playlistId": "RDCLAK5uy_kY7Uomg8uSGAGuvMIKc3HsVg_ipocKTrE",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/PiXWU8bqSkti4dEbt7LKktLiNd0ugLjUv2UC4_j5cmlosNRC5Cuas-sN8w-tLHs1Nvd9fIT72L7kVXqE=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/PiXWU8bqSkti4dEbt7LKktLiNd0ugLjUv2UC4_j5cmlosNRC5Cuas-sN8w-tLHs1Nvd9fIT72L7kVXqE=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Jason Derulo, Maroon 5, The Weeknd, Pharrell Williams"
+                "url": "https://lh3.googleusercontent.com/uRNDtyXvTEGoTix7lD_2bA06bkVYcxqh3ZIIb5Ol2viLqnK8lMZ0mxMvIep1tndakCZIp8aSB2evMjuy=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
             }
         ]
     },
     {
-        "title": "Nh\u1ea1c ti\u1ec7c t\u00f9ng",
-        "contents": [
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby (Dance Mix)",
+        "album": {
+            "name": "Lullaby",
+            "id": "MPREb_7BkkmA7PROV"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "xZQJE73ljKY",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "4:51",
+        "year": null,
+        "artists": [
             {
-                "title": "Pop th\u1eadp ni\u00ean 80",
-                "playlistId": "RDCLAK5uy_k1Wu8QbZASiGVqr1wmie9NIYo38aBqscQ",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/ooRTmgMhDAYuCGBBqH7O5fz3ahd3gE3DaTJFrIHAI05Phnc01lwus73BK7OG5pUvNMrBuVBV_Aeh9g=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/ooRTmgMhDAYuCGBBqH7O5fz3ahd3gE3DaTJFrIHAI05Phnc01lwus73BK7OG5pUvNMrBuVBV_Aeh9g=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Prince, Michael Jackson, George Michael, Madonna"
+                "name": "Shayne Mulkin",
+                "id": null
+            }
+        ],
+        "duration_seconds": 291,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/wg7pXMQNSUd0_AylJWjWv_FEB3Sag3d2uDgG1e92Af6WTpugvpEIcQ3txrrfsKjp45GNrSvVeNE_qSVk=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "Nh\u1ea1c dance party Mandopop",
-                "playlistId": "RDCLAK5uy_lLKgIq0wXa-0Bo3gxebeQUwEBS3DtXjPg",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/3gYygrbvCtouPa9sKb95tiMYO0kpxhuOV_W8IdE02EoWFqObXdkGJ63u7EgqiZ1kXpswebFLr9mNkw=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/3gYygrbvCtouPa9sKb95tiMYO0kpxhuOV_W8IdE02EoWFqObXdkGJ63u7EgqiZ1kXpswebFLr9mNkw=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Nine One One, NICKTHEREAL, Jay Chou, Jolin Tsai"
-            },
-            {
-                "title": "Nh\u1ea1c Hip-Hop \u0111\u00ecnh \u0111\u00e1m cho bu\u1ed5i ti\u1ec7c t\u00f9ng",
-                "playlistId": "RDCLAK5uy_kP2172rQNb3KFXz880xp6M98R_ME5CIKA",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/QbaOnF8DHmwx70wCX4E3e8QcmkZNaO91jkIqz1U-UcW_PFYzA2419D7icVlUZRrWwsDqxAal_RzCOg=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/QbaOnF8DHmwx70wCX4E3e8QcmkZNaO91jkIqz1U-UcW_PFYzA2419D7icVlUZRrWwsDqxAal_RzCOg=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Dr. Dre, The Notorious B.I.G., Eminem, Snoop Dogg"
-            },
-            {
-                "title": "Dance th\u1eadp ni\u00ean 90",
-                "playlistId": "RDCLAK5uy_ltlS29HmNHZb3oCsEjfXmZhIGaWpaDZck",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/kQo7SylRaAIm1Q87VQ9RBRew9dg5N5TCtsSalGNlgridCtKqxVp_wUBTkSsgzu83p2O1zMGfOuYZKwOG=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/kQo7SylRaAIm1Q87VQ9RBRew9dg5N5TCtsSalGNlgridCtKqxVp_wUBTkSsgzu83p2O1zMGfOuYZKwOG=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "The Chemical Brothers, Dr. Alban, The Outhere Brothers, Fatboy Slim"
-            },
-            {
-                "title": "Nh\u1ea1c ti\u1ec7c Naija c\u1ed5 \u0111i\u1ec3n",
-                "playlistId": "RDCLAK5uy_lCiFjt1A8f1yPN5XBWJtKuLZrguFE08xU",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/rfCeAa9FDrWXGoBP1d3bXt_Yp8a6KlGf1P2w9BHawj3jV-PGEpF8bNiEvER_Ha5peeIjVyWnkzJTdEA=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/rfCeAa9FDrWXGoBP1d3bXt_Yp8a6KlGf1P2w9BHawj3jV-PGEpF8bNiEvER_Ha5peeIjVyWnkzJTdEA=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "P-Square, Mo Hits All Stars, 2Baba, D'banj"
-            },
-            {
-                "title": "Afrobeats Party",
-                "playlistId": "RDCLAK5uy_nEnpCM6rHJYEPKumrMpR8HJaRCww_vr5U",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/wzRKj-eWiqsDG1abrKLh1CYN3Nq8kSeP5Yp3YgVchhHpQUkiY6LVxAMHHDmW2YSPHUgf6MizIjuj9xw=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/wzRKj-eWiqsDG1abrKLh1CYN3Nq8kSeP5Yp3YgVchhHpQUkiY6LVxAMHHDmW2YSPHUgf6MizIjuj9xw=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Davido, Asake, Tiwa Savage, Kizz Daniel"
-            },
-            {
-                "title": "Nh\u1ea1c nh\u1ea3y dabkeh",
-                "playlistId": "RDCLAK5uy_ktbe4Tsk60yxKW5C6M3_N5pMwftU8ZsAg",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/AwNu3zV5P7nfpCdDHSpgh88SgSdZZZgzNSYxR5qf1zUKYFfNEtAnM94PQslLhQ-bqJ1ZFPBQoyhJEQ=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/AwNu3zV5P7nfpCdDHSpgh88SgSdZZZgzNSYxR5qf1zUKYFfNEtAnM94PQslLhQ-bqJ1ZFPBQoyhJEQ=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Melhem Zein, Fares Karam, Najwa Karam, Hussein Al Deek"
-            },
-            {
-                "title": "Nh\u1ea1c ti\u1ec7c phong c\u00e1ch \u1ea2 R\u1eadp",
-                "playlistId": "RDCLAK5uy_nZ-kEsmlcJGdCIYuPv4miPsFUf5uFK2v8",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/zDm7rrUet1VZ-pqua3U1ET5pzRK_kcMqHOTfD7IeAku_ub3N1MHGtVoFUXFeLIXvo9erXdf_MrsTHA=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/zDm7rrUet1VZ-pqua3U1ET5pzRK_kcMqHOTfD7IeAku_ub3N1MHGtVoFUXFeLIXvo9erXdf_MrsTHA=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Mohamed Ramadan, Nancy Ajram, Mohamed Hamaki, Sherine"
-            },
-            {
-                "title": "Nh\u1ea1c \u0111\u1ec9nh cao th\u1eadp ni\u00ean 2000",
-                "playlistId": "RDCLAK5uy_lm8KUIhp8pW4nMyNBWLpTq1UsKdXgfQo4",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/WD4OYkflNtoe6P2rYSWEgKKwj2TSXQcu6yCu01hwvXNYPYSpASd4QF3WWJR44akvDvdxKKVj9Nhnk_Nk=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/WD4OYkflNtoe6P2rYSWEgKKwj2TSXQcu6yCu01hwvXNYPYSpASd4QF3WWJR44akvDvdxKKVj9Nhnk_Nk=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Rihanna, Beyonc\u00e9, Natasha Bedingfield, Shakira"
+                "url": "https://lh3.googleusercontent.com/wg7pXMQNSUd0_AylJWjWv_FEB3Sag3d2uDgG1e92Af6WTpugvpEIcQ3txrrfsKjp45GNrSvVeNE_qSVk=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
             }
         ]
     },
     {
-        "title": "Danh s\u00e1ch ph\u00e1t soul",
-        "contents": [
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Runaway",
+        "album": {
+            "name": "Runaway",
+            "id": "MPREb_yOgvrJpK9E3"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "IhcglXrE1Eo",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:49",
+        "year": null,
+        "artists": [
             {
-                "title": "Nh\u1ea1c Soul hi\u1ec7n \u0111\u1ea1i d\u1ec5 nghe",
-                "playlistId": "RDCLAK5uy_kqQ1zj3L4fZK6ye75srlXMLYXdh2jMFPQ",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/NEbM6_71W14Fj09GQRQQ7donpcZ1VljnrNSmieRje_UKyIq91HiimtffL0py9LelDdf8o8rOv05qqCI=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/NEbM6_71W14Fj09GQRQQ7donpcZ1VljnrNSmieRje_UKyIq91HiimtffL0py9LelDdf8o8rOv05qqCI=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Sam Smith, Amy Winehouse, John Legend, Alicia Keys"
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
             },
             {
-                "title": "Ti\u1ec7c disco t\u1ea1i Studio 54",
-                "playlistId": "RDCLAK5uy_l_A3-cqAc4YdpTHxLCpPV9YewV6y3_Ww8",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/pL51ec54yU1T4LBNuwPK9bXCp9avIHS0F6OXffiXVjKZPwB4ZUQCiVjZUg51SkgAv3ODic-8VAPdOeI=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/pL51ec54yU1T4LBNuwPK9bXCp9avIHS0F6OXffiXVjKZPwB4ZUQCiVjZUg51SkgAv3ODic-8VAPdOeI=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Donna Summer, Chic, Bee Gees, Sister Sledge"
+                "name": "Sigala",
+                "id": "UCr3FznlH-3jNyU3fi-GMo2w"
             },
             {
-                "title": "OPM R&B Soul",
-                "playlistId": "RDCLAK5uy_kYUaBqUZxA0VpgN2xsHNUnVoLu8-JGXk8",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/X7BYMEB58JNoVXAun46GlOP9AyxrBq1f0qKzER8AaevJFk4VfVg7ntDcnLx3SsTVQ1WKf4-WDLrVato=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/X7BYMEB58JNoVXAun46GlOP9AyxrBq1f0qKzER8AaevJFk4VfVg7ntDcnLx3SsTVQ1WKf4-WDLrVato=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Arthur Nery, Jess Connelly, Kyla, Sam Concepcion"
+                "name": "JP Cooper",
+                "id": "UC6HTI9rYRvWIjyR1vU7DB3Q"
+            }
+        ],
+        "duration_seconds": 169,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/SyDNdP6S1hMmSD4JiIk0HRs1XHK5_4pe0rwXFMCieeVrNwLuUT3GN4nvLN9RWtmKd9GUS91-5Ra7OZg4=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "Ca kh\u00fac b\u1ea5t h\u1ee7",
-                "playlistId": "RDCLAK5uy_m2xlpGtaecJNSNQUH4upH_SCbRqSAUnb0",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/F4991oTwiTDL1SZEJDo-B3lfT93b-TfyFNxyp1HcEMR6Iwu7RG4veJkRcXiT_hhDEz-NAitMBsmpYifp=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/F4991oTwiTDL1SZEJDo-B3lfT93b-TfyFNxyp1HcEMR6Iwu7RG4veJkRcXiT_hhDEz-NAitMBsmpYifp=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "The Supremes, Tom Jones, Martha Reeves & The Vandellas, Stevie Wonder"
+                "url": "https://lh3.googleusercontent.com/SyDNdP6S1hMmSD4JiIk0HRs1XHK5_4pe0rwXFMCieeVrNwLuUT3GN4nvLN9RWtmKd9GUS91-5Ra7OZg4=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "How You've Been",
+        "album": {
+            "name": "The Wave",
+            "id": "MPREb_aPBeDM9lZyB"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "JicTaVanE8k",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:21",
+        "year": null,
+        "artists": [
+            {
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
+            }
+        ],
+        "duration_seconds": 141,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/EvI80go2dIxesnUGSK9fzMO2AnKqyXkVEXJQ-U4VEQnar9yPqT6MAzHU0btm_Ds6KNVAhD30U2RsnEk=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "Nh\u1ea1c Soul th\u01b0 gi\u00e3n",
-                "playlistId": "RDCLAK5uy_kSv4K98sYykBnvkZ59z1jVocVmQDigHII",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/LGrvhqQFuZh2bRGVR_emxjokabueCMGP4Ueqr_I1TNty5fSSe_sP2xL_WgAauQfGsz0jBBgWs0EgMQA=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/LGrvhqQFuZh2bRGVR_emxjokabueCMGP4Ueqr_I1TNty5fSSe_sP2xL_WgAauQfGsz0jBBgWs0EgMQA=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Aretha Franklin, Al Green, James Carr, Curtis Mayfield"
+                "url": "https://lh3.googleusercontent.com/EvI80go2dIxesnUGSK9fzMO2AnKqyXkVEXJQ-U4VEQnar9yPqT6MAzHU0btm_Ds6KNVAhD30U2RsnEk=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Whiplash",
+        "album": {
+            "name": "The Wave",
+            "id": "MPREb_aPBeDM9lZyB"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "Fqi-tsKbvTY",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "3:04",
+        "year": null,
+        "artists": [
+            {
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
+            }
+        ],
+        "duration_seconds": 184,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/EvI80go2dIxesnUGSK9fzMO2AnKqyXkVEXJQ-U4VEQnar9yPqT6MAzHU0btm_Ds6KNVAhD30U2RsnEk=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "Nh\u1ea1c Soul b\u1ea5t h\u1ee7 th\u01b0 gi\u00e3n t\u00e2m h\u1ed3n",
-                "playlistId": "RDCLAK5uy_nWhKmp6RydWp4Zpaj7CVluhNUKGxUMCTE",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/Afb2jMaHATsDSADF30FM1EWJqYFQHAvs5WTahd45Xr-nSREBsgS3D27-eu_czxbv_8W4Se3fcyucndU=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/Afb2jMaHATsDSADF30FM1EWJqYFQHAvs5WTahd45Xr-nSREBsgS3D27-eu_czxbv_8W4Se3fcyucndU=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Commodores, Al Green, Roberta Flack, Michael Jackson"
+                "url": "https://lh3.googleusercontent.com/EvI80go2dIxesnUGSK9fzMO2AnKqyXkVEXJQ-U4VEQnar9yPqT6MAzHU0btm_Ds6KNVAhD30U2RsnEk=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby (Nightcore Remix)",
+        "album": {
+            "name": "Lullaby",
+            "id": "MPREb_hbV9Tv9XK7D"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "TnnvJC86vhY",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "1:33",
+        "year": null,
+        "artists": [
+            {
+                "name": "xxxmanera",
+                "id": null
+            }
+        ],
+        "duration_seconds": 93,
+        "isExplicit": true,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/hksOi2hSVPLHWKIVdlFYnzsez7aQ2ie0ELj91mY-zh_MyBeT5oVpsw4NbOrcJZLbfvE9aTYQanNDRwKQ=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "Nh\u1ea1c Soul vui t\u01b0\u01a1i",
-                "playlistId": "RDCLAK5uy_nrG8turxyK3gPQ2RKiuwI_yAEGTXVIbrY",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/jEtqteF9WOonWrVCzJ5tCHan2_UxNrAsWNmQFZUflZVflfJk_L81XldIqnV-6JRDsPpNfjuGCrTh7H5e=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/jEtqteF9WOonWrVCzJ5tCHan2_UxNrAsWNmQFZUflZVflfJk_L81XldIqnV-6JRDsPpNfjuGCrTh7H5e=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Marvin Gaye, Martha Reeves & The Vandellas, The Temptations, The Supremes"
+                "url": "https://lh3.googleusercontent.com/hksOi2hSVPLHWKIVdlFYnzsez7aQ2ie0ELj91mY-zh_MyBeT5oVpsw4NbOrcJZLbfvE9aTYQanNDRwKQ=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Near Me (Extended Mix)",
+        "album": {
+            "name": "Near Me (Extended Mix)",
+            "id": "MPREb_MvaaWm2haKq"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "MJOUrtvBbzQ",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "3:59",
+        "year": null,
+        "artists": [
+            {
+                "name": "R3hab",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
             },
             {
-                "title": "Nh\u1ea1c Funk v\u00e0 Soul s\u00f4i n\u1ed5i",
-                "playlistId": "RDCLAK5uy_lc8w_0y80HszG3uA16WJ7g3iBg1kqa4pc",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/fkq8DHLkJmXO4EVJ8ijJgkf8m5-BAsJxy5gSdVENlxXxMMk7ZvRJcM5xEP9-zxZwbn3Rm_How0b9KGY=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/fkq8DHLkJmXO4EVJ8ijJgkf8m5-BAsJxy5gSdVENlxXxMMk7ZvRJcM5xEP9-zxZwbn3Rm_How0b9KGY=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Bill Withers, The Beginning of the End, Curtis Mayfield, Kool & The Gang"
+                "name": "BURNS",
+                "id": "UCArlJLZpJ_BC_V4KDqylY0A"
+            }
+        ],
+        "duration_seconds": 239,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/f5Wt5oVHF84laBaDn6F1ps7U1QS2FB7J1v3rSJhqent1YqxOmhlhLvIX4pl4cOGX7wc9H_lt9zH0WMg=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "H\u1ed3i sinh t\u00e2m h\u1ed3n t\u01b0\u01a1i \u0111\u1eb9p",
-                "playlistId": "RDCLAK5uy_np8ltVbJHo3CNR_wQSn9NafnugX9o9s50",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/qCFYk0jw8EtrH2iTQGl8neWlH5jjEfccsJ4rfKAHUaeWqmB4BXBcMCyldkHaHkvf9mbicSwkKaowjk00=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/qCFYk0jw8EtrH2iTQGl8neWlH5jjEfccsJ4rfKAHUaeWqmB4BXBcMCyldkHaHkvf9mbicSwkKaowjk00=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Leon Bridges, Lee Fields, Tank And The Bangas, Durand Jones & The Indications"
+                "url": "https://lh3.googleusercontent.com/f5Wt5oVHF84laBaDn6F1ps7U1QS2FB7J1v3rSJhqent1YqxOmhlhLvIX4pl4cOGX7wc9H_lt9zH0WMg=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby",
+        "album": {
+            "name": "Lullaby",
+            "id": "MPREb_hbV9Tv9XK7D"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "-1WCOExLd7k",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "1:30",
+        "year": null,
+        "artists": [
+            {
+                "name": "xxxmanera",
+                "id": null
+            }
+        ],
+        "duration_seconds": 90,
+        "isExplicit": true,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/hksOi2hSVPLHWKIVdlFYnzsez7aQ2ie0ELj91mY-zh_MyBeT5oVpsw4NbOrcJZLbfvE9aTYQanNDRwKQ=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
             },
             {
-                "title": "Nh\u1eefng ca kh\u00fac Soul \u0111\u1ec3 h\u00e1t theo",
-                "playlistId": "RDCLAK5uy_nGDY-5g7jyCekbxTiefop3LlmXZ4pUPlo",
-                "thumbnails": [
-                    {
-                        "url": "https://lh3.googleusercontent.com/UHa8ONRTvJfC7DXOok0dm1md8Gi4dLpluCAryOjq9-004zjua4-3cqO1CFp8baIc4clzzMECTPw_ew=w226-h226-l90-rj",
-                        "width": 226,
-                        "height": 226
-                    },
-                    {
-                        "url": "https://lh3.googleusercontent.com/UHa8ONRTvJfC7DXOok0dm1md8Gi4dLpluCAryOjq9-004zjua4-3cqO1CFp8baIc4clzzMECTPw_ew=w544-h544-l90-rj",
-                        "width": 544,
-                        "height": 544
-                    }
-                ],
-                "description": "Marvin Gaye, Otis Redding, Aretha Franklin, Sam Cooke"
+                "url": "https://lh3.googleusercontent.com/hksOi2hSVPLHWKIVdlFYnzsez7aQ2ie0ELj91mY-zh_MyBeT5oVpsw4NbOrcJZLbfvE9aTYQanNDRwKQ=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby",
+        "album": {
+            "name": "Lullaby",
+            "id": "MPREb_65tMboqlm5T"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "S2fUTtkL9Dg",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:59",
+        "year": null,
+        "artists": [
+            {
+                "name": "Gosu Gang",
+                "id": "UC__FaT4tnTeNPBWMt8GxlUg"
+            }
+        ],
+        "duration_seconds": 179,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/Vm9BMTx-x-uDVhoNXq20IbochBC6Nas-elRJKy6TUmK5eEkiWV2UN8vNDIuWgAsyqIHYT8hgt9g400Sw=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/Vm9BMTx-x-uDVhoNXq20IbochBC6Nas-elRJKy6TUmK5eEkiWV2UN8vNDIuWgAsyqIHYT8hgt9g400Sw=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby",
+        "album": {
+            "name": "Brain Child",
+            "id": "MPREb_aQKH1MxEmCL"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "FHnK6IBAKuk",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "1:50",
+        "year": null,
+        "artists": [
+            {
+                "name": "Mona San",
+                "id": "UC4FGqj_FF9a39UaNr-TtDUw"
+            }
+        ],
+        "duration_seconds": 110,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/Fg1gWFalGmXGHR1WHk3_CiqZ3x794cuqaIRzFsyLmnKIwIkHU1KNKO_mEsryl5W0aW_KIa9fbS8ZuSxb=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/Fg1gWFalGmXGHR1WHk3_CiqZ3x794cuqaIRzFsyLmnKIwIkHU1KNKO_mEsryl5W0aW_KIa9fbS8ZuSxb=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby (Remake Version)",
+        "album": {
+            "name": "Lullaby (Remake Version)",
+            "id": "MPREb_4opMVWIcECX"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "uzcpd1UTYu4",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "3:31",
+        "year": null,
+        "artists": [
+            {
+                "name": "Assaf Ayalon",
+                "id": "UCNkJ83FwoV7jGDfGXjsRdbg"
+            }
+        ],
+        "duration_seconds": 211,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/CBYGq2PQvMGJjRTZFNm2-iA0i6LIiicem4eOX0o2ovaoT2lrnYXAHDbrtK3Zs0SO4xB9z8K2LkxWO45I=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/CBYGq2PQvMGJjRTZFNm2-iA0i6LIiicem4eOX0o2ovaoT2lrnYXAHDbrtK3Zs0SO4xB9z8K2LkxWO45I=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Whiplash",
+        "album": {
+            "name": "The Wave",
+            "id": "MPREb_aPBeDM9lZyB"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "Fqi-tsKbvTY",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "3:04",
+        "year": null,
+        "artists": [
+            {
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
+            }
+        ],
+        "duration_seconds": 184,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/EvI80go2dIxesnUGSK9fzMO2AnKqyXkVEXJQ-U4VEQnar9yPqT6MAzHU0btm_Ds6KNVAhD30U2RsnEk=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/EvI80go2dIxesnUGSK9fzMO2AnKqyXkVEXJQ-U4VEQnar9yPqT6MAzHU0btm_Ds6KNVAhD30U2RsnEk=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Near Me (Extended Mix)",
+        "album": {
+            "name": "Near Me (Extended Mix)",
+            "id": "MPREb_MvaaWm2haKq"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "MJOUrtvBbzQ",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "3:59",
+        "year": null,
+        "artists": [
+            {
+                "name": "R3hab",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
+            },
+            {
+                "name": "BURNS",
+                "id": "UCArlJLZpJ_BC_V4KDqylY0A"
+            }
+        ],
+        "duration_seconds": 239,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/f5Wt5oVHF84laBaDn6F1ps7U1QS2FB7J1v3rSJhqent1YqxOmhlhLvIX4pl4cOGX7wc9H_lt9zH0WMg=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/f5Wt5oVHF84laBaDn6F1ps7U1QS2FB7J1v3rSJhqent1YqxOmhlhLvIX4pl4cOGX7wc9H_lt9zH0WMg=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby",
+        "album": {
+            "name": "Lullaby",
+            "id": "MPREb_hbV9Tv9XK7D"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "-1WCOExLd7k",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "1:30",
+        "year": null,
+        "artists": [
+            {
+                "name": "xxxmanera",
+                "id": null
+            }
+        ],
+        "duration_seconds": 90,
+        "isExplicit": true,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/hksOi2hSVPLHWKIVdlFYnzsez7aQ2ie0ELj91mY-zh_MyBeT5oVpsw4NbOrcJZLbfvE9aTYQanNDRwKQ=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/hksOi2hSVPLHWKIVdlFYnzsez7aQ2ie0ELj91mY-zh_MyBeT5oVpsw4NbOrcJZLbfvE9aTYQanNDRwKQ=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby",
+        "album": {
+            "name": "Lullaby",
+            "id": "MPREb_65tMboqlm5T"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "S2fUTtkL9Dg",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:59",
+        "year": null,
+        "artists": [
+            {
+                "name": "Gosu Gang",
+                "id": "UC__FaT4tnTeNPBWMt8GxlUg"
+            }
+        ],
+        "duration_seconds": 179,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/Vm9BMTx-x-uDVhoNXq20IbochBC6Nas-elRJKy6TUmK5eEkiWV2UN8vNDIuWgAsyqIHYT8hgt9g400Sw=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/Vm9BMTx-x-uDVhoNXq20IbochBC6Nas-elRJKy6TUmK5eEkiWV2UN8vNDIuWgAsyqIHYT8hgt9g400Sw=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby",
+        "album": {
+            "name": "Brain Child",
+            "id": "MPREb_aQKH1MxEmCL"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "FHnK6IBAKuk",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "1:50",
+        "year": null,
+        "artists": [
+            {
+                "name": "Mona San",
+                "id": "UC4FGqj_FF9a39UaNr-TtDUw"
+            }
+        ],
+        "duration_seconds": 110,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/Fg1gWFalGmXGHR1WHk3_CiqZ3x794cuqaIRzFsyLmnKIwIkHU1KNKO_mEsryl5W0aW_KIa9fbS8ZuSxb=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/Fg1gWFalGmXGHR1WHk3_CiqZ3x794cuqaIRzFsyLmnKIwIkHU1KNKO_mEsryl5W0aW_KIa9fbS8ZuSxb=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Flashlight",
+        "album": {
+            "name": "Flashlight",
+            "id": "MPREb_VpfUkPi1axo"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "Qa87frz7lt0",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "3:53",
+        "year": null,
+        "artists": [
+            {
+                "name": "R3hab",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
+            },
+            {
+                "name": "Deorro",
+                "id": "UC89YRh6abbGfAHln2-rGHRA"
+            }
+        ],
+        "duration_seconds": 233,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/ix8SIkz84umT0hkkL83N0pF8Vd9Pb4eZsMi4Z9bHM2uUJ3j_MpKdqoacLlFIi2sj3Img91AsonKSD_Q=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/ix8SIkz84umT0hkkL83N0pF8Vd9Pb4eZsMi4Z9bHM2uUJ3j_MpKdqoacLlFIi2sj3Img91AsonKSD_Q=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby (Remake Version)",
+        "album": {
+            "name": "Lullaby (Remake Version)",
+            "id": "MPREb_4opMVWIcECX"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "uzcpd1UTYu4",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "3:31",
+        "year": null,
+        "artists": [
+            {
+                "name": "Assaf Ayalon",
+                "id": "UCNkJ83FwoV7jGDfGXjsRdbg"
+            }
+        ],
+        "duration_seconds": 211,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/CBYGq2PQvMGJjRTZFNm2-iA0i6LIiicem4eOX0o2ovaoT2lrnYXAHDbrtK3Zs0SO4xB9z8K2LkxWO45I=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/CBYGq2PQvMGJjRTZFNm2-iA0i6LIiicem4eOX0o2ovaoT2lrnYXAHDbrtK3Zs0SO4xB9z8K2LkxWO45I=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "I Luv U (R3HAB VIP Remix)",
+        "album": {
+            "name": "I Luv U (R3HAB VIP Remix)",
+            "id": "MPREb_VArYpOl5vdv"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "fdoPD2BY92g",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:54",
+        "year": null,
+        "artists": [
+            {
+                "name": "Sofia Carson",
+                "id": "UCxbXb4XdmfbYPjCH80ilOMQ"
+            },
+            {
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
+            }
+        ],
+        "duration_seconds": 174,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/3EjjlD3KgEWgl-wO6NdSNt99eiU7ztpLg-1Q4VPTCbpZpBsTKXpdS1pQu-1kPBGJEWdLcPBmS1bmEx8=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/3EjjlD3KgEWgl-wO6NdSNt99eiU7ztpLg-1Q4VPTCbpZpBsTKXpdS1pQu-1kPBGJEWdLcPBmS1bmEx8=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby",
+        "album": {
+            "name": "Lullaby",
+            "id": "MPREb_PafCpyGOQd8"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "oL5MbKnxnKs",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "4:25",
+        "year": null,
+        "artists": [
+            {
+                "name": "Chloe Florence",
+                "id": "UCHZgXpDxZcwWiuUaLOsIguQ"
+            }
+        ],
+        "duration_seconds": 265,
+        "isExplicit": true,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/7DNAJABs7I7iLw4PglDakl4Cv3i4k650Oh-lx9SCIN2_Jvt9M00n1N_vbZ_1vjktNxLe0VGDtRp0KSOPEw=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/7DNAJABs7I7iLw4PglDakl4Cv3i4k650Oh-lx9SCIN2_Jvt9M00n1N_vbZ_1vjktNxLe0VGDtRp0KSOPEw=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby",
+        "album": {
+            "name": "4 Am. Study Session",
+            "id": "MPREb_Mtf1RbrenSG"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "a5gK_D9oUlM",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:21",
+        "year": null,
+        "artists": [
+            {
+                "name": "Chiccote's Beats",
+                "id": "UCyYx4_5YO6c5-CgoIstsduA"
+            },
+            {
+                "name": "Pueblo Vista",
+                "id": "UCCbtUlsSKytdBhW0uDZoQCg"
+            }
+        ],
+        "duration_seconds": 141,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/NzxaWhyRyCev3q9BhCgU2mmZwiuz2ncmmnvg_t8svQLR507tg3OIHsKOyOBC1-6xzsN-GKYRgn6bIRBaKg=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/NzxaWhyRyCev3q9BhCgU2mmZwiuz2ncmmnvg_t8svQLR507tg3OIHsKOyOBC1-6xzsN-GKYRgn6bIRBaKg=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Thinking About You",
+        "album": {
+            "name": "Thinking About You",
+            "id": "MPREb_e7y2rLC3EnN"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "bjuiAoen8Us",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:37",
+        "year": null,
+        "artists": [
+            {
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
+            },
+            {
+                "name": "Winona Oak",
+                "id": "UC6AGdO9OtCd_f6cHjOxNVzQ"
+            }
+        ],
+        "duration_seconds": 157,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/QN964LqYb9VdbV3XmS5EvVpry3Ep0JkXM7HcmQhY5AnrrILwVht4JXG0dDDFh2iv2dFrdg2tH8314L7h=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/QN964LqYb9VdbV3XmS5EvVpry3Ep0JkXM7HcmQhY5AnrrILwVht4JXG0dDDFh2iv2dFrdg2tH8314L7h=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby (Extended Mix) (c\u00f9ng v\u1edbi BISH\u00d8P v\u00e0 Bishop)",
+        "album": {
+            "name": "Lullaby",
+            "id": "MPREb_hav3huRkAgi"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "gyNxfas9oao",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "5:09",
+        "year": null,
+        "artists": [
+            {
+                "name": "Chocolate Puma",
+                "id": "UCM4WBT2cY_6pBOFrN1-DDTw"
+            },
+            {
+                "name": "Firebeatz",
+                "id": "UC83KRXMahVfzXdQkG_Z2Lag"
+            }
+        ],
+        "duration_seconds": 309,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/oEE-cS-4gIl6LXRhug9_ug4awiNoJlHM4pjd_lABjmxy0uvxibto0el4uBO_hR87on4ESt8BDF4sgAE=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/oEE-cS-4gIl6LXRhug9_ug4awiNoJlHM4pjd_lABjmxy0uvxibto0el4uBO_hR87on4ESt8BDF4sgAE=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Ain't That Why",
+        "album": {
+            "name": "Ain't That Why",
+            "id": "MPREb_5fiU0C74qWx"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "DAxZSnKpAS4",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:40",
+        "year": null,
+        "artists": [
+            {
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
+            },
+            {
+                "name": "Krewella",
+                "id": "UCle2QnAfGyzlb71ydgBDx3A"
+            }
+        ],
+        "duration_seconds": 160,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/DLpVpGp-6fGrqAG38ia8JV76JlaSALzItwYAMYR_NschO1ZNKE4K0MBPqJ4euWDZIze6yXNjiXwXbRUMaA=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/DLpVpGp-6fGrqAG38ia8JV76JlaSALzItwYAMYR_NschO1ZNKE4K0MBPqJ4euWDZIze6yXNjiXwXbRUMaA=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby (Remix)",
+        "album": {
+            "name": "Lullaby (Remix)",
+            "id": "MPREb_BSUa4sMZfmd"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "2Suv0kc208s",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "4:15",
+        "year": null,
+        "artists": [
+            {
+                "name": "LEA",
+                "id": "UCqo8fzDWdAHxZ1C-Phow69g"
+            }
+        ],
+        "duration_seconds": 255,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/htGLmy__mmuzGwbBH9VzKvj0ZsiQmG0uWxQeVLk0KTM4nWdSDB4AcFeseMx5sN3Bjod0E-FIQh6S5bEQ=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/htGLmy__mmuzGwbBH9VzKvj0ZsiQmG0uWxQeVLk0KTM4nWdSDB4AcFeseMx5sN3Bjod0E-FIQh6S5bEQ=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "It's A Vibe (R3HAB Remix) [Peloton Edit]",
+        "album": {
+            "name": "It's A Vibe (R3HAB Remix) [Peloton Edit]",
+            "id": "MPREb_iQtkYsKesUa"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "Bz7Y9OhiXhc",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:45",
+        "year": null,
+        "artists": [
+            {
+                "name": "RIP Youth",
+                "id": "UC8_c5XUlfTBSPHIWKkgxZbA"
+            },
+            {
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
+            }
+        ],
+        "duration_seconds": 165,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/dVGqSZ6bpQ7vrC38o8J-vNgpnU9Dv6sKkmm9gMfRFpSH42eZEXQkBLf-0v2VYBrgjh4mCnS4njixXgU=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/dVGqSZ6bpQ7vrC38o8J-vNgpnU9Dv6sKkmm9gMfRFpSH42eZEXQkBLf-0v2VYBrgjh4mCnS4njixXgU=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby (c\u00f9ng v\u1edbi Liana)",
+        "album": {
+            "name": "Ruin Your Party",
+            "id": "MPREb_ytNi4x8tAa6"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "0w6YklJicZA",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "3:13",
+        "year": null,
+        "artists": [
+            {
+                "name": "Scotty Sire",
+                "id": "UCN0qyUi0yq87nsDHOMLCoIg"
+            }
+        ],
+        "duration_seconds": 193,
+        "isExplicit": true,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/KQxNNjfBt_TEH199UpJu9KaIcFVIhtVBNGwirPSu2iTrRh8CQA66m3yCbmgHzwmfx353Q4X6yTTdMEGy=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/KQxNNjfBt_TEH199UpJu9KaIcFVIhtVBNGwirPSu2iTrRh8CQA66m3yCbmgHzwmfx353Q4X6yTTdMEGy=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby",
+        "album": {
+            "name": "Lofi Night for Lonely People",
+            "id": "MPREb_arKHg882E8j"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "ODscbkkRHMY",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:39",
+        "year": null,
+        "artists": [
+            {
+                "name": "BubblesseBB",
+                "id": "UCbFD5UifJ-6WZLN5XjlGHeQ"
+            },
+            {
+                "name": "Sirstows",
+                "id": "UCpw3E50hgGk79mnV3XfYOXw"
+            }
+        ],
+        "duration_seconds": 159,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/58V8pIHFhb3UvEoU8QKDP4M0YiK1EUzYoEjF8ilphkVcH5ouaa9pV_u-y0HLVMAx2nXw9HD0YziLVCMKig=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/58V8pIHFhb3UvEoU8QKDP4M0YiK1EUzYoEjF8ilphkVcH5ouaa9pV_u-y0HLVMAx2nXw9HD0YziLVCMKig=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Back to You",
+        "album": {
+            "name": "The Wave",
+            "id": "MPREb_aPBeDM9lZyB"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "03NZf8FEfcs",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "3:21",
+        "year": null,
+        "artists": [
+            {
+                "name": "R3HAB",
+                "id": "UCjpBcfMn2g8afa3XIZmS3mw"
+            }
+        ],
+        "duration_seconds": 201,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/EvI80go2dIxesnUGSK9fzMO2AnKqyXkVEXJQ-U4VEQnar9yPqT6MAzHU0btm_Ds6KNVAhD30U2RsnEk=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/EvI80go2dIxesnUGSK9fzMO2AnKqyXkVEXJQ-U4VEQnar9yPqT6MAzHU0btm_Ds6KNVAhD30U2RsnEk=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "Lullaby (with MIA GLADSTONE)",
+        "album": {
+            "name": "Pastel Beach",
+            "id": "MPREb_JAEHFxuKu2R"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "q-FecxPjfyw",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:10",
+        "year": null,
+        "artists": [
+            {
+                "name": "Engelwood",
+                "id": "UCoX4FonlfRjWE_g681tHYxg"
+            },
+            {
+                "name": "MIA GLADSTONE",
+                "id": "UChWTDTcVZM-f_vOC45zIpew"
+            }
+        ],
+        "duration_seconds": 130,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/iHl38ZWADiOLpuDxXLGQp6MrnCBsFV3ld0Qrbr5EvUiUG59r7TD8teamJburJcsZlcmn10Uf5W8y-3Wi=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/iHl38ZWADiOLpuDxXLGQp6MrnCBsFV3ld0Qrbr5EvUiUG59r7TD8teamJburJcsZlcmn10Uf5W8y-3Wi=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
+            }
+        ]
+    },
+    {
+        "category": "B\u00e0i h\u00e1t",
+        "resultType": "song",
+        "title": "LULLABY",
+        "album": {
+            "name": "LULLABY",
+            "id": "MPREb_na1arO9mYT5"
+        },
+        "feedbackTokens": {
+            "add": null,
+            "remove": null
+        },
+        "videoId": "Y-62Z6nDTuU",
+        "videoType": "MUSIC_VIDEO_TYPE_ATV",
+        "duration": "2:29",
+        "year": null,
+        "artists": [
+            {
+                "name": "CROSSFIT WORKOUT",
+                "id": "UCW_lf8Qzd217NPYX19Wy6wA"
+            }
+        ],
+        "duration_seconds": 149,
+        "isExplicit": false,
+        "thumbnails": [
+            {
+                "url": "https://lh3.googleusercontent.com/xoxHYGouQDxyXDbwsv5XhHamNDNUewCLrWMDH4iUdEkgsvfxK4loE6KPgL-Scpg5nTgRlOtmmSgMRadk=w60-h60-l90-rj",
+                "width": 60,
+                "height": 60
+            },
+            {
+                "url": "https://lh3.googleusercontent.com/xoxHYGouQDxyXDbwsv5XhHamNDNUewCLrWMDH4iUdEkgsvfxK4loE6KPgL-Scpg5nTgRlOtmmSgMRadk=w120-h120-l90-rj",
+                "width": 120,
+                "height": 120
             }
         ]
     }

@@ -104,10 +104,10 @@ class YTMusic(BrowsingMixin, SearchMixin, WatchMixin, ExploreMixin, LibraryMixin
         # except locale.Error:
         #     with suppress(locale.Error):
         #         locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
-
-        # locale_dir = os.path.abspath(os.path.dirname(__file__)) + os.sep + 'locales'
-        # self.lang = gettext.translation('base', localedir=locale_dir, languages=[language])
-        # self.parser = Parser(self.lang)
+        locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
+        locale_dir = os.path.abspath(os.path.dirname(__file__)) + os.sep + 'locales'
+        self.lang = gettext.translation('base', localedir=locale_dir, languages=['en_US.UTF-8'])
+        self.parser = Parser(self.lang)
 
         if user:
             self.context['context']['user']['onBehalfOfUser'] = user

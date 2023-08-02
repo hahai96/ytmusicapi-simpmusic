@@ -2,3 +2,5 @@ test.py
 test.json
 check_metadata.py
 a.txt
+.vscode
+.vscode/settings.json
